@@ -1,0 +1,5754 @@
+{
+    "": {
+        "domain": "jupyterlab",
+        "language": "ach-UG",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "jupyterlab"
+    },
+    "\nConnected: %1": [
+        "\nمتصل شده: %1"
+    ],
+    "\nCreated: %1": [
+        "\nایجاد شده: %1"
+    ],
+    "\nLast Execution: %1": [
+        "\nآخرین اجرا: %1"
+    ],
+    "\nModified: %1": [
+        "\nآخرین ویرایش: %1"
+    ],
+    "\nPath: %1": [
+        "\nنشانی: %1"
+    ],
+    "\nSize: %1": [
+        "\nاندازه: %1"
+    ],
+    "\nWritable: %1": [
+        "\nتغییرپذیری: %1"
+    ],
+    " and ": [
+        " و "
+    ],
+    "\"%1\" already exists, overwrite?": [
+        "crwdns11837:0%1crwdne11837:0"
+    ],
+    "\"%1\" already exists. Do you want to replace it?": [
+        "crwdns11883:0%1crwdne11883:0"
+    ],
+    "\"%1\" has changed on disk since the last time it was opened or saved.\nDo you want to overwrite the file on disk with the version open here,\nor load the version on disk (revert)?": [
+        "«%1» از آخرین باری که باز یا ذخیره شده است، بر روی دیسک تغییر کرده است.\nآیا می‌خواهید پرونده روی دیسک را با نسخه‌ای که اینجا باز است، بازنویسی کنید، یا این نسخه را روی دیسک بارگذاری کنید (برگردانید)؟"
+    ],
+    "\"%1\" is not a valid name for a file. Names must have nonzero length, and cannot include \"/\", \"\\\", or \":\"": [
+        "crwdns11849:0%1crwdne11849:0"
+    ],
+    "%1\nKernel: %2": [
+        "%1\nهسته: %2"
+    ],
+    "%1\nPath: %2": [
+        "%1\nنشانی: %2"
+    ],
+    "%1 (%2)": [
+        "%1 (%2)"
+    ],
+    "%1 Item": [
+        "%1 بخش",
+        "crwdns12143:5%1crwdne12143:5"
+    ],
+    "%1 Manager": [
+        "مدیریت %1"
+    ],
+    "%1 Terminals, %2 Kernel sessions": [
+        "نشست‌ها: %1 ترمینال، %2 هسته"
+    ],
+    "%1 and %2": [
+        "%1 و %2"
+    ],
+    "%1 and %2 more": [
+        "%1 و %2 بیشتر"
+    ],
+    "%1 cell hidden": [
+        "%1 یاخته پنهان",
+        "crwdns14965:5%1crwdne14965:5"
+    ],
+    "%1 extension home page": [
+        "crwdns15439:0%1crwdne15439:0"
+    ],
+    "%1 extension is not allowed anymore. Please uninstall it immediately or contact your administrator.": [
+        "crwdns15443:0%1crwdne15443:0"
+    ],
+    "%1 is no longer valid and will be removed from the list": [
+        "crwdns16980:0%1crwdne16980:0"
+    ],
+    "%1 is permissioned as read-only. Use \"save as...\" instead.": [
+        "crwdns16784:0%1crwdne16784:0"
+    ],
+    "%1 is read-only": [
+        "%1 تنها خواندنی است."
+    ],
+    "%1 is read-only. Use \"Save as\u2026\" instead.": [
+        "%1 تنها خواندنی است. به جای آن «ذخیره در\u2026» را به کار گیرید."
+    ],
+    "%1 log entries for %2": [
+        "crwdns12381:0%1crwdnd12381:0%2crwdne12381:0"
+    ],
+    "%1 new messages, %2 log entries for %3": [
+        "crwdns12379:0%1crwdnd12379:0%2crwdnd12379:0%3crwdne12379:0"
+    ],
+    "%1 notification": [
+        "%1 اعلان",
+        "crwdns14625:5%1crwdne14625:5"
+    ],
+    "%1 provider": [
+        "خدمات دهنده %1"
+    ],
+    "%1 toolbar": [
+        "نوار ابزارها %1"
+    ],
+    "%1 workspace with %2 tabs, last modified on %3": [
+        "crwdns17128:0%1crwdnd17128:0%2crwdnd17128:0%3crwdne17128:0"
+    ],
+    "%1-clone": [
+        "%1-clone"
+    ],
+    "%1/%2": [
+        "%1/%2"
+    ],
+    "(Command label missing)": [
+        "crwdns17032:0crwdne17032:0"
+    ],
+    "A connection to the Jupyter server could not be established.\nJupyterLab will continue trying to reconnect.\nCheck your network connection or Jupyter server configuration.\n": [
+        "ارتباط با سرور Jupyter نمی‌تواند محرز شود.\nآزمایشگاه Jupyter تلاش می‌کند تا مجددا متصل شود. \nارتباط خود با شبکه یا پیکربندی سرور Jupyter خود را بررسی کنید.\n"
+    ],
+    "A trusted Jupyter notebook may execute hidden malicious code when you open it.": [
+        "crwdns12667:0crwdne12667:0"
+    ],
+    "ABOUT PROJECT JUPYTER": [
+        "درباره طرح JUPYTER"
+    ],
+    "APL": [
+        "APL"
+    ],
+    "ASN.1": [
+        "ASN.1"
+    ],
+    "About %1": [
+        "درباره %1"
+    ],
+    "About the %1 Kernel": [
+        "درباره هسته %1"
+    ],
+    "Accept": [
+        "پذیرفتن"
+    ],
+    "Accept Inline Completion": [
+        "پذیرفتن تکمیل درون‌خطی"
+    ],
+    "Access Next Kernel History Entry": [
+        "دسترسی به مدخل تاریخچه هسته بعدی"
+    ],
+    "Access Previous Kernel History Entry": [
+        "دسترسی به مدخل تاریخچه هسته قبلی"
+    ],
+    "Action disabled as the file is not trusted.": [
+        "crwdns16189:0crwdne16189:0"
+    ],
+    "Activate Command Palette": [
+        "فعال کردن نوار فرمان"
+    ],
+    "Activate Next Tab": [
+        "فعال کردن زبانه بعدی"
+    ],
+    "Activate Next Tab Bar": [
+        "فعال کردن نوار ربانه بعدی"
+    ],
+    "Activate Previous Tab": [
+        "فعال کردن زبانه قبلی"
+    ],
+    "Activate Previous Tab Bar": [
+        "فعال کردن نوار زبانه قبلی"
+    ],
+    "Activate Previously Used Tab": [
+        "فعال کردن زبانه استفاده شده قبلی"
+    ],
+    "Activate a widget by its `id`.": [
+        "crwdns15529:0crwdne15529:0"
+    ],
+    "Active cell trusted: %1 of %2 code cells trusted.": [
+        "crwdns15871:0%1crwdnd15871:0%2crwdne15871:0"
+    ],
+    "Add": [
+        "افزودن"
+    ],
+    "Add Checkpoint": [
+        "crwdns12363:0crwdne12363:0"
+    ],
+    "Add Keybinding": [
+        "crwdns17046:0crwdne17046:0"
+    ],
+    "Add Tag": [
+        "افزودن برچسب"
+    ],
+    "Add another shortcut": [
+        "crwdns12853:0crwdne12853:0"
+    ],
+    "Add new keybinding for existing shortcut target": [
+        "crwdns17048:0crwdne17048:0"
+    ],
+    "Add new shortcut": [
+        "افزودن میانبر جدید"
+    ],
+    "Add property": [
+        "افزودن خاصیت"
+    ],
+    "Add server": [
+        "افزودن سرور"
+    ],
+    "Advanced Plugin Manager": [
+        "مدیر پیشرفته افزونه"
+    ],
+    "Advanced Settings Editor": [
+        "ویرایشگر پیشرفته تنظیمات"
+    ],
+    "After changing the interface language to %1, you will need to reload JupyterLab to see the changes.": [
+        "بعد از تغییر زبان برنامه به %1، شما نیاز خواهید داشت که آزمایشگاه Jupyter را برای دیدن تغییرات تازه‌سازی کنید."
+    ],
+    "Always start the preferred kernel": [
+        "همیشه با هسته انتخابی من شروع کن."
+    ],
+    "Any errors will be listed here": [
+        "crwdns12811:0crwdne12811:0"
+    ],
+    "Are you sure that you want to run arbitrary Javascript within your JupyterLab session?": [
+        "crwdns12349:0crwdne12349:0"
+    ],
+    "Are you sure you want to clear recently closed tabs?": [
+        "آیا شما تایید می‌کنید که می‌خواهید برگه‌های اخیرا بسته شده را ببندید؟"
+    ],
+    "Are you sure you want to close \"%1\"?": [
+        "crwdns11633:0%1crwdne11633:0"
+    ],
+    "Are you sure you want to close all open tabs?": [
+        "crwdns12771:0crwdne12771:0"
+    ],
+    "Are you sure you want to delete %1": [
+        "crwdns11831:0%1crwdne11831:0"
+    ],
+    "Are you sure you want to delete all workspaces? Deleted workspaces cannot be recovered.": [
+        "crwdns17126:0crwdne17126:0"
+    ],
+    "Are you sure you want to exit JupyterLab?\n\nAny unsaved changes will be lost.": [
+        "crwdns11417:0crwdne11417:0"
+    ],
+    "Are you sure you want to move to trash the %1 selected item?": [
+        "crwdns29459:1%1crwdne29459:1",
+        "crwdns29459:5%1crwdne29459:5"
+    ],
+    "Are you sure you want to move to trash: %1?": [
+        "آیا شما می‌خواهید که این پرونده را به زباله‌دان منتقل کنید: %1؟"
+    ],
+    "Are you sure you want to permanently delete the %1 selected item?": [
+        "crwdns12149:1%1crwdne12149:1",
+        "crwdns12149:5%1crwdne12149:5"
+    ],
+    "Are you sure you want to permanently delete: %1?": [
+        "crwdns12147:0%1crwdne12147:0"
+    ],
+    "Are you sure you want to permanently shut down all running kernels?": [
+        "crwdns12763:0crwdne12763:0"
+    ],
+    "Are you sure you want to permanently shut down all running language servers?": [
+        "crwdns15513:0crwdne15513:0"
+    ],
+    "Are you sure you want to permanently shut down all running terminals?": [
+        "آیا شما تایید می‌کنید که می‌خواهید برای همیشه همه ترمینال‌های درحال اجرا را خاموش کنید؟"
+    ],
+    "Are you sure you want to permanently shut down the running kernel?": [
+        "آیا شما تایید می‌کنید که می‌خواهید برای همیشه هسته‌های درحال اجرا را خاموش کنید؟",
+        "آیا شما تایید می‌کنید که می‌خواهید برای همیشه %1 هسته درحال اجرا را خاموش کنید؟"
+    ],
+    "Are you sure you want to reload the %1 from the disk?": [
+        "crwdns11783:0%1crwdne11783:0"
+    ],
+    "Are you sure you want to remove all breakpoints?": [
+        "crwdns11717:0crwdne11717:0"
+    ],
+    "Are you sure you want to revert the %1 to checkpoint? ": [
+        "آیا شما تایید می‌کنید که می‌خواهید %1 را به حالت قبل بازگردانید؟ "
+    ],
+    "Are you sure you want to shut down the following unused kernels?": [
+        "آیا شما تایید می‌کنید که می‌خواهید که هسته‌های مدتی غیر فعال را خاموش کنید؟"
+    ],
+    "Asterisk": [
+        "Asterisk"
+    ],
+    "Auto Close Brackets": [
+        "بستن خودکار کمانک‌ها"
+    ],
+    "Auto Close Brackets for All Notebook Cell Types": [
+        "بستن خودکار کمانک‌ها برای همه نوع یاخته‌های دفتر یادداشت"
+    ],
+    "Auto Close Brackets for Code Console Prompt": [
+        "بستن خودکار کمانک‌ها برای دستور کنسول کد"
+    ],
+    "Auto Close Brackets in Text Editor": [
+        "بستن خودکار کمانک‌ها در ویرایشگر متن"
+    ],
+    "Auto Closing Brackets": [
+        "بستن خودکار کمانک‌ها"
+    ],
+    "Autorestarting": [
+        "crwdns11519:0crwdne11519:0"
+    ],
+    "Autosave Documents": [
+        "ذخیره خودکار اسناد"
+    ],
+    "Autostart?": [
+        "آغاز خودکار؟"
+    ],
+    "Bottom Panel": [
+        "crwdns29335:0crwdne29335:0"
+    ],
+    "Brainfuck": [
+        "crwdns15251:0crwdne15251:0"
+    ],
+    "Breakpoints": [
+        "نقاط جدایی"
+    ],
+    "Breakpoints panel toolbar": [
+        "crwdns29437:0crwdne29437:0"
+    ],
+    "Build": [
+        "crwdns11415:0crwdne11415:0"
+    ],
+    "Build Complete": [
+        "crwdns11397:0crwdne11397:0"
+    ],
+    "Build Failed": [
+        "crwdns11409:0crwdne11409:0"
+    ],
+    "Build Recommended": [
+        "crwdns11413:0crwdne11413:0"
+    ],
+    "Build successfully completed, reload page?": [
+        "crwdns11399:0crwdne11399:0"
+    ],
+    "Busy": [
+        "اشغال"
+    ],
+    "C": [
+        "C"
+    ],
+    "C#": [
+        "C#"
+    ],
+    "C++": [
+        "C++"
+    ],
+    "CMake": [
+        "CMake"
+    ],
+    "CONTRIBUTOR LIST": [
+        "فهرست توسعه‌دهندگان"
+    ],
+    "CQL": [
+        "CQL"
+    ],
+    "CSS": [
+        "CSS"
+    ],
+    "CSV File": [
+        "پرونده CSV"
+    ],
+    "CSV Viewer": [
+        "نمایشگر CSV"
+    ],
+    "Callstack": [
+        "Callstack"
+    ],
+    "Callstack panel toolbar": [
+        "crwdns29439:0crwdne29439:0"
+    ],
+    "Cancel": [
+        "لغو"
+    ],
+    "Cancel Kernel Restart": [
+        "لغو راه‌اندازی مجدد هسته"
+    ],
+    "Cancel console Shut Down": [
+        "لغو خاموش کردن کنسول"
+    ],
+    "Cannot Download": [
+        "نمی‌تواند بارگیری شود"
+    ],
+    "Cannot Reload": [
+        "نمی‌تواند تازه‌سازی شود"
+    ],
+    "Cannot Revert": [
+        "crwdns11789:0crwdne11789:0"
+    ],
+    "Cannot Save": [
+        "نمی‌تواند ذخیره شود"
+    ],
+    "Cannot fetch": [
+        "crwdns12077:0crwdne12077:0"
+    ],
+    "Cannot open": [
+        "نمی‌تواند باز شود"
+    ],
+    "Cannot upload file (>%1 MB). %2": [
+        "نمی‌توان پرونده را بارگذاری کرد (%1 MB). %2"
+    ],
+    "Category": [
+        "برچسب"
+    ],
+    "Cell is read-only": [
+        "crwdns29296:0crwdne29296:0"
+    ],
+    "Cell not executed due to pending input": [
+        "crwdns12685:0crwdne12685:0"
+    ],
+    "Cell toolbar": [
+        "crwdns29423:0crwdne29423:0"
+    ],
+    "Cell type": [
+        "crwdns12689:0crwdne12689:0"
+    ],
+    "Cell type not changed due to pending input": [
+        "crwdns16994:0crwdne16994:0"
+    ],
+    "Change Console Prompt Position": [
+        "تغییر مکان دستور کنسول"
+    ],
+    "Change Kernel\u2026": [
+        "تغییر هسته\u2026"
+    ],
+    "Change and reload": [
+        "تغییر و تازه‌سازی"
+    ],
+    "Change editor language.": [
+        "تغییر زبان ویرایشگر."
+    ],
+    "Change interface language to %1": [
+        "تغییر زبان به %1"
+    ],
+    "Change interface language?": [
+        "مایل به تغییر زبان هستید؟"
+    ],
+    "Change kernel for %1": [
+        "تغییر هسته برای %1"
+    ],
+    "Change match brackets for the current file.": [
+        "crwdns15481:0crwdne15481:0"
+    ],
+    "Change text editor syntax highlighting": [
+        "crwdns11605:0crwdne11605:0"
+    ],
+    "Change the indentation\u2026": [
+        "crwdns15497:0crwdne15497:0"
+    ],
+    "Change to Code Cell Type": [
+        "تغییر نوع هسته به کد"
+    ],
+    "Change to Heading 1": [
+        "تغییر به سربرگ 1 (h1)"
+    ],
+    "Change to Heading 2": [
+        "تغییر به سربرگ 2 (h2)"
+    ],
+    "Change to Heading 3": [
+        "تغییر به سربرگ 3 (h3)"
+    ],
+    "Change to Heading 4": [
+        "تغییر به سربرگ 4 (h4)"
+    ],
+    "Change to Heading 5": [
+        "تغییر به سربرگ 5 (h5)"
+    ],
+    "Change to Heading 6": [
+        "تغییر به سربرگ 6 (h6)"
+    ],
+    "Change to Markdown Cell Type": [
+        "تغییر نوع هسته به Markdown"
+    ],
+    "Change to Raw Cell Type": [
+        "تغییر نوع هسته به خام"
+    ],
+    "Choose": [
+        "انتخاب"
+    ],
+    "Choose Workspace Export Directory": [
+        "crwdns17116:0crwdne17116:0"
+    ],
+    "Choose Workspace To Clone": [
+        "انتخاب فضای کاری برای مشابه سازی"
+    ],
+    "Choose Workspace To Delete": [
+        "انتخاب فضای کاری برای حذف"
+    ],
+    "Choose Workspace To Export": [
+        "انتخاب فضای کاری برای برون بری"
+    ],
+    "Choose Workspace To Open": [
+        "انتخاب فضای کاری برای بازکردن"
+    ],
+    "Choose a checkpoint": [
+        "crwdns15363:0crwdne15363:0"
+    ],
+    "Choose an existing workspace to clone.": [
+        "یک فضای کاری موجود را برای مشابه سازی انتخاب کنید."
+    ],
+    "Choose an existing workspace to delete.": [
+        "یک فضای کاری موجود را برای حذف کردن انتخاب کنید."
+    ],
+    "Choose an existing workspace to export.": [
+        "یک فضای کاری موجود را برای برون بری انتخاب کنید."
+    ],
+    "Choose an existing workspace to open.": [
+        "یک فضای کاری موجود را برای بازکردن انتخاب کنید."
+    ],
+    "Choose one or more workspace files to import. A Jupyter workspace file has the extension \"%1\".": [
+        "یک فضای کاری را برای وارد کردن انتخاب کنید. یک فضای کاری Jupyter دارای بسته «%1» است."
+    ],
+    "Clear": [
+        "پاک‌کردن"
+    ],
+    "Clear All": [
+        "پاک‌کردن همه"
+    ],
+    "Clear Cell Output": [
+        "پاک‌کردن خروجی یاخته"
+    ],
+    "Clear Console Cells": [
+        "پاک‌کردن یاخته‌های کنسول"
+    ],
+    "Clear Log": [
+        "پاک‌کردن پیام"
+    ],
+    "Clear Outputs of All Cells": [
+        "پاک‌کردن خروجی تمامی یاخته‌ها"
+    ],
+    "Clear Recent Documents": [
+        "crwdns16960:0crwdne16960:0"
+    ],
+    "Clear Workspace": [
+        "پاک‌کردن فضای کاری"
+    ],
+    "Clear all outputs of all cells": [
+        "پاک‌کردن خروجی همه یاخته‌ها"
+    ],
+    "Clear outputs for the selected cells": [
+        "crwdns15559:0crwdne15559:0"
+    ],
+    "Clear the list of recently opened items.": [
+        "crwdns16962:0crwdne16962:0"
+    ],
+    "Click on a function to see documentation.": [
+        "crwdns12347:0crwdne12347:0"
+    ],
+    "Click to add a cell.": [
+        "برای اضافه‌کردن یاخته کلیک کنید."
+    ],
+    "Click to expand": [
+        "crwdns14957:0crwdne14957:0"
+    ],
+    "Clojure": [
+        "Clojure"
+    ],
+    "ClojureScript": [
+        "ClojureScript"
+    ],
+    "Clone": [
+        "مشابه سازی"
+    ],
+    "Clone Workspace": [
+        "مشابه سازی از فضای کاری"
+    ],
+    "Clone Workspace\u2026": [
+        "مشابه سازی از فضای کاری\u2026"
+    ],
+    "Close": [
+        "بستن"
+    ],
+    "Close %1": [
+        "بستن %1"
+    ],
+    "Close All": [
+        "بستن همه"
+    ],
+    "Close All Other Tabs": [
+        "بستن سایر زبانه‌ها"
+    ],
+    "Close All Tabs": [
+        "بستن همه زبانه‌ها"
+    ],
+    "Close Document": [
+        "بستن سند"
+    ],
+    "Close Document without saving": [
+        "بستن سند بدون ذخیره کردن"
+    ],
+    "Close Search Box": [
+        "بستن جعبه جستجو"
+    ],
+    "Close Tab": [
+        "بستن زبانه"
+    ],
+    "Close Tabs to Right": [
+        "یستن زبانه‌های سمت راست"
+    ],
+    "Close and Shut Down": [
+        "بستن و خاموش کردن"
+    ],
+    "Close and Shut Down Notebook": [
+        "بستن و خاموش کردن دفتر یادداشت"
+    ],
+    "Close and Shut Down Notebook\u2026": [
+        "بستن و خاموش کردن دفتر یادداشت\u2026"
+    ],
+    "Close and Shut Down\u2026": [
+        "بستن و خاموش کردن\u2026"
+    ],
+    "Close and save": [
+        "بستن و ذخیره کردن"
+    ],
+    "Close and save Document": [
+        "بستن و ذخیره کردن سند"
+    ],
+    "Close tab": [
+        "بستن زبانه"
+    ],
+    "Close without saving": [
+        "crwdns14663:0crwdne14663:0"
+    ],
+    "Closure Stylesheets (GSS)": [
+        "برگه سبک Closure (GSS)"
+    ],
+    "Cobol": [
+        "Cobol"
+    ],
+    "Code": [
+        "کد"
+    ],
+    "Code Cell Content": [
+        "crwdns14959:0crwdne14959:0"
+    ],
+    "Code Cell Content with Output": [
+        "crwdns14961:0crwdne14961:0"
+    ],
+    "Code Folding": [
+        "تاشدن کد"
+    ],
+    "Code Viewer": [
+        "نمایشگر کد"
+    ],
+    "CodeMirror theme": [
+        "زمینه CodeMirror"
+    ],
+    "CoffeeScript": [
+        "CoffeeScript"
+    ],
+    "Collapse All": [
+        "جمع‌کردن همه"
+    ],
+    "Collapse All Code": [
+        "جمع‌کردن همه کدها"
+    ],
+    "Collapse All Headings": [
+        "جمع‌کردن همه سربرگ‌ها"
+    ],
+    "Collapse All Outputs": [
+        "جمع‌کردن همه خروجی‌ها"
+    ],
+    "Collapse Selected Code": [
+        "جمع‌کردن کدهای انتخابی"
+    ],
+    "Collapse Selected Outputs": [
+        "جمع‌کردن خروجی‌های انتخابی"
+    ],
+    "Command": [
+        "فرمان"
+    ],
+    "Command Palette": [
+        "نوار فرمان"
+    ],
+    "Command Palette Section": [
+        "crwdns11459:0crwdne11459:0"
+    ],
+    "Commands": [
+        "فرامین"
+    ],
+    "Commands (%1)": [
+        "فرامین (%1)"
+    ],
+    "Commit changes to data": [
+        "crwdns11591:0crwdne11591:0"
+    ],
+    "Common Lisp": [
+        "Common Lisp"
+    ],
+    "Complete!": [
+        "انجام شد!"
+    ],
+    "Completions": [
+        "crwdns15051:0crwdne15051:0"
+    ],
+    "Confirm Kernel Restart": [
+        "crwdns15951:0crwdne15951:0"
+    ],
+    "Confirm Trusting this notebook": [
+        "crwdns15973:0crwdne15973:0"
+    ],
+    "Confirm console Shut Down": [
+        "crwdns15957:0crwdne15957:0"
+    ],
+    "Confirmation": [
+        "crwdns14665:0crwdne14665:0"
+    ],
+    "Connect to Existing %1 Kernel": [
+        "اتصال به هسته موجود %1"
+    ],
+    "Connect to Existing Kernel": [
+        "اتصال به هسته موجود"
+    ],
+    "Connect to Other Kernel": [
+        "اتصال به سایر هسته‌ها"
+    ],
+    "Connected": [
+        "متصل شد"
+    ],
+    "Connecting": [
+        "درحال اتصال"
+    ],
+    "Console": [
+        "کنسول"
+    ],
+    "Console %1": [
+        "کنسول %1"
+    ],
+    "Context menu customization has changed. You will need to reload JupyterLab to see the changes.": [
+        "crwdns11427:0crwdne11427:0"
+    ],
+    "Contextual Help": [
+        "راهنمای متنی در زمینه"
+    ],
+    "Continue": [
+        "crwdns11685:0crwdne11685:0"
+    ],
+    "Control character": [
+        "crwdns15007:0crwdne15007:0"
+    ],
+    "Copy": [
+        "رونوشت"
+    ],
+    "Copy Cell": [
+        "رونوشت یاخته",
+        "crwdns15565:5crwdne15565:5"
+    ],
+    "Copy Download Link": [
+        "رونوشت پیوند بارگیری"
+    ],
+    "Copy Output to Clipboard": [
+        "رونوشت خروجی در کلیپ‌بورد"
+    ],
+    "Copy Path": [
+        "رونوشت نشانی"
+    ],
+    "Copy Shareable Link": [
+        "رونوشت پیوند قابل اشتراک‌گذاری"
+    ],
+    "Copy Variable to Globals": [
+        "crwdns15863:0crwdne15863:0"
+    ],
+    "Copy text representation of the value to clipboard": [
+        "crwdns15345:0crwdne15345:0"
+    ],
+    "Copy the selected cells": [
+        "crwdns12521:0crwdne12521:0"
+    ],
+    "Copy this cell": [
+        "رونوشت این یاخته",
+        "crwdns15567:5%1crwdne15567:5"
+    ],
+    "Copy to Clipboard": [
+        "رونوشت در کلیپ‌بورد"
+    ],
+    "Copy variable to globals scope": [
+        "crwdns15865:0crwdne15865:0"
+    ],
+    "Could Not Open Recent": [
+        "crwdns16978:0crwdne16978:0"
+    ],
+    "Could not find path: %1": [
+        "این آدرس یافت نمی‌شود: %1"
+    ],
+    "Could not open URL: %1": [
+        "این نشانی اینترنتی باز نمی‌شود: %1"
+    ],
+    "Create": [
+        "ایجادکردن"
+    ],
+    "Create Console for Editor": [
+        "ایجاد کنسول برای ویرایشگر"
+    ],
+    "Create New View for Cell Output": [
+        "ایجاد نمای جدید برای خروجی یاخته"
+    ],
+    "Create New Workspace": [
+        "ایجاد فضای کاری جدید"
+    ],
+    "Create New Workspace\u2026": [
+        "ایحاد فضای کاری جدید\u2026"
+    ],
+    "Create a duplicate of this cell below": [
+        "crwdns15577:1crwdne15577:1",
+        "crwdns15577:5%1crwdne15577:5"
+    ],
+    "Create a new Julia file": [
+        "ایجاد یک پرونده جدید Julia"
+    ],
+    "Create a new Python file": [
+        "ایجاد یک پرونده جدید Python"
+    ],
+    "Create a new R file": [
+        "ایجاد یک پرونده جدید R"
+    ],
+    "Create a new markdown file": [
+        "ایجاد یک پرونده جدید Markdown"
+    ],
+    "Create a new notebook": [
+        "ایجاد یک دفتر یادداشت جدید"
+    ],
+    "Create a new text file": [
+        "ایجاد یک پرونده متنی جدید"
+    ],
+    "Critical": [
+        "crwdns12373:0crwdne12373:0"
+    ],
+    "Crystal": [
+        "Crystal"
+    ],
+    "Ctrl + click to open in the Main Area": [
+        "همزمان با Ctrl بازکردن را در منطقه اصلی کلیک کنید."
+    ],
+    "Cursor blinking rate": [
+        "سرعت چشمک‌زدن مکان نما"
+    ],
+    "Custom": [
+        "crwdns17034:0crwdne17034:0"
+    ],
+    "Custom editor styles": [
+        "سبک‌های ویرایشگر دلخواه"
+    ],
+    "Customise your experience/improve performance by disabling plugins you do not need. To disable or uninstall an entire extension use the Extension Manager instead. Changes will apply after reloading JupyterLab.": [
+        "با غیرفعال کردن افزونه‌ای که به آن نیازی ندارید، کارایی برنامه را بهبود دهید. برای غیرفعال یا لغو نصب کردن بسته دست‌نخورده به‌جای این صفحه از مدیر بسته‌ها استفاده کنید. تغییرات بعد از تازه‌سازی آزمایشگاه Jupyter اعمال خواهد شد."
+    ],
+    "Cut": [
+        "برش"
+    ],
+    "Cut Cell": [
+        "برش یاخته",
+        "crwdns15561:5crwdne15561:5"
+    ],
+    "Cut the selected cells": [
+        "crwdns12517:0crwdne12517:0"
+    ],
+    "Cut this cell": [
+        "برش این یاخته",
+        "crwdns15563:5%1crwdne15563:5"
+    ],
+    "Cypher": [
+        "Cypher"
+    ],
+    "Cython": [
+        "Cython"
+    ],
+    "D": [
+        "D"
+    ],
+    "DTD": [
+        "DTD"
+    ],
+    "Dark": [
+        "سیاه"
+    ],
+    "Dart": [
+        "Dart"
+    ],
+    "Dead": [
+        "crwdns11521:0crwdne11521:0"
+    ],
+    "Debouncer delay": [
+        "وقفه مانع خطا"
+    ],
+    "Debug": [
+        "خطایابی"
+    ],
+    "Debugger": [
+        "خطایاب"
+    ],
+    "Debugger Panel": [
+        "صفحه خطایاب"
+    ],
+    "Debugger section": [
+        "crwdns11703:0crwdne11703:0"
+    ],
+    "Decrease Code Font Size": [
+        "کاهش اندازه قلم کد"
+    ],
+    "Decrease Content Font Size": [
+        "کاهش اندازه قلم محتوا"
+    ],
+    "Decrease Font Size": [
+        "کاهش اندازه قلم"
+    ],
+    "Decrease Terminal Font Size": [
+        "کاهش اندازه قلم ترمینال"
+    ],
+    "Decrease Text Editor Font Size": [
+        "کاهش اندازه قلم ویرایشگر متن"
+    ],
+    "Decrease UI Font Size": [
+        "کاهش اندازه قلم UI"
+    ],
+    "Default": [
+        "پیش‌فرض"
+    ],
+    "Default editor toolbar": [
+        "crwdns29483:0crwdne29483:0"
+    ],
+    "Default: %1": [
+        "پیش‌فرض: %1"
+    ],
+    "Defer": [
+        "crwdns16840:0crwdne16840:0"
+    ],
+    "Delete": [
+        "حذف"
+    ],
+    "Delete %1": [
+        "حذف %1"
+    ],
+    "Delete All": [
+        "حذف همه"
+    ],
+    "Delete Cell": [
+        "حذف یاخته",
+        "crwdns15581:5crwdne15581:5"
+    ],
+    "Delete Keybinding": [
+        "crwdns17042:0crwdne17042:0"
+    ],
+    "Delete Workspace\u2026": [
+        "حذف فضای کاری\u2026"
+    ],
+    "Delete chosen keybinding": [
+        "crwdns17044:0crwdne17044:0"
+    ],
+    "Delete the current line": [
+        "حذف خطی که بر آن واقعیم."
+    ],
+    "Delete this cell": [
+        "حذف این یاخته",
+        "crwdns15583:5%1crwdne15583:5"
+    ],
+    "Delete workspace": [
+        "حذف فضای کاری"
+    ],
+    "Deleting workspace \"%1\" will also delete its URL. A deleted workspace cannot be recovered.": [
+        "حذف فضای کاری «%1» نشانی آن را هم حذف خواهد کرد. یک فضای کاری حذف شده را نمی‌توان بازنشانی کرد."
+    ],
+    "Delimiter: ": [
+        "تعیین کننده: "
+    ],
+    "Depends on": [
+        "crwdns16842:0crwdne16842:0"
+    ],
+    "Description": [
+        "crwdns16836:0crwdne16836:0"
+    ],
+    "Deselect All Cells": [
+        "لغو انتخاب همه یاخته‌ها"
+    ],
+    "Deselect all files and directories": [
+        "crwdns15465:0crwdne15465:0"
+    ],
+    "Deselect directory \"%1\"": [
+        "crwdns15457:0%1crwdne15457:0"
+    ],
+    "Deselect file \"%1\"": [
+        "crwdns15461:0%1crwdne15461:0"
+    ],
+    "Diagnostics": [
+        "crwdns15053:0crwdne15053:0"
+    ],
+    "Directory": [
+        "crwdns11895:0crwdne11895:0"
+    ],
+    "Directory not found": [
+        "crwdns12101:0crwdne12101:0"
+    ],
+    "Directory not found: \"%1\"": [
+        "crwdns12103:0%1crwdne12103:0"
+    ],
+    "Directory: %1\n": [
+        "نشانی: %1\n"
+    ],
+    "Disable": [
+        "غیرفغال‌کردن"
+    ],
+    "Disable \"%1\"": [
+        "غیرفغال‌کردن «%1»"
+    ],
+    "Disable %1 plugin": [
+        "غیرفعال کردن افزونه %1"
+    ],
+    "Disable Debugger": [
+        "غیرفعال خطایاب"
+    ],
+    "Disable Scrolling for Outputs": [
+        "غیرفغال‌کردن مرور برای خروجی‌ها"
+    ],
+    "Disable anyway": [
+        "crwdns16834:0crwdne16834:0"
+    ],
+    "Discard": [
+        "دور انداختن"
+    ],
+    "Discard changes to file": [
+        "crwdns15969:0crwdne15969:0"
+    ],
+    "Disconnected": [
+        "crwdns11527:0crwdne11527:0"
+    ],
+    "Discover": [
+        "یافتن"
+    ],
+    "Dismiss": [
+        "اخراج کردن"
+    ],
+    "Dismiss a notification": [
+        "اخراج کردن یک اعلان"
+    ],
+    "Dismiss all notifications": [
+        "اخراج کردن همه اعلان‌ها"
+    ],
+    "Dismiss notification": [
+        "اخراج کردن اعلان"
+    ],
+    "Dismiss the tooltip": [
+        "اخراج کردن توضیحاتک"
+    ],
+    "Display Languages": [
+        "نمایش زبان‌ها"
+    ],
+    "Display the completion helper.": [
+        "نمایش اتمام راهنمایی"
+    ],
+    "Distributions": [
+        "crwdns12281:0crwdne12281:0"
+    ],
+    "Distrust HTML": [
+        "crwdns12301:0crwdne12301:0"
+    ],
+    "Do not ask for rename on first save.": [
+        "crwdns29449:0crwdne29449:0"
+    ],
+    "Do not ask me again.": [
+        "دیگر این را از من نپرس."
+    ],
+    "Do not check for updates": [
+        "به‌روزرسانی‌ها را بررسی نکن"
+    ],
+    "Do not prompt me if a new JupyterLab version is available.": [
+        "crwdns29244:0crwdne29244:0"
+    ],
+    "Do not show this message again in this session.": [
+        "دیگر این پیام را برای من نمایش نده."
+    ],
+    "Do you want to disable it anyway?": [
+        "crwdns16828:0crwdne16828:0"
+    ],
+    "Do you want to leave without saving?": [
+        "crwdns12819:0crwdne12819:0"
+    ],
+    "Do you want to restart the kernel of %1? All variables will be lost.": [
+        "آیا شما می‌خواهید که هسته %1 را راه‌اندازی مجدد کنید؟ تمامی متغیرها از دست خواهند رفت."
+    ],
+    "Dockerfile": [
+        "Dockerfile"
+    ],
+    "Document is permissioned read-only; \"save\" is disabled, use \"save as...\" instead": [
+        "با اجازه، سند تنها خواندنی است. «ذخیره» غیر فعال است. به جای آن از «ذخیره در...» استفاده کنید."
+    ],
+    "Document is read-only": [
+        "سند تنها خواندنی است"
+    ],
+    "Document is read-only. \"Save\" is disabled; use \"Save as\u2026\" instead": [
+        "سند تنها خواندنی است. «ذخیره» غیر فعال است. به جای آن از «ذخیره در\u2026» استفاده کنید."
+    ],
+    "Download": [
+        "بارگیری"
+    ],
+    "Download All Licenses": [
+        "بارگیری همه مجوزها"
+    ],
+    "Download All Licenses as": [
+        "بارگیری همه مجوزها در"
+    ],
+    "Download the file to your computer": [
+        "crwdns11763:0crwdne11763:0"
+    ],
+    "Drag and Drop is currently not supported for folders": [
+        "crwdns12115:0crwdne12115:0"
+    ],
+    "Drop Cursor": [
+        "انداختن مکان نما"
+    ],
+    "Duplicate": [
+        "ایجاد نسخه دوم"
+    ],
+    "Duplicate %1": [
+        "ایجاد نسخه دوم %1"
+    ],
+    "Duplicate Cell Below": [
+        "crwdns15575:1crwdne15575:1",
+        "crwdns15575:5crwdne15575:5"
+    ],
+    "Dylan": [
+        "Dylan"
+    ],
+    "EBNF": [
+        "EBNF"
+    ],
+    "ECL": [
+        "ECL"
+    ],
+    "Edit": [
+        "ویرایش"
+    ],
+    "Edit First": [
+        "ویرایش اول"
+    ],
+    "Edit Keybinding": [
+        "crwdns17038:0crwdne17038:0"
+    ],
+    "Edit Second": [
+        "ویرایش دوم"
+    ],
+    "Edit existing keybinding": [
+        "crwdns17040:0crwdne17040:0"
+    ],
+    "Edit existing shortcut": [
+        "crwdns12847:0crwdne12847:0"
+    ],
+    "Editor": [
+        "ویرایشگر"
+    ],
+    "Editor Theme": [
+        "زمینه ویرایشگر"
+    ],
+    "Eiffel": [
+        "Eiffel"
+    ],
+    "Elapsed time: %1 second": [
+        "زمان سپری شده: %1 ثانیه",
+        "crwdns12699:5%1crwdne12699:5"
+    ],
+    "Elm": [
+        "Elm"
+    ],
+    "Emit a notification": [
+        "crwdns14635:0crwdne14635:0"
+    ],
+    "Enable": [
+        "فعالسازی"
+    ],
+    "Enable \"%1\"": [
+        "فعال کردن «%1»"
+    ],
+    "Enable %1 plugin": [
+        "فعال کردن افزونه %1"
+    ],
+    "Enable Context Menu": [
+        "فعال کردن منوی زمینه"
+    ],
+    "Enable Debugger": [
+        "فعال کردن خطایاب"
+    ],
+    "Enable Extension Manager": [
+        "فعالسازی مدیر بسته‌ها"
+    ],
+    "Enable Extension Manager?": [
+        "مدیر بسته‌ها فعال شود؟"
+    ],
+    "Enable Scrolling for Outputs": [
+        "فعال کردن مرور برای خروجی‌ها"
+    ],
+    "Enable Single Click Navigation": [
+        "crwdns29274:0crwdne29274:0"
+    ],
+    "Enabled": [
+        "فعال شد"
+    ],
+    "End Search": [
+        "پایان جستجو"
+    ],
+    "Enter Command Mode": [
+        "وارد کردن حالت فرمان"
+    ],
+    "Enter Edit Mode": [
+        "وارد کردن حالت ویرایش"
+    ],
+    "Erlang": [
+        "Erlang"
+    ],
+    "Error": [
+        "خطا"
+    ],
+    "Error\u0004Launcher Error": [
+        "خطای صفحه اصلی"
+    ],
+    "Error Loading Theme": [
+        "خطای اجرا شدن زمینه"
+    ],
+    "Error Registering Plugins": [
+        "crwdns11395:0crwdne11395:0"
+    ],
+    "Error Starting Kernel": [
+        "خطای شروع به کار هسته"
+    ],
+    "Error Uploading Folder": [
+        "خطای بارگذاری پوشه"
+    ],
+    "Error message:": [
+        "پیام خطا:"
+    ],
+    "Error querying installed extensions%1": [
+        "crwdns16864:0%1crwdne16864:0"
+    ],
+    "Error saving settings.": [
+        "خطای ذخیره تنظیمات"
+    ],
+    "Error when performing an action.": [
+        "crwdns15425:0crwdne15425:0"
+    ],
+    "Esper": [
+        "Esper"
+    ],
+    "Evaluate": [
+        "crwdns11683:0crwdne11683:0"
+    ],
+    "Evaluate Code": [
+        "crwdns11681:0crwdne11681:0"
+    ],
+    "Executable Script": [
+        "اسکریپت قابل اجرا"
+    ],
+    "Execute with Enter": [
+        "اجرا با Enter"
+    ],
+    "Execute with Shift+Enter": [
+        "اجرا با Shift+Enter"
+    ],
+    "Executed %1 cell": [
+        "هسته %1 اجرا شد",
+        "crwdns12701:5%1crwdne12701:5"
+    ],
+    "Expand All": [
+        "پهن‌کردن همه"
+    ],
+    "Expand All Code": [
+        "پهن‌کردن همه کدها"
+    ],
+    "Expand All Headings": [
+        "پهن‌کردن همه سربرگ‌ها"
+    ],
+    "Expand All Outputs": [
+        "پهن‌کردن همه خروجی‌ها"
+    ],
+    "Expand Selected Code": [
+        "پهن‌کردن کدهای انتخابی"
+    ],
+    "Expand Selected Outputs": [
+        "پهن‌کردن خروجی‌های انتخابی"
+    ],
+    "Export": [
+        "برون بری"
+    ],
+    "Export Settings": [
+        "برون بری تنظیمات"
+    ],
+    "Export Workspace\u2026": [
+        "برون بری فضای کاری\u2026"
+    ],
+    "Export settings to a JSON file": [
+        "برون بری تنظیمات در یک پرونده JSON"
+    ],
+    "Extend Selection Above": [
+        "توسعه انتخاب بالایی"
+    ],
+    "Extend Selection Below": [
+        "توسعه انتخاب زیرین"
+    ],
+    "Extend Selection to Bottom": [
+        "توسعه انتخاب به پایین"
+    ],
+    "Extend Selection to Top": [
+        "توسعه انتخاب به بالا"
+    ],
+    "Extension": [
+        "بسته‌ها"
+    ],
+    "Extension Installation Error": [
+        "crwdns11969:0crwdne11969:0"
+    ],
+    "Extension Manager": [
+        "مدیر بسته‌ها"
+    ],
+    "Extension Manager section": [
+        "crwdns11945:0crwdne11945:0"
+    ],
+    "Extension installation not supported.": [
+        "crwdns14737:0crwdne14737:0"
+    ],
+    "Extension installation path: %1": [
+        "crwdns15423:0%1crwdne15423:0"
+    ],
+    "Extension removal not supported.": [
+        "crwdns14739:0crwdne14739:0"
+    ],
+    "Extensions panel toolbar": [
+        "crwdns29451:0crwdne29451:0"
+    ],
+    "F#": [
+        "F#"
+    ],
+    "FCL": [
+        "FCL"
+    ],
+    "Factor": [
+        "Factor"
+    ],
+    "Fail to get '%1' source:\n%2": [
+        "crwdns11725:0%1crwdnd11725:0%2crwdne11725:0"
+    ],
+    "Fail to get kernel sources": [
+        "crwdns11731:0crwdne11731:0"
+    ],
+    "Fail to get kernel sources:\n%2": [
+        "crwdns11733:0%2crwdne11733:0"
+    ],
+    "Fail to get source": [
+        "crwdns11723:0crwdne11723:0"
+    ],
+    "File Browser": [
+        "کاوشگر پرونده‌ها"
+    ],
+    "File Browser (%1)": [
+        "کاوشگر پرونده‌ها"
+    ],
+    "File Browser Section": [
+        "crwdns12059:0crwdne12059:0"
+    ],
+    "File Changed": [
+        "پرونده تغییر کرد"
+    ],
+    "File Load Error for %1": [
+        "خطای تازه‌سازی پرونده برای %1"
+    ],
+    "File Operations": [
+        "crwdns11769:0crwdne11769:0"
+    ],
+    "File Overwrite?": [
+        "crwdns11885:0crwdne11885:0"
+    ],
+    "File Path": [
+        "نشانی پرونده"
+    ],
+    "File Save Error for %1": [
+        "خطای ذخیره پرونده %1"
+    ],
+    "File Size": [
+        "اندازه پرونده"
+    ],
+    "File browser toolbar": [
+        "crwdns29455:0crwdne29455:0"
+    ],
+    "File name": [
+        "نام پرونده"
+    ],
+    "Files still uploading": [
+        "crwdns12165:0crwdne12165:0"
+    ],
+    "Fill in middle on typing": [
+        "پرکردن در میانه حروف‌نگاری"
+    ],
+    "Filter": [
+        "پالایش"
+    ],
+    "Filter Licenses By": [
+        "crwdns12273:0crwdne12273:0"
+    ],
+    "Filter files by name": [
+        "پالایش پرونده‌ها بر اساس نام"
+    ],
+    "Filter the kernel sources": [
+        "پالایش منابع هسته"
+    ],
+    "Filter\u2026": [
+        "crwdns29286:0crwdne29286:0"
+    ],
+    "Find": [
+        "یافتن"
+    ],
+    "Find Next": [
+        "یافتن بعدی"
+    ],
+    "Find Previous": [
+        "یافتن قبلی"
+    ],
+    "Find and Replace\u2026": [
+        "یافتن و جایگزینی\u2026"
+    ],
+    "Find\u2026": [
+        "یافتن\u2026"
+    ],
+    "Flip image horizontally": [
+        "جابجایی در جهت عمودی"
+    ],
+    "Flip image vertically": [
+        "جابجایی در جهت عمودی"
+    ],
+    "Fold line": [
+        "crwdns15021:0crwdne15021:0"
+    ],
+    "Folded lines": [
+        "crwdns15011:0crwdne15011:0"
+    ],
+    "Font Family": [
+        "نوع قلم"
+    ],
+    "Font Size": [
+        "اندازه قلم"
+    ],
+    "For Notebook:": [
+        "برای دفتر یادداشت:"
+    ],
+    "For Notebook: %1": [
+        "برای دفتر یادداشت: %1"
+    ],
+    "For more information, see": [
+        "crwdns12671:0crwdne12671:0"
+    ],
+    "Forget": [
+        "فراموش کردن"
+    ],
+    "Forget All": [
+        "فراموش کردن همه"
+    ],
+    "Forth": [
+        "Forth"
+    ],
+    "Fortran": [
+        "Fortran"
+    ],
+    "Fullscreen Mode": [
+        "حالت تمام صفحه"
+    ],
+    "Gas": [
+        "Gas"
+    ],
+    "Get Kernel": [
+        "crwdns15333:0crwdne15333:0"
+    ],
+    "Gherkin": [
+        "Gherkin"
+    ],
+    "Globals": [
+        "سراسری‌ها"
+    ],
+    "Go": [
+        "Go"
+    ],
+    "Go to Line": [
+        "رفتن به خط"
+    ],
+    "Go to Line\u2026": [
+        "رفتن به خط\u2026"
+    ],
+    "Go to line": [
+        "رفتن به خط"
+    ],
+    "Go to line number between 1 and %1": [
+        "رفتن به شماره خط میان 1 و %1"
+    ],
+    "Go to line number\u2026": [
+        "crwdns12893:0crwdne12893:0"
+    ],
+    "Groovy": [
+        "Groovy"
+    ],
+    "HTML": [
+        "HTML"
+    ],
+    "HTML File": [
+        "پرونده HTML"
+    ],
+    "HTML Viewer": [
+        "نمایشگر HTML"
+    ],
+    "HTTP": [
+        "HTTP"
+    ],
+    "HXML": [
+        "HXML"
+    ],
+    "Half-period in milliseconds used for cursor blinking. The default blink rate is 1200ms. By setting this to zero, blinking can be disabled.": [
+        "نصف زمان در هزارم ثانیه با چشمک‌زن مکان‌نما استفاده می‌شود. پیش‌فرض سرعت چشمک‌زن هزارم ثانیه است. با تنظیم این به صفر چشمک‌زن می‌تواند غیرفعال شود."
+    ],
+    "Handle Local Link": [
+        "crwdns12751:0crwdne12751:0"
+    ],
+    "Haskell": [
+        "Haskell"
+    ],
+    "Haxe": [
+        "Haxe"
+    ],
+    "Help": [
+        "راهنما"
+    ],
+    "Hide": [
+        "پنهان کردن"
+    ],
+    "Hide Contextual Help": [
+        "پنهان کردن راهنمای متنی در زمینه"
+    ],
+    "Hide Replace": [
+        "crwdns16964:0crwdne16964:0"
+    ],
+    "Hide Search Filters": [
+        "crwdns15389:0crwdne15389:0"
+    ],
+    "Hide Selectors": [
+        "پنهان‌سازی انتخاب‌کنندگان"
+    ],
+    "Hide notification": [
+        "پنهان کردن اعلان"
+    ],
+    "Hide notifications": [
+        "پنهان کردن اعلان‌ها"
+    ],
+    "Hide the file browser.": [
+        "crwdns15451:0crwdne15451:0"
+    ],
+    "Highlight special characters": [
+        "رنگی‌کردن کاراکترهای خاص"
+    ],
+    "Highlight the active line": [
+        "رنگی‌کردن خطوط فعال"
+    ],
+    "Highlight trailing white spaces": [
+        "رنگی‌کردن فاصله‌های سفید عقب"
+    ],
+    "Highlight white spaces": [
+        "رنگی‌کردن فاصله‌های سفید"
+    ],
+    "History": [
+        "تاریخچه"
+    ],
+    "History was unable to be retrieved": [
+        "crwdns16812:0crwdne16812:0"
+    ],
+    "Hub": [
+        "مرکز فعالیت"
+    ],
+    "Hub Control Panel": [
+        "مرکز فعالیت صفحه کنترل"
+    ],
+    "I understand that disabling core application plugins may render features and parts of the user interface unavailable and recovery using `jupyter labextension enable <plugin-name>` command may be required": [
+        "من فهمیدم که غیرفعال کردن افزونه‌های برنامه کاربردی اصلی شاید ویژگی‌ها و بخش‌های واسط کاربری خارج از دسترس ارائه شود و بهبود فرمان `jupyter labextension enable <plugin-name>` شاید ضروری باشد."
+    ],
+    "IDL": [
+        "IDL"
+    ],
+    "Idle": [
+        "Idle"
+    ],
+    "If checked, no confirmation to close a document will be asked in the future.": [
+        "crwdns14669:0crwdne14669:0"
+    ],
+    "If checked, the kernel will restart without confirmation prompt in the future; you can change this back in the settings.": [
+        "crwdns29246:0crwdne29246:0"
+    ],
+    "If checked, you will not be asked to rename future untitled files when saving them.": [
+        "crwdns11811:0crwdne11811:0"
+    ],
+    "If checked, you will not see a dialog informing you about an issue with server connection in this session.": [
+        "crwdns29238:0crwdne29238:0"
+    ],
+    "If pressed, you will not be prompted if a new JupyterLab version is found.": [
+        "crwdns14621:0crwdne14621:0"
+    ],
+    "Ignore all updates": [
+        "crwdns29242:0crwdne29242:0"
+    ],
+    "Image": [
+        "تصویر"
+    ],
+    "Image (Text)": [
+        "crwdns15503:0crwdne15503:0"
+    ],
+    "Image Viewer": [
+        "نمایشگر تصویر"
+    ],
+    "Import": [
+        "درون ریزی"
+    ],
+    "Import Settings": [
+        "درون ریزی تنظیمات"
+    ],
+    "Import Workspace\u2026": [
+        "درون ریزی فضای کاری\u2026"
+    ],
+    "Import settings from a JSON file": [
+        "درون ریزی تنظیمات از یک پرونده JSON"
+    ],
+    "In collaborative mode, the document is saved automatically after every change": [
+        "crwdns14657:0crwdne14657:0"
+    ],
+    "Increase Code Font Size": [
+        "افزایش اندازه قلم کد"
+    ],
+    "Increase Content Font Size": [
+        "افزایش اندازه قلم محتوا"
+    ],
+    "Increase Font Size": [
+        "افزایش اندازه قلم"
+    ],
+    "Increase Terminal Font Size": [
+        "افزایش اندازه قلم ترمینال"
+    ],
+    "Increase Text Editor Font Size": [
+        "افزایش اندازه قلم ویرایشگر متن"
+    ],
+    "Increase UI Font Size": [
+        "افزایش اندازه قلم UI"
+    ],
+    "Indent with Tab": [
+        "فرورفتگی با Tab"
+    ],
+    "Indentation unit": [
+        "واحد تورفتگی"
+    ],
+    "Info": [
+        "اطلاعات"
+    ],
+    "Information": [
+        "اطلاعات"
+    ],
+    "Inherit": [
+        "ارث‌بری"
+    ],
+    "Initializing": [
+        "آماده‌سازی"
+    ],
+    "Inject some code in a console.": [
+        "crwdns15331:0crwdne15331:0"
+    ],
+    "Insert Cell Above": [
+        "قرار دادن یاخته بالایی"
+    ],
+    "Insert Cell Below": [
+        "قرار دادن یاخته زیرین"
+    ],
+    "Insert Heading Above Current Heading": [
+        "قرارد دادن سربرگ بالای سربرگ فعلی"
+    ],
+    "Insert Heading Below Current Heading": [
+        "قرار دادن سربرگ زیر سربرگ فعلی"
+    ],
+    "Insert Line Break": [
+        "قرار دادن خط شکسته"
+    ],
+    "Insert a cell above": [
+        "قرار دادن یک یاخته در بالا"
+    ],
+    "Insert a cell below": [
+        "قرار دادن یک یاخته در زیر"
+    ],
+    "Inspect Variable": [
+        "crwdns11675:0crwdne11675:0"
+    ],
+    "Install": [
+        "نصب"
+    ],
+    "Install \"%1\"": [
+        "نصب «%1»"
+    ],
+    "Installed": [
+        "نصب شد"
+    ],
+    "Interrupt Kernel": [
+        "توقف هسته"
+    ],
+    "Interrupt the kernel": [
+        "توقف هسته"
+    ],
+    "Invert Colors": [
+        "وارون کردن رنگ‌ها"
+    ],
+    "Invoke Inline Completer": [
+        "صدازدن تکمیل کننده درون خطی"
+    ],
+    "JSON": [
+        "JSON"
+    ],
+    "JSON File": [
+        "پرونده JSON"
+    ],
+    "JSON Settings Editor": [
+        "تنظیمات ویرایشگر JSON"
+    ],
+    "JSON-LD": [
+        "JSON-LD"
+    ],
+    "JSONLines File": [
+        "پرونده JSONLines"
+    ],
+    "JSX": [
+        "JSX"
+    ],
+    "Java": [
+        "Java"
+    ],
+    "JavaScript output is disabled in JupyterLab": [
+        "خروجی JavaScript در آزمایشگاه Jupyter غیرفعال است."
+    ],
+    "Javascript": [
+        "Javascript"
+    ],
+    "Javascript Error: %1": [
+        "خطای Javascript: %1"
+    ],
+    "Jinja2": [
+        "Jinja2"
+    ],
+    "Julia": [
+        "Julia"
+    ],
+    "Julia File": [
+        "پرونده Julia"
+    ],
+    "Jupyter Forum": [
+        "گردهمایی Jupyter"
+    ],
+    "Jupyter Reference": [
+        "منبع Jupyter"
+    ],
+    "JupyterLab Dark": [
+        "آزمایشگاه Jupyter تیره"
+    ],
+    "JupyterLab Dark High Contrast": [
+        "زمینه بسیار تیره آزمایشگاه Jupyter"
+    ],
+    "JupyterLab FAQ": [
+        "سولات متداول آزمایشگاه Jupyter"
+    ],
+    "JupyterLab Light": [
+        "آزمایشگاه Jupyter روشن"
+    ],
+    "JupyterLab Reference": [
+        "منبع آزمایشگاه Jupyter"
+    ],
+    "JupyterLab Workspace File": [
+        "crwdns16942:0crwdne16942:0"
+    ],
+    "JupyterLab build is suggested:": [
+        "crwdns11411:0crwdne11411:0"
+    ],
+    "JupyterLab workspace File": [
+        "crwdns11503:0crwdne11503:0"
+    ],
+    "Keep Waiting": [
+        "crwdns11445:0crwdne11445:0"
+    ],
+    "Kernel %1": [
+        "هسته %1"
+    ],
+    "Kernel Icon": [
+        "نشان هسته"
+    ],
+    "Kernel Id:": [
+        "شناسه هسته:"
+    ],
+    "Kernel Id: %1": [
+        "شناسه هسته: %1"
+    ],
+    "Kernel Name:": [
+        "نام هسته:"
+    ],
+    "Kernel Name: %1": [
+        "نام هسته: %1"
+    ],
+    "Kernel Operations": [
+        "crwdns12407:0crwdne12407:0"
+    ],
+    "Kernel Restarting": [
+        "crwdns12739:0crwdne12739:0"
+    ],
+    "Kernel Sources": [
+        "منابع هسته"
+    ],
+    "Kernel Terminating": [
+        "crwdns12681:0crwdne12681:0"
+    ],
+    "Kernel sources panel toolbar": [
+        "crwdns29441:0crwdne29441:0"
+    ],
+    "Kernel status": [
+        "وضعیت هسته"
+    ],
+    "Kernel status: %1": [
+        "وضعیت هسته: %1"
+    ],
+    "Kernel: %1": [
+        "هسته: %1"
+    ],
+    "Kernels": [
+        "هسته‌ها"
+    ],
+    "Keyboard Shortcuts": [
+        "میانبرهای صفحه کلید"
+    ],
+    "Kotlin": [
+        "Kotlin"
+    ],
+    "LESS": [
+        "LESS"
+    ],
+    "LaTeX": [
+        "LaTeX"
+    ],
+    "Language servers": [
+        "سرورهای زبان"
+    ],
+    "Large file size warning": [
+        "crwdns12159:0crwdne12159:0"
+    ],
+    "Last Checkpoint: %1": [
+        "crwdns11863:0%1crwdne11863:0"
+    ],
+    "Last Modified": [
+        "آخرین ویرایش"
+    ],
+    "Last Saved: %1\n": [
+        "crwdns11861:0%1crwdne11861:0"
+    ],
+    "Launcher": [
+        "صفحه اصلی"
+    ],
+    "License": [
+        "مجوز"
+    ],
+    "Licenses": [
+        "مجوزها"
+    ],
+    "Light": [
+        "روشن"
+    ],
+    "Line Height": [
+        "طول خط"
+    ],
+    "Line Numbers": [
+        "شماره خطوط"
+    ],
+    "Line Wrap": [
+        "بستن خط"
+    ],
+    "Live updating code documentation from the active kernel": [
+        "crwdns12345:0crwdne12345:0"
+    ],
+    "LiveScript": [
+        "LiveScript"
+    ],
+    "Ln %1, Col %2": [
+        "خط %1، کاراکتر %2"
+    ],
+    "Load state for the current workspace.": [
+        "crwdns14939:0crwdne14939:0"
+    ],
+    "Loading\u2026": [
+        "crwdns11441:0crwdne11441:0"
+    ],
+    "Log Console": [
+        "crwdns12359:0crwdne12359:0"
+    ],
+    "Log Level:": [
+        "crwdns12369:0crwdne12369:0"
+    ],
+    "Log Out": [
+        "خروج"
+    ],
+    "Log level": [
+        "crwdns12371:0crwdne12371:0"
+    ],
+    "Log out of %1": [
+        "crwdns16976:0%1crwdne16976:0"
+    ],
+    "Log out of JupyterLab": [
+        "crwdns12431:0crwdne12431:0"
+    ],
+    "Log out of the Hub": [
+        "crwdns12321:0crwdne12321:0"
+    ],
+    "Log: %1": [
+        "پیام: %1"
+    ],
+    "Lua": [
+        "Lua"
+    ],
+    "MS SQL": [
+        "MS SQL"
+    ],
+    "MUMPS": [
+        "MUMPS"
+    ],
+    "Main Area": [
+        "منطقه اصلی"
+    ],
+    "Main Content": [
+        "crwdns29337:0crwdne29337:0"
+    ],
+    "MariaDB SQL": [
+        "MariaDB SQL"
+    ],
+    "Markdown": [
+        "Markdown"
+    ],
+    "Markdown Cell Content": [
+        "crwdns14963:0crwdne14963:0"
+    ],
+    "Markdown File": [
+        "پرونده Markdown"
+    ],
+    "Markdown Preview": [
+        "crwdns12459:0crwdne12459:0"
+    ],
+    "Markdown Reference": [
+        "منبع Markdown"
+    ],
+    "Match Brackets": [
+        "کامل کردن کمانک‌ها"
+    ],
+    "Match Case": [
+        "کامل کردن موقعیت"
+    ],
+    "Match Whole Word": [
+        "crwdns15379:0crwdne15379:0"
+    ],
+    "Mathematica": [
+        "Mathematica"
+    ],
+    "Maximum number of suggestions": [
+        "بیشترین تعداد پیشنهادات"
+    ],
+    "Menu customization has changed. You will need to reload JupyterLab to see the changes.": [
+        "crwdns12457:0crwdne12457:0"
+    ],
+    "Merge Cell Above": [
+        "ادغام در یاخته بالایی"
+    ],
+    "Merge Cell Below": [
+        "ادغام در یاخته زیرین"
+    ],
+    "Merge Selected Cells": [
+        "ادغام یاخته‌های انتخاب‌شده"
+    ],
+    "Mermaid Copy Diagram Source": [
+        "crwdns16802:0crwdne16802:0"
+    ],
+    "Message from ": [
+        "پیام از طرف "
+    ],
+    "Mode: %1": [
+        "حالت: %1"
+    ],
+    "Modelica": [
+        "Modelica"
+    ],
+    "Modified": [
+        "ایجاد شده در"
+    ],
+    "More actions\u2026": [
+        "crwdns15659:0crwdne15659:0"
+    ],
+    "More commands": [
+        "crwdns15683:0crwdne15683:0"
+    ],
+    "Move Cell Down": [
+        "پایین بردن یاخته",
+        "crwdns15601:5crwdne15601:5"
+    ],
+    "Move Cell Up": [
+        "بالا بردن یاخته",
+        "crwdns15595:5crwdne15595:5"
+    ],
+    "Move Error": [
+        "خطای حرکت"
+    ],
+    "Move down": [
+        "پایین بردن"
+    ],
+    "Move the cursor to a code fragment (e.g. function or object) to request information about it from the kernel attached to the editor.": [
+        "مکان‌نما را به بخشی از کد (شامل تابع یا شیء) به منظور درخواست اطلاعات درباره آن از هسته ببرید تا آن اطلاعات را به ویرایشگر ضمیمه کند."
+    ],
+    "Move this cell down": [
+        "پایین بردن این یاخته",
+        "پایین بردن یاخته %1"
+    ],
+    "Move this cell up": [
+        "بالا بردن این یاخته",
+        "بالا بردن یاخته %1"
+    ],
+    "Move to Trash": [
+        "انتقال به زباله‌دان"
+    ],
+    "Move up": [
+        "بالا بردن"
+    ],
+    "Multiple selections": [
+        "انتخابگر چندگانه"
+    ],
+    "MySQL": [
+        "MySQL"
+    ],
+    "NSIS": [
+        "NSIS"
+    ],
+    "NTriples": [
+        "NTriples"
+    ],
+    "Name": [
+        "نام"
+    ],
+    "Name:": [
+        "نام:"
+    ],
+    "Name: %1": [
+        "نام: %1"
+    ],
+    "Name: %1\n": [
+        "نام: %1\n"
+    ],
+    "Name: %1\nPath: %2\n": [
+        "نام: %1\nنشانی: %2\n"
+    ],
+    "Naming the workspace will create a unique URL. The name may contain letters, numbers, hyphens (-), and underscores (_).": [
+        "نام گذاری فضای کاری یک نشانی منحصر به فرد خواهد ساخت. نام می‌تواند شامل حروف انگلیسی، اعداد، خط پیوند (-) و زیرخط (_) باشد."
+    ],
+    "Neither theme %1 nor default %2 loaded.": [
+        "crwdns11567:0%1crwdnd11567:0%2crwdne11567:0"
+    ],
+    "Never show this notification again.": [
+        "crwdns14617:0crwdne14617:0"
+    ],
+    "New Console": [
+        "کنسول جدید"
+    ],
+    "New Console for Activity": [
+        "کنسول جدید برای فعالیت"
+    ],
+    "New Console for Kernel": [
+        "کنسول جدید برای هسته"
+    ],
+    "New Console for Notebook": [
+        "کنسول جدید برای دفتر یادداشت"
+    ],
+    "New File": [
+        "پرونده جدید"
+    ],
+    "New Folder": [
+        "پوشه جدید"
+    ],
+    "New Julia File": [
+        "پزونده Julia جدید"
+    ],
+    "New Launcher": [
+        "صفحه جدید"
+    ],
+    "New Markdown File": [
+        "پرونده Markdown جدید"
+    ],
+    "New Name": [
+        "نام جدید"
+    ],
+    "New Notebook": [
+        "دفتر یادداشت جدید"
+    ],
+    "New Notebook for Kernel": [
+        "دفتر یادداشت جدید برای هسته"
+    ],
+    "New Python File": [
+        "پرونده Python جدید"
+    ],
+    "New R File": [
+        "پرونده R جدید"
+    ],
+    "New Subshell Console for Notebook": [
+        "crwdns29463:0crwdne29463:0"
+    ],
+    "New Terminal": [
+        "ترمینال جدید"
+    ],
+    "New Text File": [
+        "پرونده متنی جدید"
+    ],
+    "New View for %1": [
+        "نمای جدید برای %1"
+    ],
+    "Next": [
+        "بعدی"
+    ],
+    "Next Inline Completion": [
+        "تکمیل درون‌خطی بعدی"
+    ],
+    "Next Match": [
+        "crwdns15387:0crwdne15387:0"
+    ],
+    "Nginx": [
+        "Nginx"
+    ],
+    "No": [
+        "خیر"
+    ],
+    "No Documentation": [
+        "بدون سند"
+    ],
+    "No Headings": [
+        "بدون سربرگ"
+    ],
+    "No Kernel": [
+        "بدون هسته"
+    ],
+    "No License ID found": [
+        "crwdns12287:0crwdne12287:0"
+    ],
+    "No License Text found": [
+        "crwdns12289:0crwdne12289:0"
+    ],
+    "No Package selected": [
+        "crwdns12285:0crwdne12285:0"
+    ],
+    "No Packages found": [
+        "crwdns12283:0crwdne12283:0"
+    ],
+    "No Plugin Selected": [
+        "افزونه‌ای انتخاب نشده"
+    ],
+    "No Properties": [
+        "بدون اولویت"
+    ],
+    "No browser for path": [
+        "crwdns12051:0crwdne12051:0"
+    ],
+    "No checkpoints": [
+        "crwdns15369:0crwdne15369:0"
+    ],
+    "No checkpoints are available for this %1.": [
+        "crwdns15371:0%1crwdne15371:0"
+    ],
+    "No context found for current widget!": [
+        "crwdns11767:0crwdne11767:0"
+    ],
+    "No data!": [
+        "فاقد داده!"
+    ],
+    "No diagnostics": [
+        "crwdns15055:0crwdne15055:0"
+    ],
+    "No entries": [
+        "هیچ گونه مدخلی وجود ندارد"
+    ],
+    "No errors found": [
+        "خطایی یافت نشد"
+    ],
+    "No items match your search.": [
+        "هیچ بخشی با جستجوی شما مطابقت ندارد."
+    ],
+    "No log messages.": [
+        "crwdns12387:0crwdne12387:0"
+    ],
+    "No matches": [
+        "crwdns17030:0crwdne17030:0"
+    ],
+    "No metadata.": [
+        "بدون فراداده."
+    ],
+    "No notifications": [
+        "بدون اعلان"
+    ],
+    "No properties to inspect.": [
+        "crwdns12749:0crwdne12749:0"
+    ],
+    "No sessions connected": [
+        "crwdns17008:0crwdne17008:0"
+    ],
+    "No source selected.": [
+        "crwdns12385:0crwdne12385:0"
+    ],
+    "No, disable": [
+        "نه، غیرفعال کن"
+    ],
+    "Note: To disable a system default shortcut,\ncopy it to User Preferences and add the\n\"disabled\" key, for example:\n{\n    \"command\": \"application:activate-next-tab\",\n    \"keys\": [\n        \"Ctrl Shift ]\"\n    ],\n    \"selector\": \"body\",\n    \"disabled\": true\n}\n\nList of commands followed by keyboard shortcuts:\n%1\n\nList of keyboard shortcuts:": [
+        "crwdns12877:0%1crwdne12877:0"
+    ],
+    "Notebook": [
+        "دفتر یادداشت"
+    ],
+    "Notebook Cell Operations": [
+        "crwdns12623:0crwdne12623:0"
+    ],
+    "Notebook Operations": [
+        "crwdns12621:0crwdne12621:0"
+    ],
+    "Notebook Tools": [
+        "ابزارهای دفتر یادداشت"
+    ],
+    "Notebook cell shifted down successfully": [
+        "crwdns15605:0crwdne15605:0"
+    ],
+    "Notebook cell shifted up successfully": [
+        "crwdns15599:0crwdne15599:0"
+    ],
+    "Notebook converted": [
+        "crwdns12709:0crwdne12709:0"
+    ],
+    "Notebook is already trusted": [
+        "crwdns12675:0crwdne12675:0"
+    ],
+    "Notebook is in %1 mode": [
+        "crwdns12717:0%1crwdne12717:0"
+    ],
+    "Notebook not trusted: %1 of %2 code cells trusted.": [
+        "crwdns15873:0%1crwdnd15873:0%2crwdne15873:0"
+    ],
+    "Notebook trusted: %1 of %2 code cells trusted.": [
+        "crwdns15869:0%1crwdnd15869:0%2crwdne15869:0"
+    ],
+    "Notification is described by {id: string, message: string, type?: string, options?: {autoClose?: number | false, actions: {label: string, commandId: string, args?: ReadOnlyJSONObject, caption?: string, className?: string}[], data?: ReadOnlyJSONValue}}.": [
+        "crwdns14641:0crwdne14641:0"
+    ],
+    "Notification is described by {message: string, type?: string, options?: {autoClose?: number | false, actions: {label: string, commandId: string, args?: ReadOnlyJSONObject, caption?: string, className?: string}[], data?: ReadOnlyJSONValue}}.": [
+        "crwdns14637:0crwdne14637:0"
+    ],
+    "OCaml": [
+        "OCaml"
+    ],
+    "OK": [
+        "تایید"
+    ],
+    "Objective-C": [
+        "Objective-C"
+    ],
+    "Objective-C++": [
+        "Objective-C++"
+    ],
+    "Octave": [
+        "Octave"
+    ],
+    "Ok": [
+        "تایید"
+    ],
+    "Open": [
+        "بازکردن"
+    ],
+    "Open %1": [
+        "بازکردن %1"
+    ],
+    "Open Code Viewer": [
+        "بازکردن نمایشگر کد"
+    ],
+    "Open Edit Menu": [
+        "بازکردن منوی ویرایش"
+    ],
+    "Open Error": [
+        "بازکردن خطا"
+    ],
+    "Open File Menu": [
+        "بازکردن منوی پرونده"
+    ],
+    "Open First Menu": [
+        "بازکردن اولین منو"
+    ],
+    "Open Help Menu": [
+        "بازکردن منوی راهنما"
+    ],
+    "Open Kernel Menu": [
+        "بازکردن منوی هسته"
+    ],
+    "Open Path": [
+        "بازکردن نشانی"
+    ],
+    "Open Recent": [
+        "بازکردن اخیر"
+    ],
+    "Open Run Menu": [
+        "بازکردن منوی اجرا"
+    ],
+    "Open Settings Menu": [
+        "بازکردن منوی تنظیمات"
+    ],
+    "Open Source": [
+        "crwdns16776:0crwdne16776:0"
+    ],
+    "Open Tabs": [
+        "بازکردن زبانه‌ها"
+    ],
+    "Open Tabs Menu": [
+        "بازکردن منوی زبانه‌ها"
+    ],
+    "Open URL": [
+        "بازکردن نشانی"
+    ],
+    "Open View Menu": [
+        "بازکردن منوی نمایش"
+    ],
+    "Open Workspace": [
+        "بازکردن فضای کاری"
+    ],
+    "Open Workspace\u2026": [
+        "بازکردن فضای کاری\u2026"
+    ],
+    "Open a Recent Document (given by `recent` argument)": [
+        "crwdns16982:0crwdne16982:0"
+    ],
+    "Open a console for the provided `path`.": [
+        "crwdns15329:0crwdne15329:0"
+    ],
+    "Open a terminal by its `name`.": [
+        "crwdns15653:0crwdne15653:0"
+    ],
+    "Open from Path\u2026": [
+        "بازکردن از نشانی\u2026"
+    ],
+    "Open from URL": [
+        "بازکردن از نشانی"
+    ],
+    "Open from URL\u2026": [
+        "بازکردن از نشانی\u2026"
+    ],
+    "Open from path": [
+        "بازکردن از نشانی"
+    ],
+    "Open in New Browser Tab": [
+        "بازکردن در زبانه کاوشگر جدید"
+    ],
+    "Open in Simple Mode": [
+        "بازکردن در حالت ساده"
+    ],
+    "Open in the Main Area": [
+        "بازکردن در منطقه اصلی"
+    ],
+    "Open privacy policy": [
+        "بازکردن حریم خصوصی"
+    ],
+    "Open the Hub control panel in a new browser tab": [
+        "crwdns12317:0crwdne12317:0"
+    ],
+    "Open the file browser for the provided `path`.": [
+        "crwdns15449:0crwdne15449:0"
+    ],
+    "Open the provided `path`.": [
+        "crwdns15365:0crwdne15365:0"
+    ],
+    "Open the provided `url` in a tab.": [
+        "crwdns15499:0crwdne15499:0"
+    ],
+    "Open the tooltip": [
+        "بازکردن توضیحاتک"
+    ],
+    "Other": [
+        "سایر"
+    ],
+    "Overrides for the default viewers for file types.\nSpecify a mapping from file type name to document viewer name, for example:\n\ndefaultViewers: {\n  markdown: \"Markdown Preview\"\n}\n\nIf you specify non-existent file types or viewers, or if a viewer cannot\nopen a given file type, the override will not function.\n\nAvailable viewers:\n%1\n\nAvailable file types:\n%2": [
+        "Overrides for the default viewers for file types.\nSpecify a mapping from file type name to document viewer name, for example:\n\ndefaultViewers: {\n  markdown: \"Markdown Preview\"\n}\n\nIf you specify non-existent file types or viewers, or if a viewer cannot\nopen a given file type, the override will not function.\n\nAvailable viewers:\n%1\n\nAvailable file types:\n%2"
+    ],
+    "Overwrite": [
+        "بازنویسی"
+    ],
+    "Overwrite Existing File": [
+        "crwdns15961:0crwdne15961:0"
+    ],
+    "Overwrite file?": [
+        "crwdns11835:0crwdne11835:0"
+    ],
+    "Oz": [
+        "Oz"
+    ],
+    "PDF": [
+        "PDF"
+    ],
+    "PDF File": [
+        "پرونده PDF"
+    ],
+    "PGP": [
+        "PGP"
+    ],
+    "PHP": [
+        "PHP"
+    ],
+    "PLSQL": [
+        "PLSQL"
+    ],
+    "Package": [
+        "بسته"
+    ],
+    "Pascal": [
+        "Pascal"
+    ],
+    "Paste": [
+        "جای‌گذاری"
+    ],
+    "Paste Cell Above": [
+        "جای‌گذاری یاخته در بالای یاخته انتخابی",
+        "crwdns15573:5crwdne15573:5"
+    ],
+    "Paste Cell Below": [
+        "جای‌گذاری یاخته در زیر یاخته انتخابی",
+        "crwdns15569:5crwdne15569:5"
+    ],
+    "Paste Cell and Replace": [
+        "جای‌گذاری یاخته و جایگزینی",
+        "crwdns15579:5crwdne15579:5"
+    ],
+    "Paste cells from the clipboard": [
+        "crwdns12525:0crwdne12525:0"
+    ],
+    "Paste this cell from the clipboard": [
+        "جای‌گذاری این یاخته از کلیپ‌بورد",
+        "crwdns15571:5%1crwdne15571:5"
+    ],
+    "Path": [
+        "نشانی"
+    ],
+    "Path Not Found": [
+        "نشانی یافت نشد"
+    ],
+    "Path to save the workspace in": [
+        "crwdns17122:0crwdne17122:0"
+    ],
+    "Path:": [
+        "crwdns11559:0crwdne11559:0"
+    ],
+    "Path: %1": [
+        "نشانی: %1"
+    ],
+    "Pause": [
+        "مکث"
+    ],
+    "Pause on exception filter": [
+        "crwdns15349:0crwdne15349:0"
+    ],
+    "Perl": [
+        "Perl"
+    ],
+    "Pig": [
+        "Pig"
+    ],
+    "Please confirm you want to close \"%1\".": [
+        "crwdns14667:0%1crwdne14667:0"
+    ],
+    "Please confirm you want to shut down %1.": [
+        "لطفا اگر می‌خواهید %1 را خاموش کنید، آن را تایید کنید."
+    ],
+    "Please confirm you want to shut down JupyterLab.": [
+        "لطفا تایید کنید که می‌خواهید آزمایشگاه Jupyter را خاموش کنید."
+    ],
+    "Please disable the dependant plugins first.": [
+        "crwdns16824:0crwdne16824:0"
+    ],
+    "Please disable the dependent plugins first.": [
+        "لطفا ابتدا افزونه‌های وابسته را غیرفعال کنید."
+    ],
+    "Please read the privacy policy.": [
+        "لطفا حریم خصوصی را بخوانید."
+    ],
+    "Plugin": [
+        "افزونه"
+    ],
+    "Plugin Manager": [
+        "مدیر افزونه"
+    ],
+    "PostgreSQL": [
+        "PostgreSQL"
+    ],
+    "PowerShell": [
+        "PowerShell"
+    ],
+    "Presentation Mode": [
+        "حالت ارائه"
+    ],
+    "Preserve Case": [
+        "crwdns15383:0crwdne15383:0"
+    ],
+    "Previous": [
+        "قبلی"
+    ],
+    "Previous Inline Completion": [
+        "تکمیل درون‌خطی قبلی"
+    ],
+    "Previous Match": [
+        "crwdns15385:0crwdne15385:0"
+    ],
+    "Print\u2026": [
+        "چاپ\u2026"
+    ],
+    "Privacy policies": [
+        "سیاست‌های حفظ حریم خصوصی"
+    ],
+    "Properties files": [
+        "خاصیت پرونده‌ها"
+    ],
+    "Property Inspector": [
+        "بازرس خاصیت"
+    ],
+    "ProtoBuf": [
+        "ProtoBuf"
+    ],
+    "Provider: %1": [
+        "تهیه کننده: %1"
+    ],
+    "Provides": [
+        "تهیه شدگان"
+    ],
+    "Pug": [
+        "Pug"
+    ],
+    "Puppet": [
+        "Puppet"
+    ],
+    "Python": [
+        "Python"
+    ],
+    "Python File": [
+        "پرونده Python"
+    ],
+    "Q": [
+        "Q"
+    ],
+    "R": [
+        "R"
+    ],
+    "R File": [
+        "پرونده R"
+    ],
+    "RPM Changes": [
+        "RPM Changes"
+    ],
+    "RPM Spec": [
+        "RPM Spec"
+    ],
+    "Raw": [
+        "نوشته خام"
+    ],
+    "Raw Cell Content": [
+        "crwdns14967:0crwdne14967:0"
+    ],
+    "ReStructured Text": [
+        "بازسازی متن"
+    ],
+    "Read-only": [
+        "فقط خواندنی"
+    ],
+    "Reason given:": [
+        "crwdns12009:0crwdne12009:0"
+    ],
+    "Recently Closed": [
+        "اخیرا بسته شده"
+    ],
+    "Reconnect to Kernel": [
+        "اتصال مجدد به هسته"
+    ],
+    "Rectangular (block) selection can be created by dragging the mouse pointer while holding the left mouse button and the Alt key. When the Alt key is pressed, a crosshair cursor will appear, indicating that the rectangular selection mode is active.": [
+        "انتخاب مستطیلی (بلوکی) می‌تواند که توسط حرکت شیء با اشاره‌گر موشواره تا زمانی که دکمه چپ موشواره و کلید Alt را فشار دهید ایجاد شود. وقتی که کلید Alt فشار داده شود، هدف مکان‌نما پدیدار می‌شود. این نشانه این است که انتخاب مستطیلی فعال است."
+    ],
+    "Rectangular selection": [
+        "انتخاب مستطیلی"
+    ],
+    "Redo": [
+        "انجام مجدد"
+    ],
+    "Redo Cell Operation": [
+        "انجام مجدد آخرین عمل"
+    ],
+    "Refresh File List": [
+        "همگام سازی فهرست پرونده‌ها"
+    ],
+    "Refresh Licenses": [
+        "همگام سازی مجوزها"
+    ],
+    "Refresh List": [
+        "همگام سازی فهرست"
+    ],
+    "Refresh Plugin List": [
+        "crwdns16820:0crwdne16820:0"
+    ],
+    "Refresh Terminal": [
+        "همگام سازی ترمینال"
+    ],
+    "Refresh extensions list": [
+        "همگام سازی فهرست توسعه"
+    ],
+    "Refresh kernel sources": [
+        "همگام سازی منابع هسته"
+    ],
+    "Refresh plugins list": [
+        "crwdns16816:0crwdne16816:0"
+    ],
+    "Refresh the current terminal session": [
+        "crwdns12919:0crwdne12919:0"
+    ],
+    "Refresh the file browser.": [
+        "همگام‌سازی کاوشگر پرونده‌ها"
+    ],
+    "Reload": [
+        "تازه سازی"
+    ],
+    "Reload %1 from Disk": [
+        "تازه‌سازی %1 از دیسک"
+    ],
+    "Reload Without Saving": [
+        "تازه‌سازی بدون ذخیره کردن"
+    ],
+    "Reload contents from disk": [
+        "crwdns11777:0crwdne11777:0"
+    ],
+    "Remember my choice and always start the preferred kernel": [
+        "crwdns14953:0crwdne14953:0"
+    ],
+    "Remove": [
+        "حذف کردن"
+    ],
+    "Remove All Breakpoints": [
+        "حذف تمامی نقاط جدایی"
+    ],
+    "Remove breakpoints": [
+        "حذف نقاط جدایی"
+    ],
+    "Remove server": [
+        "حذف سرور"
+    ],
+    "Rename": [
+        "تغییر نام"
+    ],
+    "Rename Error": [
+        "خطای تغییر ناک"
+    ],
+    "Rename File": [
+        "تغییر نام پرونده"
+    ],
+    "Rename Workspace": [
+        "تغییر نام فضای کاری"
+    ],
+    "Rename Workspace\u2026": [
+        "تغییر نام فضای کاری\u2026"
+    ],
+    "Rename and Save": [
+        "تغییر نام و ذخیره"
+    ],
+    "Rename file": [
+        "تغییر نام پرونده"
+    ],
+    "Rename%1\u2026": [
+        "تغییرنام%1\u2026"
+    ],
+    "Render All Markdown Cells": [
+        "ارائه دادن همه یاخته‌های Markdown"
+    ],
+    "Render Side-by-Side": [
+        "ارائه دادن پهلو به پهلو"
+    ],
+    "Render Variable": [
+        "crwdns11677:0crwdne11677:0"
+    ],
+    "Render variable according to its mime type": [
+        "crwdns11679:0crwdne11679:0"
+    ],
+    "Render variable: %1": [
+        "crwdns15355:0%1crwdne15355:0"
+    ],
+    "Renderer Failure: %1": [
+        "crwdns11887:0%1crwdne11887:0"
+    ],
+    "Reopen %1": [
+        "بازکردن مجدد %1"
+    ],
+    "Reopen Closed Document": [
+        "بازکردن مجدد سند بسته شده"
+    ],
+    "Reopen recently closed file or notebook.": [
+        "crwdns16988:0crwdne16988:0"
+    ],
+    "Replace": [
+        "جایگزینی"
+    ],
+    "Replace All": [
+        "جایگزینی همه"
+    ],
+    "Replace Selection in Console": [
+        "crwdns11623:0crwdne11623:0"
+    ],
+    "Replace Selection in Editor": [
+        "crwdns12203:0crwdne12203:0"
+    ],
+    "Replace Selection in Notebook Cell": [
+        "crwdns12619:0crwdne12619:0"
+    ],
+    "Request that the Hub restart this server": [
+        "crwdns12313:0crwdne12313:0"
+    ],
+    "Rerender HTML Document": [
+        "crwdns12297:0crwdne12297:0"
+    ],
+    "Reset": [
+        "بازنشانی"
+    ],
+    "Reset All": [
+        "بازنشانی همه"
+    ],
+    "Reset Application State": [
+        "بازنشانی حالت برنامه کاربردی"
+    ],
+    "Reset Default Layout": [
+        "بازنشانی طرح بندی پیش فرض"
+    ],
+    "Reset Image": [
+        "بازنشانی عکس"
+    ],
+    "Reset Workspace": [
+        "بازنشانی فضای کاری"
+    ],
+    "Reset Workspace\u2026": [
+        "بازنشانی فضای کاری\u2026"
+    ],
+    "Reset all shortcuts": [
+        "بازنشانی همه میانبرها"
+    ],
+    "Reset shortcut back to default": [
+        "crwdns12855:0crwdne12855:0"
+    ],
+    "Reset state when loading for the workspace.": [
+        "crwdns14941:0crwdne14941:0"
+    ],
+    "Resetting workspace %2 will close its %1 tab and return to default layout.": [
+        "crwdns17102:1%2crwdnd17102:1%1crwdne17102:1",
+        "crwdns17102:5%2crwdnd17102:5%1crwdne17102:5"
+    ],
+    "Restart": [
+        "راه‌اندازی مجدد"
+    ],
+    "Restart Kernel": [
+        "راه‌اندازی مجدد هسته"
+    ],
+    "Restart Kernel and Clear Outputs of All Cells\u2026": [
+        "راه‌اندازی مجدد هسته و پاک‌کردن خروجب تمامی یاخته‌ها\u2026"
+    ],
+    "Restart Kernel and Clear\u2026": [
+        "راه‌اندازی مجدد هسته و پاک کردن\u2026"
+    ],
+    "Restart Kernel and Debug\u2026": [
+        "راه‌اندازی مجدد هسته و خطایابی\u2026"
+    ],
+    "Restart Kernel and Run All": [
+        "راه‌اندازی مجدد هسته و اجرای همه"
+    ],
+    "Restart Kernel and Run All Cells\u2026": [
+        "راه‌اندازی مجدد هسته و اجرای همه یاخته‌ها\u2026"
+    ],
+    "Restart Kernel and Run up to Selected Cell\u2026": [
+        "راه‌اندازی مجدد هسته و اجرای یاخته‌های انتخاب‌شده\u2026"
+    ],
+    "Restart Kernel?": [
+        "هسته راه‌اندازی مجدد شود؟"
+    ],
+    "Restart Kernel\u2026": [
+        "راه‌اندازی مجدد هسته"
+    ],
+    "Restart Server": [
+        "راه‌اندازی مجددد سرور"
+    ],
+    "Restart the kernel": [
+        "راه‌اندازی مجدد هسته"
+    ],
+    "Restart the kernel and clear all outputs of all cells": [
+        "crwdns15549:0crwdne15549:0"
+    ],
+    "Restart the kernel and run all cells": [
+        "راه‌اندازی مجدد هسته و اجرای تمام یاخته‌ها"
+    ],
+    "Restart the kernel, then re-run the whole notebook": [
+        "crwdns12635:0crwdne12635:0"
+    ],
+    "Restarting": [
+        "crwdns11517:0crwdne11517:0"
+    ],
+    "Restore to Defaults": [
+        "برگرداندن به تنظیمات پیش‌فرض"
+    ],
+    "Reveal.js Slides": [
+        "نمابرگ Reveal.js"
+    ],
+    "Revert": [
+        "بازگرداندن"
+    ],
+    "Revert %1 to Checkpoint\u2026": [
+        "بازگرداندن %1 به حالت قبل\u2026"
+    ],
+    "Revert %1 to checkpoint": [
+        "بازگرداندن %1 به حالت قبل"
+    ],
+    "Revert User Settings": [
+        "بازگرداندن تنظیمات کاربر"
+    ],
+    "Revert changes to data": [
+        "crwdns11589:0crwdne11589:0"
+    ],
+    "Revert contents to previous checkpoint": [
+        "crwdns11787:0crwdne11787:0"
+    ],
+    "Revert to Checkpoint": [
+        "crwdns15959:0crwdne15959:0"
+    ],
+    "Rotate Clockwise": [
+        "چرخش ساعتگرد"
+    ],
+    "Rotate Counterclockwise": [
+        "چرخش پادساعتگرد"
+    ],
+    "Ruby": [
+        "Ruby"
+    ],
+    "Rulers": [
+        "خط‌کش‌ها‌"
+    ],
+    "Run": [
+        "اجرا"
+    ],
+    "Run All": [
+        "اجرای همه"
+    ],
+    "Run All Above Selected Cell": [
+        "اجرای همه یاخته‌های بالای یاخته انتخابی"
+    ],
+    "Run All Cells": [
+        "اجرای تمامی یاخته‌ها"
+    ],
+    "Run All Code": [
+        "اجرای همه کد"
+    ],
+    "Run All Enabled Commands Passed as Args": [
+        "crwdns11457:0crwdne11457:0"
+    ],
+    "Run Cell (forced)": [
+        "اجرای یاخته (اجباری)"
+    ],
+    "Run Cell (unforced)": [
+        "اجرای یاخته (اختیاری)"
+    ],
+    "Run First Enabled Command": [
+        "crwdns11455:0crwdne11455:0"
+    ],
+    "Run Selected": [
+        "اجرای انتخاب‌شده"
+    ],
+    "Run Selected Cell": [
+        "اجرای یاخته انتخابی",
+        "crwdns15535:5crwdne15535:5"
+    ],
+    "Run Selected Cell and All Below": [
+        "اجرای همه یاخته‌های زیر یاخته انتخابی"
+    ],
+    "Run Selected Cell and Do not Advance": [
+        "اجرای یاخته انتخابی و بدون پیشرفت",
+        "crwdns15539:5crwdne15539:5"
+    ],
+    "Run Selected Cell and Insert Below": [
+        "اجرای یاخته انتخابی و قرار دادن در زیر آن",
+        "crwdns15541:5crwdne15541:5"
+    ],
+    "Run Selected Code": [
+        "اجرای کد انتخابی"
+    ],
+    "Run Selected Text or Current Line in Console": [
+        "اجرای متن انتخابی یا خط جاری در کنسول"
+    ],
+    "Run all cells": [
+        "اجرای همه یاخته‌ها"
+    ],
+    "Run the selected cells and advance": [
+        "crwdns12631:0crwdne12631:0"
+    ],
+    "Run this cell and advance": [
+        "اجرای این یاخته و رفتن به بعدی",
+        "crwdns15537:5%1crwdne15537:5"
+    ],
+    "Running": [
+        "درحال اجرا"
+    ],
+    "Running Sessions section": [
+        "crwdns12759:0crwdne12759:0"
+    ],
+    "Running Terminals and Kernels": [
+        "ترمینال‌ها و هسته‌های درحال اجرا"
+    ],
+    "Rust": [
+        "Rust"
+    ],
+    "SAS": [
+        "SAS"
+    ],
+    "SCSS": [
+        "SCSS"
+    ],
+    "SEARCH": [
+        "جستجو"
+    ],
+    "SML": [
+        "SML"
+    ],
+    "SPARQL": [
+        "SPARQL"
+    ],
+    "SQL": [
+        "SQL"
+    ],
+    "SQLite": [
+        "SQLite"
+    ],
+    "Save": [
+        "ذخیره"
+    ],
+    "Save %1": [
+        "ذخیره %1"
+    ],
+    "Save %1 As\u2026": [
+        "ذخیره %1 در\u2026"
+    ],
+    "Save All": [
+        "ذخیره همه"
+    ],
+    "Save Current Workspace": [
+        "ذخیره فضای کاری فعلی"
+    ],
+    "Save Current Workspace As\u2026": [
+        "ذخیره فضای کاری فعلی\u2026"
+    ],
+    "Save Failed": [
+        "پرونده ذخیره شد"
+    ],
+    "Save File As\u2026": [
+        "ذخیره پرونده در\u2026"
+    ],
+    "Save User Settings": [
+        "ذخیره تنظیمات کاربر"
+    ],
+    "Save all open documents": [
+        "crwdns11815:0crwdne11815:0"
+    ],
+    "Save and Export Notebook to the given `format`.": [
+        "crwdns15615:0crwdne15615:0"
+    ],
+    "Save and Export Notebook: %1": [
+        "ذخیره و برون بری دفتر یادداشت: %1"
+    ],
+    "Save and Reload": [
+        "ذخیره و تازه‌سازی"
+    ],
+    "Save and create checkpoint": [
+        "ذخیره و ایجاد پرونده"
+    ],
+    "Save as": [
+        "ذخیره در"
+    ],
+    "Save changes in \"%1\" before closing?": [
+        "آیا تغییراتت در «%1» را قبل از بستن ذخیره می‌کنید؟"
+    ],
+    "Save the notebook contents and create checkpoint": [
+        "crwdns12697:0crwdne12697:0"
+    ],
+    "Save with new path": [
+        "ذخیره با نشانی جدید"
+    ],
+    "Save your work": [
+        "ذخیره کارت"
+    ],
+    "Saving completed": [
+        "ذخیره‌سازی انجام شد"
+    ],
+    "Saving failed": [
+        "ذخیره‌سازی ناموفق بود"
+    ],
+    "Saving started": [
+        "ذخیره‌سازی مجددا راه‌اندازی شد"
+    ],
+    "Scala": [
+        "Scala"
+    ],
+    "Scheme": [
+        "Scheme"
+    ],
+    "Scope": [
+        "crwdns11749:0crwdne11749:0"
+    ],
+    "Search": [
+        "جستجو"
+    ],
+    "Search Cell Outputs": [
+        "جستجو خروی یاخته‌ها"
+    ],
+    "Search Results": [
+        "crwdns12019:0crwdne12019:0"
+    ],
+    "Search Tabs and Running Sessions": [
+        "جستجوی زبانه‌ها و اجرای نشست‌ها"
+    ],
+    "Search extensions": [
+        "جستجوی بسته‌ها"
+    ],
+    "Search in %1 Selected Cell": [
+        "crwdns15625:1%1crwdne15625:1",
+        "crwdns15625:5%1crwdne15625:5"
+    ],
+    "Search in %1 Selected Line": [
+        "crwdns15627:1%1crwdne15627:1",
+        "crwdns15627:5%1crwdne15627:5"
+    ],
+    "Search in Selection": [
+        "جستجو در انتخاب‌شده‌ها"
+    ],
+    "Search in the cell outputs (not available when replace options are shown).": [
+        "crwdns16998:0crwdne16998:0"
+    ],
+    "Search in the cell outputs.": [
+        "crwdns15623:0crwdne15623:0"
+    ],
+    "Search on File Names": [
+        "جستجو در نام پرونده‌ها"
+    ],
+    "Search only in the selected cells or text (depending on edit/command mode).": [
+        "crwdns15629:0crwdne15629:0"
+    ],
+    "Search settings\u2026": [
+        "جستجوی تنظیمات\u2026"
+    ],
+    "Search shortcuts": [
+        "جستجوی میانبرها"
+    ],
+    "Search workspace": [
+        "جستجوی فضای کاری"
+    ],
+    "Searching outputs is expensive and requires to first rendered all outputs. Are you sure you want to search in the cell outputs?": [
+        "crwdns15631:0crwdne15631:0"
+    ],
+    "Searching outputs requires you to run all cells and render their outputs. Are you sure you want to search in the cell outputs?": [
+        "crwdns17000:0crwdne17000:0"
+    ],
+    "Search\u2026": [
+        "جستجو\u2026"
+    ],
+    "Select": [
+        "انتخاب"
+    ],
+    "Select All": [
+        "انتخاب همه"
+    ],
+    "Select All Cells": [
+        "انتخاب همه یاخته‌ها"
+    ],
+    "Select Cell Above": [
+        "انتخاب یاخته بالایی"
+    ],
+    "Select Cell Below": [
+        "انتخاب یاخته زیرین"
+    ],
+    "Select Heading Above or Collapse Heading": [
+        "انتخاب سربرگ بالا یا انداختن سربرگ"
+    ],
+    "Select Heading Below or Expand Heading": [
+        "انتخاب سربرگ زیرین یا گسترش سربرگ"
+    ],
+    "Select Kernel": [
+        "انتخاب هسته"
+    ],
+    "Select Next Occurrence": [
+        "انتخاب رویداد بعدی"
+    ],
+    "Select Workspace Files to Import": [
+        "پرونده‌های فضای کاری را برای وارد کردن انتخاب کنید"
+    ],
+    "Select a filter for breakpoints on exception": [
+        "crwdns15347:0crwdne15347:0"
+    ],
+    "Select a kernel that supports debugging to enable debugger": [
+        "crwdns11711:0crwdne11711:0"
+    ],
+    "Select a plugin from the list to view and edit its preferences.": [
+        "یک افزونه را از فهرست برای نمایش انتخاب کنید و اولویت‌هایش را ویرایش کنید."
+    ],
+    "Select all files and directories": [
+        "انتخاب همه پرونده‌ها و مسیرها"
+    ],
+    "Select and Run Cell(s) for this Heading": [
+        "crwdns15613:0crwdne15613:0"
+    ],
+    "Select current running or last run cell": [
+        "crwdns12617:0crwdne12617:0"
+    ],
+    "Select directory \"%1\"": [
+        "crwdns15459:0%1crwdne15459:0"
+    ],
+    "Select file \"%1\"": [
+        "crwdns15463:0%1crwdne15463:0"
+    ],
+    "Select kernel for:": [
+        "انتخاب هسته برای: "
+    ],
+    "Select settings sections to import": [
+        "crwdns29467:0crwdne29467:0"
+    ],
+    "Select the cell type": [
+        "انتخاب نوع یاخته"
+    ],
+    "Select the completion suggestion.": [
+        "crwdns15337:0crwdne15337:0"
+    ],
+    "Selecting \"Trust\" will re-render this notebook in a trusted state.": [
+        "crwdns15617:0crwdne15617:0"
+    ],
+    "Selection deleted": [
+        "crwdns15009:0crwdne15009:0"
+    ],
+    "Selectors": [
+        "انتخاب کننده"
+	],
+    "Server Connection Error": [
+        "خطای اتصال به سرور"
+    ],
+    "Server name:": [
+        "نام سرور:"
+    ],
+    "Server stopped": [
+        "سرور متوقف شد"
+    ],
+    "Server unavailable or unreachable": [
+        "crwdns12305:0crwdne12305:0"
+    ],
+    "Sessions and Tabs": [
+        "نشست‌ها و زبانه‌ها"
+    ],
+    "Set %1 mode.": [
+        "قراردادن حالت %1"
+    ],
+    "Set Log Level to %1": [
+        "crwdns12367:0%1crwdne12367:0"
+    ],
+    "Set Preferred Dark Theme: %1": [
+        "قراردادن زمینه تیره به عنوان اصلی: %1"
+    ],
+    "Set Preferred Light Theme: %1": [
+        "قرار دادن زمینه روشن به عنوان اصلی: %1"
+    ],
+    "Set log level to `level`.": [
+        "crwdns15509:0crwdne15509:0"
+    ],
+    "Set side-by-side ratio": [
+        "قراردادن نسبت پهلو به پهلو"
+    ],
+    "Set terminal theme to the provided `theme`.": [
+        "crwdns15655:0crwdne15655:0"
+    ],
+    "Set the layout `mode`.": [
+        "crwdns14929:0crwdne14929:0"
+    ],
+    "Set the terminal theme": [
+        "crwdns12927:0crwdne12927:0"
+    ],
+    "Settings": [
+        "تنظیمات"
+    ],
+    "Settings Editor": [
+        "ویرایشگر تنظیمات"
+    ],
+    "Settings Imported": [
+        "تنظیمات درون ریزی شده"
+    ],
+    "Shell": [
+        "Shell"
+    ],
+    "Shift+Right Click for Browser Menu": [
+        "کلیک Shift+Right برای کاوشگر نوار پیمایش"
+    ],
+    "Shortcut": [
+        "میانبر"
+    ],
+    "Shortcut already in use by %1. Overwrite it?": [
+        "crwdns12839:0%1crwdne12839:0"
+    ],
+    "Show Active File in File Browser": [
+        "نمایش پرونده فعال در کاوشگر پرونده‌ها"
+    ],
+    "Show All Kernel Activity": [
+        "نمایش همه هسته‌های فعال"
+    ],
+    "Show Contextual Help": [
+        "نمایش راهنمای متنی در زمینه"
+    ],
+    "Show File Checkboxes": [
+        "crwdns15447:0crwdne15447:0"
+    ],
+    "Show File Size Column": [
+        "crwdns15445:0crwdne15445:0"
+    ],
+    "Show Full Path": [
+        "crwdns16798:0crwdne16798:0"
+    ],
+    "Show Header": [
+        "crwdns14921:0crwdne14921:0"
+    ],
+    "Show Header Above Content": [
+        "crwdns11451:0crwdne11451:0"
+    ],
+    "Show Hidden Files": [
+        "نمایش پرونده‌های پنهان"
+    ],
+    "Show Keyboard Shortcuts": [
+        "crwdns14943:0crwdne14943:0"
+    ],
+    "Show Keyboard Shortcuts\u2026": [
+        "نمایش میانبرهای صفحه کلید"
+    ],
+    "Show Last Modified Column": [
+        "crwdns12045:0crwdne12045:0"
+    ],
+    "Show Left Activity Bar": [
+        "نمایش نوار فعال سمت چپ"
+    ],
+    "Show Left Sidebar": [
+        "نمایش نوار کناری سمت چپ"
+    ],
+    "Show Line Numbers": [
+        "نمایش شماره خطوط"
+    ],
+    "Show Log Console": [
+        "نمایش پیام کنسول"
+    ],
+    "Show Markdown Editor": [
+        "نمایش ویرایشگر Markdown"
+    ],
+    "Show Markdown Preview": [
+        "نمایش Markdown قبلی"
+    ],
+    "Show Minimap": [
+        "نمایش نگاشتک"
+    ],
+    "Show Minimap (virtual scrollbar, enabled with windowing mode: full)": [
+        "نمایش نگاشتک (نوار پیمایش مجازی، فعال کردن حالت ایجاد پنجره: همه‌جا)"
+    ],
+    "Show Notifications": [
+        "نمایش اعلان‌ها"
+    ],
+    "Show Replace": [
+        "نمایش جایگزین"
+    ],
+    "Show Right Activity Bar": [
+        "نمایش نوار فعال سمت راست"
+    ],
+    "Show Right Sidebar": [
+        "نمایش نوار کناری سمت راست"
+    ],
+    "Show Search Filters": [
+        "crwdns15391:0crwdne15391:0"
+    ],
+    "Show Selectors": [
+        "نمابش انتخاب‌کنندگان"
+    ],
+    "Show Status Bar": [
+        "نمایش نوار وضعیت"
+    ],
+    "Show Workspace Indicator": [
+        "نمایش شاخص فضای کاری"
+    ],
+    "Show first-level heading number": [
+        "نمایش مرحله اول شماره سربرگ"
+    ],
+    "Show heading number in the document": [
+        "نمایش شماره سربرگ در سند"
+    ],
+    "Show in File Browser": [
+        " نمایش در کاوشگر پرونده‌ها"
+    ],
+    "Show output headings": [
+        "نمایش سربرگ‌های خروجی"
+    ],
+    "Show relevant keyboard shortcuts for the current active widget": [
+        "crwdns14945:0crwdne14945:0"
+    ],
+    "Show the line numbers for the current file.": [
+        "crwdns15475:0crwdne15475:0"
+    ],
+    "Shut Down": [
+        "خاموش کردن"
+    ],
+    "Shut Down All": [
+        "خاموش کردن همه"
+    ],
+    "Shut Down All Kernels\u2026": [
+        "خاموش کردن همه هسته‌ها\u2026"
+    ],
+    "Shut Down All?": [
+        "خاموش کردن همه؟"
+    ],
+    "Shut Down Kernel": [
+        "خاموش کردن هسته"
+    ],
+    "Shut Down Unused": [
+        "خاموش کردن استفاده‌نشده‌ها"
+    ],
+    "Shut down %1": [
+        "خاموش کردن %1"
+    ],
+    "Shut down JupyterLab": [
+        "خاموش کردن آزمیشگاه Jupyter"
+    ],
+    "Shut down all kernels?": [
+        "تمامی هسته‌ها خاموش شوند؟"
+    ],
+    "Shut down kernel": [
+        "خاموش کردن هسته"
+    ],
+    "Shut down the console?": [
+        "کنسول خاموش شود؟"
+    ],
+    "Shut down the notebook?": [
+        "دفتر یادداشت خاموش شود؟"
+    ],
+    "Shutdown Terminal": [
+        "خاموش کردن ترمینال"
+    ],
+    "Shutdown confirmation": [
+        "تایید خاموش کردن"
+    ],
+    "Sieve": [
+        "Sieve"
+    ],
+    "Simple": [
+        "حالت ساده"
+    ],
+    "Simple Interface": [
+        "واسط ساده"
+    ],
+    "Simple Interface (%1)": [
+        "واسط ساده (%1)"
+    ],
+    "Size": [
+        "اندازه"
+    ],
+    "Smalltalk": [
+        "Smalltalk"
+    ],
+    "Smart Indentation": [
+        "فرورفتگی خودکار"
+    ],
+    "Solr": [
+        "Solr"
+    ],
+    "Some changes have not been saved. Continue without saving?": [
+        "crwdns12835:0crwdne12835:0"
+    ],
+    "Sort Notebooks Above Files": [
+        "crwdns15971:0crwdne15971:0"
+    ],
+    "Source": [
+        "منبع"
+    ],
+    "Sources preview panel toolbar": [
+        "crwdns29443:0crwdne29443:0"
+    ],
+    "Spaces": [
+        "فاصله‌ها"
+    ],
+    "Split Cell": [
+        "تقسیم یاخته"
+    ],
+    "Spreadsheet": [
+        "Spreadsheet"
+    ],
+    "Squirrel": [
+        "Squirrel"
+    ],
+    "Start %1 Kernel": [
+        "شروع هسته %1"
+    ],
+    "Start Kernel": [
+        "شروع هسته"
+    ],
+    "Start Other Kernel": [
+        "شروه سایر هسته‌ها"
+    ],
+    "Start Preferred Kernel": [
+        "crwdns11547:0crwdne11547:0"
+    ],
+    "Start a new terminal session": [
+        "crwdns12915:0crwdne12915:0"
+    ],
+    "Start debugger": [
+        "آغاز خطایاب"
+    ],
+    "Start debugger?": [
+        "آغاز خطایاب؟"
+    ],
+    "Starting": [
+        "درحال شروع"
+    ],
+    "Step In": [
+        "بازدید کوتاه"
+    ],
+    "Step Out": [
+        "خارج شدن"
+    ],
+    "Stylus": [
+        "Stylus"
+    ],
+    "Swift": [
+        "Swift"
+    ],
+    "Switch Sidebar Side": [
+        "crwdns11369:0crwdne11369:0"
+    ],
+    "Switch kernel": [
+        "تغییر هسته"
+    ],
+    "Switch to List View": [
+        "تغییر به نمای فهرست"
+    ],
+    "Switch to Tree View": [
+        "تغییر به نمای درختی"
+    ],
+    "Switch to the provided `theme`.": [
+        "crwdns14949:0crwdne14949:0"
+    ],
+    "Switch to the provided dark `theme`.": [
+        "crwdns16730:0crwdne16730:0"
+    ],
+    "Switch to the provided light `theme`.": [
+        "crwdns16726:0crwdne16726:0"
+    ],
+    "Synchronize Styling Theme with System Settings": [
+        "هماهنگ کردن سبک زمینه با تنظیمات سامانه"
+    ],
+    "Synchronize with System Settings": [
+        "هماهنگ کردن با تنظیمات سامانه"
+    ],
+    "System Defaults": [
+        "پیش‌فرض سامانه"
+    ],
+    "SystemVerilog": [
+        "SystemVerilog"
+    ],
+    "TOML": [
+        "TOML"
+    ],
+    "TSV File": [
+        "پرونده TSV"
+    ],
+    "TSV Viewer": [
+        "نمایشگر TSV"
+    ],
+    "TSX": [
+        "TSX"
+    ],
+    "TTCN": [
+        "TTCN"
+    ],
+    "TTCN_CFG": [
+        "TTCN_CFG"
+    ],
+    "Tab Indent": [
+        "crwdns15495:0crwdne15495:0"
+    ],
+    "Tab size": [
+        "اندازه Tab"
+    ],
+    "Table View": [
+        "نمای جدول"
+    ],
+    "Table of Contents": [
+        "جدول محتواها"
+    ],
+    "Table of Contents section": [
+        "crwdns12939:0crwdne12939:0"
+    ],
+    "Table of contents sidepanel toolbar": [
+        "crwdns29485:0crwdne29485:0"
+    ],
+    "Tabs and Running Sessions": [
+        "crwdns17002:0crwdne17002:0"
+    ],
+    "Tcl": [
+        "Tcl"
+    ],
+    "Terminal": [
+        "ترمینال"
+    ],
+    "Terminal %1": [
+        "ترمینال %1"
+    ],
+    "Terminals": [
+        "ترمینال‌ها"
+    ],
+    "Terminate": [
+        "پایان دادن"
+    ],
+    "Terminating": [
+        "درحال پایان دادن"
+    ],
+    "Text": [
+        "متن"
+    ],
+    "Text Editor": [
+        "ویرایشگر متن"
+    ],
+    "Text File": [
+        "پرونده متنی"
+    ],
+    "Textile": [
+        "Textile"
+    ],
+    "Thanks for trying out JupyterLab's extension manager.\nThe JupyterLab development team is excited to have a robust\nthird-party extension community.\nHowever, we cannot vouch for every extension,\nand some may introduce security risks.\nDo you want to continue?": [
+        "از شما بابت کامل آزمودن مدیر بسته‌های آزمایشگاه Jupyter متشکریم. \nگروه توسعه آزمایشگاه Jupyter از داشتن یک جامعه قوی از بسته‌های \nشخص ثالث هیجان‌زده است. \n با این حال، ما هر بسته‌ای را نمی‌توانیم تایید کنیم، \nو برخی ممکن است خطرات امنیتی داشته باشند. \nآیا می‌خواهید ادامه دهید؟"
+    ],
+    "The \"%1\" workspace will be saved in the chosen directory as \"%1%2\".": [
+        "فضای کاری «%1» در یک نشانی جدید به نام «%1%2» ذخیره خواهد شد."
+    ],
+    "The JupyterLab development team is excited to have a robust\nthird-party extension community. However, we do not review\nthird-party extensions, and some extensions may introduce security\nrisks or contain malicious code that runs on your machine. Moreover in order\nto work, this panel needs to fetch data from web services. Do you agree to\nactivate this feature?": [
+        "تیم توسعه آزمایشگاه Jupyter از داشتن یک جامعه قوی از بسته‌های\n شخص ثالث هیجان‌زده است. با این حال، ما بسته‌های شخص ثالث\n را بررسی نمی‌کنیم و برخی از افزونه‌ها ممکن است خطرات امنیتی ایجاد کنند\n یا حاوی کد مخربی باشند که روی دستگاه شما اجرا می‌شود. علاوه بر این، برای کار کردن،\n این صفحه باید داده‌ها را از سرویس‌های وب دریافت کند. آیا موافقید که \nاین ویژگی را فعال کنید؟"
+    ],
+    "The cell has not been executed to avoid kernel deadlock as there is another pending input! Submit your pending input and try again.": [
+        "crwdns12687:0crwdne12687:0"
+    ],
+    "The cell has not been executed to avoid kernel deadlock as there is another pending input! Type your input in the input box, press Enter and try again.": [
+        "crwdns29300:0crwdne29300:0"
+    ],
+    "The cell is read-only, its type cannot be changed!": [
+        "crwdns29298:0crwdne29298:0"
+    ],
+    "The cell type has not been changed to avoid kernel deadlock as this cell has pending input! Submit your pending input and try again.": [
+        "crwdns16996:0crwdne16996:0"
+    ],
+    "The checkpoint was last updated at: ": [
+        "این نسخه آخرین بار به‌روز شده در: "
+    ],
+    "The debugger service is needed to open the source %1": [
+        "crwdns16780:0%1crwdne16780:0"
+    ],
+    "The file size is %1 MB. Do you still want to upload it?": [
+        "crwdns12161:0%1crwdne12161:0"
+    ],
+    "The following plugins cannot be disabled as they are locked: ": [
+        "crwdns16650:0crwdne16650:0"
+    ],
+    "The following plugins cannot be enabled as they are locked: ": [
+        "crwdns16652:0crwdne16652:0"
+    ],
+    "The indentation is a `Tab` or the number of spaces. This defaults to 4 spaces.": [
+        "تورفتگی یک «Tab» یا تعدادی فاصله است. پیش فرض آن 4 فاصله است."
+    ],
+    "The kernel for %1 appears to be terminating. You can not run any cell for now.": [
+        "crwdns12683:0%1crwdne12683:0"
+    ],
+    "The kernel for %1 appears to have died. It will restart automatically.": [
+        "crwdns12741:0%1crwdne12741:0"
+    ],
+    "The layout `mode` can be \"single-document\" or \"multiple-document\".": [
+        "crwdns14931:0crwdne14931:0"
+    ],
+    "The loading screen is taking a long time.\nWould you like to clear the workspace or keep waiting?": [
+        "crwdns11443:0crwdne11443:0"
+    ],
+    "The maximum number of suggestions to retrieve from history.": [
+        "بیشتری تعداد پیشنهادات به بازیابی کردن از تاریخچه است"
+    ],
+    "The notebook is empty. Click the + button on the toolbar to add a new cell.": [
+        "دفتر یادداشت خالی است. دکمه + را در نوار ابزارها برای ایجاد یک یاخته جدید کلیک کنید."
+    ],
+    "The path: %1 was not found. JupyterLab redirected to: %2": [
+        "نشانی: %1 یافت نشد. آزمایشگاه Jupyter به %2 تغییر مسیر داد."
+    ],
+    "The plugin \"%1\" cannot be disabled as it is required by other plugins:": [
+        "افزونه «%1» نمی‌تواند غیرفعال شود زیرا افزونه‌های دیگر به آن نیاز دارند:"
+    ],
+    "The property inspector allows to view and edit properties of a selected notebook.": [
+        "بازرس خاصیت اجازه می‌دهد که خواص انتخاب‌شده‌های دفتر یادداشت نمایش و ویرایش شوند."
+    ],
+    "The table of contents shows headings in notebooks and supported files.": [
+        "جدول محتواها سربرگ‌های دفاتر یادداشت را نشان داده و از پرونده‌ها پشتیبانی می‌کند."
+    ],
+    "The variable is undefined in the active context.": [
+        "crwdns11747:0crwdne11747:0"
+    ],
+    "Theme": [
+        "زمینه"
+    ],
+    "Theme Scrollbars": [
+        "زمینه نوار پیمایش"
+    ],
+    "This HTML output contains inline scripts. Are you sure that you want to run arbitrary Javascript within your JupyterLab session?": [
+        "crwdns12753:0crwdne12753:0"
+    ],
+    "This cannot be undone.": [
+        "این نمی‌تواند خراب باشد."
+    ],
+    "This extension is approved by your security team.": [
+        "crwdns15407:0crwdne15407:0"
+    ],
+    "This notebook has been converted from an newer notebook format (v%1)\nto the current notebook format (v%2).\nThe next time you save this notebook, the current notebook format (v%2) will be used.\nSome features of the original notebook may not be available.' To preserve the original format version,\nclose the notebook without saving it.": [
+        "crwdns12707:0%1crwdnd12707:0%2crwdnd12707:0%2crwdne12707:0"
+    ],
+    "This notebook has been converted from an older notebook format (v%1)\nto the current notebook format (v%2).\nThe next time you save this notebook, the current notebook format (v%2) will be used.\n'Older versions of Jupyter may not be able to read the new format.' To preserve the original format version,\nclose the notebook without saving it.": [
+        "crwdns12705:0%1crwdnd12705:0%2crwdnd12705:0%2crwdne12705:0"
+    ],
+    "This plugin is locked.": [
+        "این افزونه قفل است."
+    ],
+    "This plugin is required by other plugins": [
+        "افزونه‌های دیگر به این افزونه نیاز دارند"
+    ],
+    "This plugin is used by other plugins": [
+        "افزونه‌های دیگر از این افزونه استفاده می‌کنند"
+    ],
+    "This plugin was locked by system administrator or is a critical dependency and cannot be enabled/disabled.": [
+        "crwdns16856:0crwdne16856:0"
+    ],
+    "This will disable the extension manager panel; including the listing of installed extension.": [
+        "crwdns15431:0crwdne15431:0"
+    ],
+    "This will withdraw your consent.": [
+        "crwdns15429:0crwdne15429:0"
+    ],
+    "TiddlyWiki": [
+        "TiddlyWiki"
+    ],
+    "Tiki wiki": [
+        "Tiki wiki"
+    ],
+    "Time since the last key press to wait before requesting completions from %1 provider (in milliseconds).": [
+        "زمان از آخرین فشار کلیک برای صبر کردن پیش از درخواست تکمیل کننده از خدمات دهنده %1 (به هزارم ثانیه)."
+    ],
+    "Timeout": [
+        "پایان زمان مورد نظر"
+    ],
+    "Timeout for %1 provider (in milliseconds).": [
+        "پایان زمان برای مهیاکننده %1 (به هزارم ثانیه)"
+    ],
+    "To enable/disable, please acknowledge the disclaimer.": [
+        "برای فعال/غیرفعال کردن، لطفا بپذیرید که مسئولیت تمام اتفاقات با خودتان است."
+    ],
+    "To use %1 again, you will need to relaunch it.": [
+        "برای استفاده مجدد از %1، شما نیاز خواهید داشت که آن را دوباره فراخوانی کنید."
+    ],
+    "To use JupyterLab again, you will need to relaunch it.": [
+        "برای استفاده مجدد از آزمایشگاه Jupyter، شما نیاز خواهید داشت که آن را دوباره فراخوانی کنید."
+    ],
+    "Toggle Block Comment": [
+        "مسدود کردن نظرات"
+    ],
+    "Toggle Collapse Notebook Heading": [
+        "crwdns15607:0crwdne15607:0"
+    ],
+    "Toggle Comment": [
+        "نظر دادن"
+    ],
+    "Toggle Element %1 in Left Sidebar": [
+        "قرار دادن عنصر %1 در نوار کناری سمت چپ"
+    ],
+    "Toggle Element %1 in Right Sidebar": [
+        "قرار دادن عنصر %1 در نوار کاری سمت راست"
+    ],
+    "Toggle File Filter": [
+        "پالایش کننده پرونده"
+    ],
+    "Toggle Replace": [
+        "جایگزین کردن"
+	],
+    "Toggle Selectors": [
+        "crwdns12863:0crwdne12863:0"
+    ],
+    "Toggle Sidebar Element": [
+        "crwdns16722:0crwdne16722:0"
+    ],
+    "Toggle Tab Focus Mode": [
+        "crwdns29425:0crwdne29425:0"
+    ],
+    "Toggle Visibility of Selected Outputs": [
+        "امکان رؤیت خروجی‌های انتخابی"
+    ],
+    "Toggle command selectors": [
+        "crwdns12865:0crwdne12865:0"
+    ],
+    "Toggle output scrolling": [
+        "crwdns29302:0crwdne29302:0"
+    ],
+    "Toggle search filter": [
+        "تغییر وضعیت پالایشگر نتایج"
+    ],
+    "Toggle virtual scrollbar (enabled with windowing mode: full)": [
+        "crwdns16810:0crwdne16810:0"
+    ],
+    "Toggles behavior of Tab key between inserting indentation and moving to next focusable element": [
+        "crwdns29427:0crwdne29427:0"
+    ],
+    "Toggles block commends in languages which support it (e.g. C, JavaScript)": [
+        "crwdns16950:0crwdne16950:0"
+    ],
+    "Toggles block comments in languages which support it (e.g. C, JavaScript)": [
+        "crwdns29266:0crwdne29266:0"
+    ],
+    "Toolbar customization has changed. You will need to reload JupyterLab to see the changes.": [
+        "crwdns11573:0crwdne11573:0"
+    ],
+    "Top Bar": [
+        "crwdns29333:0crwdne29333:0"
+    ],
+    "Topbar toolbar": [
+        "crwdns29421:0crwdne29421:0"
+    ],
+    "Tree View": [
+        "نمای درختی"
+    ],
+    "Trust": [
+        "crwdns15619:0crwdne15619:0"
+    ],
+    "Trust HTML": [
+        "crwdns12303:0crwdne12303:0"
+    ],
+    "Trust HTML File": [
+        "crwdns12293:0crwdne12293:0"
+    ],
+    "Trust Notebook": [
+        "امانت‌گذاشتن دفتر یادداشت"
+    ],
+    "Trust this notebook?": [
+        "crwdns12677:0crwdne12677:0"
+    ],
+    "Turtle": [
+        "Turtle"
+    ],
+    "Type": [
+        "نوع"
+    ],
+    "TypeScript": [
+        "TypeScript"
+    ],
+    "URL": [
+        "نشانی"
+    ],
+    "Undo": [
+        "لغو"
+    ],
+    "Undo Cell Operation": [
+        "لغو آخرین عمل انجام شده"
+    ],
+    "Unfold line": [
+        "crwdns15023:0crwdne15023:0"
+    ],
+    "Unfolded lines": [
+        "crwdns15013:0crwdne15013:0"
+    ],
+    "Uninstall": [
+        "لغو نصب"
+    ],
+    "Uninstall \"%1\"": [
+        "لغو نصب «%1»"
+    ],
+    "Unknown": [
+        "بدون نام"
+    ],
+    "Unknown Kernel": [
+        "هسته بدون نام"
+    ],
+    "Unknown Session": [
+        "crwdns15643:0crwdne15643:0"
+    ],
+    "Unsaved changes due to validation error. Continue without saving?": [
+        "crwdns12833:0crwdne12833:0"
+    ],
+    "Update \"%1\" to \"%2\"": [
+        "به‌روزرسانی «%1» به «%2»"
+    ],
+    "Update a notification": [
+        "به‌روزرسانی یک اعلان"
+    ],
+    "Update the file browser to display the provided `path`.": [
+        "crwdns15453:0crwdne15453:0"
+    ],
+    "Update to %1": [
+        "crwdns15411:0%1crwdne15411:0"
+    ],
+    "Updating extensions list\u2026": [
+        "درحال بارگذاری فهرست بسته‌ها\u2026"
+    ],
+    "Updating plugin list\u2026": [
+        "درحال بارگذاری فهرست افزونه‌ها\u2026"
+    ],
+    "Upload": [
+        "بارگذاری"
+    ],
+    "Upload Files": [
+        "بارگذاری پرونده‌ها"
+    ],
+    "Uploading\u2026": [
+        "درحال بارگذاری"
+    ],
+    "Use Kernel from Other Session": [
+        "crwdns11553:0crwdne11553:0"
+    ],
+    "Use Kernel from Preferred Session": [
+        "crwdns11551:0crwdne11551:0"
+    ],
+    "Use No Kernel": [
+        "عدم استفاده از هسته"
+    ],
+    "Use Regular Expression": [
+        "crwdns15381:0crwdne15381:0"
+    ],
+    "Use Terminal Theme: %1": [
+        "استفاده از زمینه ترمینال: %1"
+    ],
+    "Use Theme: %1": [
+        "استفاده از زمینه: %1"
+    ],
+    "User Preferences": [
+        "اولویت‌های کاربر"
+    ],
+    "User layout customization has changed. You may need to reload JupyterLab to see the changes.": [
+        "crwdns14935:0crwdne14935:0"
+    ],
+    "VB.NET": [
+        "VB.NET"
+    ],
+    "VBScript": [
+        "VBScript"
+    ],
+    "VHDL": [
+        "VHDL"
+    ],
+    "Value": [
+        "مقدار"
+    ],
+    "Variables": [
+        "متغیرها"
+    ],
+    "Variables toolbar": [
+        "crwdns29445:0crwdne29445:0"
+    ],
+    "Velocity": [
+        "Velocity"
+    ],
+    "Verilog": [
+        "Verilog"
+    ],
+    "Version": [
+        "نسخه"
+    ],
+    "Version %1": [
+        "نسخه %1"
+    ],
+    "Version: %1": [
+        "نسخه: %1"
+    ],
+    "Virtual Scrollbar": [
+        "crwdns16808:0crwdne16808:0"
+    ],
+    "Warning": [
+        "هشدار"
+    ],
+    "Web IDL": [
+        "Web IDL"
+    ],
+    "WebAssembly": [
+        "WebAssembly"
+    ],
+    "Whether the HTML file is trusted.\n    Trusting the file allows scripts to run in it,\n    which may result in security risks.\n    Only enable for files you trust.": [
+        "crwdns12295:0crwdne12295:0"
+    ],
+    "Whether the HTML file is trusted.\nTrusting the file allows opening pop-ups and running scripts\nwhich may result in security risks.\nOnly enable for files you trust.": [
+        "crwdns16185:0crwdne16185:0"
+    ],
+    "Whether the HTML file is trusted.\nTrusting the file allows scripts to run in it,\nwhich may result in security risks.\nOnly enable for files you trust.": [
+        "crwdns29280:0crwdne29280:0"
+    ],
+    "Whether to fetch completions %1 provider.": [
+        "می‌خواهد که مهیاکننده اتمام %1 را ببرد و بیاورد."
+    ],
+    "Whether to show completions in the middle of the code line from %1 provider on typing.": [
+        "می‌خواهد که تکمیل کننده را در میانه خط کد از خدمات دهنده %1 در حروف‌نگاری نشان دهد."
+    ],
+    "While the plugin \"%1\" is not required by other enabled plugins, some plugins provide optional features depending on it. These plugins are:": [
+        "crwdns16826:0%1crwdne16826:0"
+    ],
+    "Width of the output in side-by-side mode": [
+        "عرض خروجی در حالت پهلو به پهلو"
+    ],
+    "Word Wrap": [
+        "crwdns12191:0crwdne12191:0"
+    ],
+    "Workspace": [
+        "فضای کاری"
+    ],
+    "Workspace loader": [
+        "تاره‌ساز فضای کاری"
+    ],
+    "Workspaces": [
+        "فضاهای کاری"
+    ],
+    "Would you like to get notified about official Jupyter news?": [
+        "آیا شما مایلید که اعلان‌هایی از اخبار رسمی Jupyter را دریافت کنید؟"
+    ],
+    "Would you like to receive official Jupyter news?\nPlease read the privacy policy.": [
+        "crwdns14623:0crwdne14623:0"
+    ],
+    "Wrap Words": [
+        "پنهان سازی کلمات"
+    ],
+    "Wrap words for the current file.": [
+        "crwdns15477:0crwdne15477:0"
+    ],
+    "XML": [
+        "XML"
+    ],
+    "XQuery": [
+        "XQuery"
+    ],
+    "YAML": [
+        "YAML"
+    ],
+    "YAML File": [
+        "پرونده YAML"
+    ],
+    "Yacas": [
+        "Yacas"
+    ],
+    "Yes": [
+        "بله"
+    ],
+    "You choose one or more workspace files to import. A Jupyter Workspace File has %1 extension.": [
+        "crwdns17108:0%1crwdne17108:0"
+    ],
+    "You have shut down the Jupyter server. You can now close this tab.": [
+        "شما سرور Jupyter را خاموش کردید. الان می‌توانید این صفحه را ببندید."
+    ],
+    "You have unsaved changes.": [
+        "crwdns12817:0crwdne12817:0"
+    ],
+    "You will lose any unsaved changes.": [
+        "crwdns11401:0crwdne11401:0"
+    ],
+    "You will need to %1 to apply the changes.": [
+        "crwdns15403:0%1crwdne15403:0"
+    ],
+    "You will need to restart JupyterLab to apply the changes.": [
+        "crwdns15395:0crwdne15395:0"
+    ],
+    "Your changes were not saved.": [
+        "crwdns12821:0crwdne12821:0"
+    ],
+    "Your server at %1 is not running.\nWould you like to restart it?": [
+        "سرور %1 اجرا اجرا نمی‌شود. \nدوست دارید که آن را راه‌اندازی مجدد کنید؟"
+    ],
+    "Z80": [
+        "Z80"
+    ],
+    "Zoom In": [
+        "کوچک کردن"
+    ],
+    "Zoom Out": [
+        "بزرگ کردن"
+    ],
+    "`%1` is not a valid property": [
+        "crwdns12803:0%1crwdne12803:0"
+    ],
+    "additional property error": [
+        "crwdns12801:0crwdne12801:0"
+    ],
+    "all": [
+        "همه"
+    ],
+    "alternate sidebar": [
+        "crwdns11439:0crwdne11439:0"
+    ],
+    "close": [
+        "بستن"
+    ],
+    "codemirror": [
+        "codemirror"
+    ],
+    "current match": [
+        "crwdns15043:0crwdne15043:0"
+    ],
+    "default": [
+        "پیش‌فرض"
+    ],
+    "Diff": [
+        "Diff"
+    ],
+    "document is permissioned readonly; \"save\" is disabled, use \"save as...\" instead": [
+        "crwdns16786:0crwdne16786:0"
+    ],
+    "edn": [
+        "edn"
+    ],
+    "error": [
+        "خطا"
+    ],
+    "file browser": [
+        "کاوشگر پرونده‌ها"
+    ],
+    "folded code": [
+        "crwdns15017:0crwdne15017:0"
+    ],
+    "go": [
+        "crwdns15027:0crwdne15027:0"
+    ],
+    "hash": [
+        "hash"
+    ],
+    "install the extension in all kernels and restart them": [
+        "crwdns15401:0crwdne15401:0"
+    ],
+    "ipython": [
+        "ipython"
+    ],
+    "is a required property": [
+        "این یک خاصیت مورد نیاز است"
+    ],
+    "mIRC": [
+        "mIRC"
+    ],
+    "main": [
+        "اصلی"
+    ],
+    "main area content": [
+        "crwdns29494:0crwdne29494:0"
+    ],
+    "main area toolbar": [
+        "crwdns29496:0crwdne29496:0"
+    ],
+    "main menu": [
+        "crwdns16724:0crwdne16724:0"
+    ],
+    "main sidebar": [
+        "crwdns11437:0crwdne11437:0"
+    ],
+    "match case": [
+        "crwdns15035:0crwdne15035:0"
+    ],
+    "mbox": [
+        "mbox"
+    ],
+    "menu\u0004Appearance": [
+        "ظاهر"
+    ],
+    "menu\u0004Connected Sessions\u2026": [
+        "crwdns14901:0crwdne14901:0"
+    ],
+    "menu\u0004Console Run Keystroke": [
+        "اجرای کنسول با ضربه کلید"
+    ],
+    "menu\u0004Edit": [
+        "ویرایش"
+    ],
+    "menu\u0004File": [
+        "پرونده"
+    ],
+    "menu\u0004Help": [
+        "راهنما"
+    ],
+    "menu\u0004Kernel": [
+        "هسته"
+    ],
+    "menu\u0004Language": [
+        "زبان"
+    ],
+    "menu\u0004New": [
+        "جدید"
+    ],
+    "menu\u0004Open With": [
+        "بازکردن با"
+    ],
+    "menu\u0004Run": [
+        "اجرا"
+    ],
+    "menu\u0004Save and Export Notebook As": [
+        "ذخیره و صادر کردن دفتر یادداشت در"
+    ],
+    "menu\u0004Save and Export Notebook As\u2026": [
+        "crwdns11133:0crwdne11133:0"
+    ],
+    "menu\u0004Settings": [
+        "تنظیمات"
+    ],
+    "menu\u0004Tabs": [
+        "زبانه‌ها"
+    ],
+    "menu\u0004Terminal Theme": [
+        "زمینه ترمینال"
+    ],
+    "menu\u0004Text Editor Indentation": [
+        "ایجاد فرورفتگی در ویرایشگر متن"
+    ],
+    "menu\u0004Text Editor Syntax Highlighting": [
+        "رنگی کردن دستورات ویرایشگر متن"
+    ],
+    "menu\u0004Text Editor Theme": [
+        "زمینه ویرایشگر متن"
+    ],
+    "menu\u0004Theme": [
+        "زمینه"
+    ],
+    "menu\u0004View": [
+        "نمایش"
+    ],
+    "menu\u0004Workspaces": [
+        "فضاهای کاری"
+    ],
+    "mscgen": [
+        "mscgen"
+    ],
+    "msgenny": [
+        "msgenny"
+    ],
+    "next": [
+        "بعدی"
+    ],
+    "notebook actions": [
+        "فعالیت‌های دفتر یادداشت"
+    ],
+    "notebook content": [
+        "crwdns11531:0crwdne11531:0"
+    ],
+    "on line": [
+        "در خط"
+    ],
+    "or": [
+        "یا"
+    ],
+    "pipe": [
+        "pipe"
+    ],
+    "press keys": [
+        "crwdns12837:0crwdne12837:0"
+    ],
+    "previous": [
+        "crwdns15031:0crwdne15031:0"
+    ],
+    "refresh the web page": [
+        "crwdns15399:0crwdne15399:0"
+    ],
+    "reload JupyterLab": [
+        "تازه‌سازی آزمایشگاه Jupyter"
+    ],
+    "replace": [
+        "جایگزینی"
+    ],
+    "replace all": [
+        "جایگزینی همه"
+    ],
+    "replaced $ matches": [
+        "crwdns15045:0crwdne15045:0"
+    ],
+    "replaced match on line $": [
+        "crwdns15047:0crwdne15047:0"
+    ],
+    "sTeX": [
+        "sTeX"
+    ],
+    "schema\u0004Application Commands": [
+        "crwdns10669:0crwdne10669:0"
+    ],
+    "schema\u0004Application Context Menu": [
+        "crwdns10707:0crwdne10707:0"
+    ],
+    "schema\u0004Application commands settings.": [
+        "crwdns10667:0crwdne10667:0"
+    ],
+    "schema\u0004CSV Viewer": [
+        "نمایشگر CSV"
+    ],
+    "schema\u0004CSV Viewer settings.": [
+        "تنظیمات نمایشگر CSV"
+    ],
+    "schema\u0004Cell Toolbar": [
+        "ابزارهای یاخته"
+    ],
+    "schema\u0004Cell Toolbar Settings.": [
+        "تنظیمات ابزارهای یاخته"
+    ],
+    "schema\u0004Code Completion": [
+        "تکمیل کد"
+    ],
+    "schema\u0004Code Completion settings.": [
+        "تنظیمات تکمیل کد"
+    ],
+    "schema\u0004Code Console": [
+        "کنسول کد"
+    ],
+    "schema\u0004Code Console Foreign plugin": [
+        "crwdns10847:0crwdne10847:0"
+    ],
+    "schema\u0004Code Console Foreign plugin settings.": [
+        "crwdns10845:0crwdne10845:0"
+    ],
+    "schema\u0004Code Console settings.": [
+        "تنظیمات کنسول کد"
+    ],
+    "schema\u0004CodeMirror": [
+        "CodeMirror"
+    ],
+    "schema\u0004Command Palette": [
+        "نوار فرمان"
+    ],
+    "schema\u0004Command palette settings.": [
+        "تنظیمات نوار فرمان"
+    ],
+    "schema\u0004Common tools": [
+        "crwdns14771:0crwdne14771:0"
+    ],
+    "schema\u0004Console Completer": [
+        "crwdns10835:0crwdne10835:0"
+    ],
+    "schema\u0004Console Tooltips": [
+        "crwdns11335:0crwdne11335:0"
+    ],
+    "schema\u0004Console completer settings.": [
+        "crwdns10833:0crwdne10833:0"
+    ],
+    "schema\u0004Console tooltip settings.": [
+        "crwdns11333:0crwdne11333:0"
+    ],
+    "schema\u0004Debugger": [
+        "خطایاب"
+    ],
+    "schema\u0004Debugger settings": [
+        "تنظیمات خطایاب"
+    ],
+    "schema\u0004Default table of contents settings.": [
+        "تنظیمات پیش‌فرض جدول محتواها"
+    ],
+    "schema\u0004Document Manager": [
+        "مدیریت سند"
+    ],
+    "schema\u0004Document Manager Download": [
+        "بارگیری مدیر سند"
+    ],
+    "schema\u0004Document Manager Download settings.": [
+        "تنظیمات بارگیری مدیر سند"
+    ],
+    "schema\u0004Document Manager settings.": [
+        "تنظیمات مدیریت سند"
+    ],
+    "schema\u0004Document Search": [
+        "جستجوی سند"
+    ],
+    "schema\u0004Document search plugin.": [
+        "افزونه جستجوی سند"
+    ],
+    "schema\u0004Extension Manager": [
+        "مدیر بسته‌ها"
+    ],
+    "schema\u0004Extension manager settings.": [
+        "تنظیمات مدیر بسته‌ها"
+    ],
+    "schema\u0004File Browser": [
+        "کاوشگر پرونده‌ها"
+    ],
+    "schema\u0004File Browser Download": [
+        "بارگیری کاوشگر پرونده‌ها"
+    ],
+    "schema\u0004File Browser Download settings.": [
+        "تنظیمات بارگیری کاوشگر پرونده‌ها"
+    ],
+    "schema\u0004File Browser Open Browser Tab": [
+        "crwdns11021:0crwdne11021:0"
+    ],
+    "schema\u0004File Browser Open Browser Tab settings.": [
+        "crwdns11019:0crwdne11019:0"
+    ],
+    "schema\u0004File Browser Open With": [
+        "کاوشگر پرونده‌ها بازکردن در"
+    ],
+    "schema\u0004File Browser Open With settings.": [
+        "تنظیمات کاوشگر پرونده‌ها بازکردن در"
+    ],
+    "schema\u0004File Browser Widget": [
+        "ابزارک کاوشگر پرونده‌ها"
+    ],
+    "schema\u0004File Browser settings.": [
+        "تنظیمات کاوشکر پرونده‌ها"
+    ],
+    "schema\u0004File Browser widget settings.": [
+        "تنظیمات ابزارک کاوشکر پرونده‌ها"
+    ],
+    "schema\u0004File Editor Completer": [
+        "تکمیل‌کننده ویرایشگر پرونده"
+    ],
+    "schema\u0004File Editor Tooltips": [
+        "crwdns11339:0crwdne11339:0"
+    ],
+    "schema\u0004File editor completer settings.": [
+        "تنظیمات تکمیل‌کننده ویرایشگر پرونده"
+    ],
+    "schema\u0004File editor tooltip settings.": [
+        "crwdns11337:0crwdne11337:0"
+    ],
+    "schema\u0004HTML Sanitizer": [
+        "HTML Sanitizer"
+    ],
+    "schema\u0004HTML Sanitizer settings.": [
+        "تنظیمات HTML Sanitizer"
+    ],
+    "schema\u0004HTML Viewer": [
+        "نمایشگر HTML"
+    ],
+    "schema\u0004HTML Viewer settings.": [
+        "تنظیمات نمایشگر HTML"
+    ],
+    "schema\u0004Help": [
+        "راهنما"
+    ],
+    "schema\u0004Help settings.": [
+        "تنظیمات راهنما"
+    ],
+    "schema\u0004Image Viewer": [
+        "نمایشگر عکس"
+    ],
+    "schema\u0004Image viewer settings.": [
+        "تنظیمات نمایشگر عکس"
+    ],
+    "schema\u0004Inline Completer": [
+        "تکمیل‌کننده درون‌خطی"
+    ],
+    "schema\u0004Inline completer settings.": [
+        "تنظیمات تکمیل‌کننده درون خطی"
+    ],
+    "schema\u0004Inspector": [
+        "crwdns11085:0crwdne11085:0"
+    ],
+    "schema\u0004Inspector Notebook": [
+        "crwdns11081:0crwdne11081:0"
+    ],
+    "schema\u0004Inspector Notebook settings.": [
+        "crwdns11079:0crwdne11079:0"
+    ],
+    "schema\u0004Inspector settings.": [
+        "crwdns11083:0crwdne11083:0"
+    ],
+    "schema\u0004JupyterHub": [
+        "مرکز فعالیت Jupyter"
+    ],
+    "schema\u0004JupyterHub settings.": [
+        "تنظیمات مرکز فعالیت Jupyter"
+    ],
+    "schema\u0004JupyterLab Shell": [
+        "شل آزمایشگاه Jupyter"
+    ],
+    "schema\u0004JupyterLab Shell layout settings.": [
+        "تنظیمات طرح بندی شل آزمایشگاه Jupyter"
+    ],
+    "schema\u0004JupyterLab context menu settings.": [
+        "crwdns10697:0crwdne10697:0"
+    ],
+    "schema\u0004Kernel dialogs": [
+        "تعاملات هسته"
+    ],
+    "schema\u0004Kernel dialogs settings.": [
+        "تنظیمات تعاملات هسته"
+    ],
+    "schema\u0004Kernels": [
+        "هسته‌ها"
+    ],
+    "schema\u0004Kernels and kernel sessions settings": [
+        "تنظیمات هسته‌ها و نشست‌های هسته"
+    ],
+    "schema\u0004Keyboard Shortcuts": [
+        "میانبرهای صفحه کلید"
+    ],
+    "schema\u0004Keyboard shortcut settings.": [
+        "تنظیمات میانبرهای صفحه کلید"
+    ],
+    "schema\u0004Language": [
+        "زبان"
+    ],
+    "schema\u0004Language Server Protocol settings.": [
+        "تنظیمات شیوه‌نامه زبان سرور"
+    ],
+    "schema\u0004Language Servers (Experimental)": [
+        "زبان سرورها (آزمایشی)"
+    ],
+    "schema\u0004Language settings.": [
+        "تنظیمات زبان"
+    ],
+    "schema\u0004Launcher": [
+        "صفحه اصلی"
+    ],
+    "schema\u0004Launcher settings.": [
+        "تنظیمات صفحه اصلی"
+    ],
+    "schema\u0004Log Console": [
+        "پیام کنسول"
+    ],
+    "schema\u0004Log Console settings.": [
+        "تنظیمات پیام کنسول"
+    ],
+    "schema\u0004Main JupyterLab menu settings.": [
+        "crwdns11105:0crwdne11105:0"
+    ],
+    "schema\u0004Main Menu": [
+        "منوی اصلی"
+    ],
+    "schema\u0004Markdown Viewer": [
+        "نمایشگر Markdown"
+    ],
+    "schema\u0004Markdown viewer settings.": [
+        "تنظیمات نمایشگر Markdown"
+    ],
+    "schema\u0004MathJax Plugin": [
+        "crwdns14853:0crwdne14853:0"
+    ],
+    "schema\u0004MathJax math renderer for JupyterLab": [
+        "crwdns14851:0crwdne14851:0"
+    ],
+    "schema\u0004Metadata Form": [
+        "برگه فراداده"
+    ],
+    "schema\u0004Notebook": [
+        "دفتر یادداشت"
+    ],
+    "schema\u0004Notebook Completer": [
+        "تکمیل‌کننده دفتر یادداشت"
+    ],
+    "schema\u0004Notebook Export": [
+        "برون بری دفتر یادداشت"
+    ],
+    "schema\u0004Notebook Export settings.": [
+        "تنظیمات برون بری دفتر یادداشت"
+    ],
+    "schema\u0004Notebook Panel": [
+        "صفحه دفتر یادداشت"
+    ],
+    "schema\u0004Notebook Panel settings.": [
+        "تنظیمات صفحه دفتر یادداشت"
+    ],
+    "schema\u0004Notebook Tooltips": [
+        "crwdns11343:0crwdne11343:0"
+    ],
+    "schema\u0004Notebook completer settings.": [
+        "تنظیمات تکمیل‌کننده دفتر یادداشت"
+    ],
+    "schema\u0004Notebook settings.": [
+        "تنظیمات دفتر یادداشت"
+    ],
+    "schema\u0004Notebook tooltip settings.": [
+        "crwdns11341:0crwdne11341:0"
+    ],
+    "schema\u0004Notifications": [
+        "اعلان‌ها"
+    ],
+    "schema\u0004Notifications settings.": [
+        "تنظیمات اعلان‌ها"
+    ],
+    "schema\u0004Print": [
+        "چاپ کردن"
+    ],
+    "schema\u0004Print settings.": [
+        "تنظیمات چاپ"
+    ],
+    "schema\u0004Property Inspector": [
+        "crwdns14745:0crwdne14745:0"
+    ],
+    "schema\u0004Property Inspector Settings.": [
+        "crwdns14743:0crwdne14743:0"
+    ],
+    "schema\u0004Sessions": [
+        "نشست‌ها"
+    ],
+    "schema\u0004Sessions Settings": [
+        "تنظیمات نشست‌ها"
+    ],
+    "schema\u0004Setting Editor": [
+        "ویرایشگر تنظیمات"
+    ],
+    "schema\u0004Setting editor settings.": [
+        "تنظیمات ویرایشگر تنظیمات"
+    ],
+    "schema\u0004Setting for the common tools": [
+        "crwdns14769:0crwdne14769:0"
+    ],
+    "schema\u0004Settings Editor Form UI": [
+        "ویرایشگر تنظیمات از UI"
+    ],
+    "schema\u0004Settings editor form ui settings.": [
+        "تنظیمات ویرایشگر تنظیمات از UI"
+    ],
+    "schema\u0004Settings of the metadata form extension.": [
+        "تنظیمات افزونه برگه فراداده"
+    ],
+    "schema\u0004Shortcut help settings.": [
+        "crwdns14765:0crwdne14765:0"
+    ],
+    "schema\u0004Shortcuts Help": [
+        "crwdns14767:0crwdne14767:0"
+    ],
+    "schema\u0004Status Bar": [
+        "نوار وضعیت"
+    ],
+    "schema\u0004Status Bar settings.": [
+        "تنظیمات نوار وضعیت"
+    ],
+    "schema\u0004TSV Viewer": [
+        "نمایشگر TSV"
+    ],
+    "schema\u0004TSV Viewer settings.": [
+        "تنظیمات نمابشگر TSV"
+    ],
+    "schema\u0004Table of Contents": [
+        "جدول محتواها"
+    ],
+    "schema\u0004Terminal": [
+        "ترمینال"
+    ],
+    "schema\u0004Terminal settings.": [
+        "تنظیمات ترمینال"
+    ],
+    "schema\u0004Text Editor": [
+        "ویرایشگر متن"
+    ],
+    "schema\u0004Text editor settings for all CodeMirror editors.": [
+        "تنظیمات ویرایشگر متن برای همه ویرایشگرهای CodeMirror"
+    ],
+    "schema\u0004Text editor settings.": [
+        "تنظیمات ویرایشگر متن"
+    ],
+    "schema\u0004Theme": [
+        "زمینه"
+    ],
+    "schema\u0004Theme manager settings.": [
+        "تنظیمات مدیر زمینه"
+    ],
+    "schema\u0004Top Bar": [
+        "نوار بالا"
+    ],
+    "schema\u0004Top Bar settings.": [
+        "تنظیمات نوار بالا"
+    ],
+    "schema\u0004Workspace Indicator": [
+        "crwdns29417:0crwdne29417:0"
+    ],
+    "schema\u0004Workspace Indicator Settings": [
+        "crwdns29415:0crwdne29415:0"
+    ],
+    "schema\u0004Workspaces": [
+        "فضاهای کاری"
+    ],
+    "schema\u0004Workspaces Menu": [
+        "منوی فضاهای کاری"
+    ],
+    "schema\u0004Workspaces Sidebar": [
+        "crwdns16932:0crwdne16932:0"
+    ],
+    "schema\u0004Workspaces settings.": [
+        "تنظیمات فضاهای کاری"
+    ],
+    "settings\u0004'defer': Improve loading time - Wait for idle CPU cycles to attach out of viewport cells - 'full': Best performance with side effects - Attach to the DOM only cells in viewport - 'none': Worst performance without side effects - Attach all cells to the viewport": [
+        "crwdns15923:0crwdne15923:0"
+    ],
+    "settings\u0004A regular expression filter to apply by default when showing the kernel sources": [
+        "crwdns10915:0crwdne10915:0"
+    ],
+    "settings\u0004Activate": [
+        "فعال کردن"
+    ],
+    "settings\u0004Adaptive Theme": [
+        "crwdns16656:0crwdne16656:0"
+    ],
+    "settings\u0004Add a prefix to localized strings.": [
+        "crwdns11359:0crwdne11359:0"
+    ],
+    "settings\u0004Add accessibility elements for use with screen readers.": [
+        "crwdns11299:0crwdne11299:0"
+    ],
+    "settings\u0004Allow named properties": [
+        "crwdns17158:0crwdne17158:0"
+    ],
+    "settings\u0004Allowed URL Scheme": [
+        "crwdns14579:0crwdne14579:0"
+    ],
+    "settings\u0004Always": [
+        "همیشه"
+    ],
+    "settings\u0004Always show": [
+        "همیشه نمایش ده"
+    ],
+    "settings\u0004An item is defined by a 'name', a 'command' name, and an 'icon' name": [
+        "crwdns10781:0crwdne10781:0"
+    ],
+    "settings\u0004Application Context Menu": [
+        "crwdns10699:0crwdne10699:0"
+    ],
+    "settings\u0004Application-level dark visual styling theme. Ignored when Adaptive Theme is disabled.": [
+        "crwdns16658:0crwdne16658:0"
+    ],
+    "settings\u0004Application-level light visual styling theme. Ignored when Adaptive Theme is disabled.": [
+        "crwdns16662:0crwdne16662:0"
+    ],
+    "settings\u0004Application-level visual styling theme": [
+        "crwdns29212:0crwdne29212:0"
+    ],
+    "settings\u0004Application-level visual styling theme. Ignored when Adaptive Theme is enabled.": [
+        "crwdns16666:0crwdne16666:0"
+    ],
+    "settings\u0004Ask (None)": [
+        "crwdns29365:0crwdne29365:0"
+    ],
+    "settings\u0004Ask for confirmation to close a document": [
+        "crwdns14589:0crwdne14589:0"
+    ],
+    "settings\u0004Ask servers to send trace notifications": [
+        "crwdns14847:0crwdne14847:0"
+    ],
+    "settings\u0004Auto Collapse Debugger Sidebar": [
+        "crwdns10913:0crwdne10913:0"
+    ],
+    "settings\u0004Autocompletion setting.": [
+        "crwdns14781:0crwdne14781:0"
+    ],
+    "settings\u0004Autolink URL replacement": [
+        "crwdns14763:0crwdne14763:0"
+    ],
+    "settings\u0004Automatically Start Preferred Kernel": [
+        "crwdns14871:0crwdne14871:0"
+    ],
+    "settings\u0004Automatically render markdown when cursor leaves markdown cells": [
+        "crwdns29399:0crwdne29399:0"
+    ],
+    "settings\u0004Autosave Documents": [
+        "crwdns10935:0crwdne10935:0"
+    ],
+    "settings\u0004Autosave Interval": [
+        "crwdns10939:0crwdne10939:0"
+    ],
+    "settings\u0004Base configuration used by all CodeMirror editors.": [
+        "crwdns14773:0crwdne14773:0"
+    ],
+    "settings\u0004Base level for the highest headings": [
+        "crwdns15949:0crwdne15949:0"
+    ],
+    "settings\u0004Blinking cursor": [
+        "crwdns16720:0crwdne16720:0"
+    ],
+    "settings\u0004Bottom": [
+        "crwdns29381:0crwdne29381:0"
+    ],
+    "settings\u0004CSV Viewer": [
+        "crwdns14583:0crwdne14583:0"
+    ],
+    "settings\u0004CSV viewer toolbar items": [
+        "crwdns10897:0crwdne10897:0"
+    ],
+    "settings\u0004Check for JupyterLab updates": [
+        "crwdns14561:0crwdne14561:0"
+    ],
+    "settings\u0004Clear Cells on Execute": [
+        "crwdns29369:0crwdne29369:0"
+    ],
+    "settings\u0004Clear Code Content on Execute": [
+        "crwdns29373:0crwdne29373:0"
+    ],
+    "settings\u0004Close on exit": [
+        "crwdns11277:0crwdne11277:0"
+    ],
+    "settings\u0004Close the widget when exiting the terminal.": [
+        "crwdns11275:0crwdne11275:0"
+    ],
+    "settings\u0004Code Cell Configuration": [
+        "crwdns11157:0crwdne11157:0"
+    ],
+    "settings\u0004Code Completer": [
+        "crwdns16698:0crwdne16698:0"
+    ],
+    "settings\u0004Code Completion settings": [
+        "crwdns29222:0crwdne29222:0"
+    ],
+    "settings\u0004Code Console Settings": [
+        "crwdns10877:0crwdne10877:0"
+    ],
+    "settings\u0004CodeMirror": [
+        "crwdns10795:0crwdne10795:0"
+    ],
+    "settings\u0004Collapse the debugger sidebar when disabling the debugger on a document.": [
+        "crwdns10911:0crwdne10911:0"
+    ],
+    "settings\u0004Command Palette": [
+        "crwdns14573:0crwdne14573:0"
+    ],
+    "settings\u0004Command arguments": [
+        "crwdns10685:0crwdne10685:0"
+    ],
+    "settings\u0004Command id": [
+        "crwdns10687:0crwdne10687:0"
+    ],
+    "settings\u0004Completion providers rank setting.": [
+        "crwdns14787:0crwdne14787:0"
+    ],
+    "settings\u0004Configuration to be sent to language server over LSP when initialized: see the specific language server's documentation for more": [
+        "crwdns14821:0crwdne14821:0"
+    ],
+    "settings\u0004Console panel toolbar items": [
+        "crwdns29395:0crwdne29395:0"
+    ],
+    "settings\u0004Customize shell widget positioning": [
+        "crwdns14749:0crwdne14749:0"
+    ],
+    "settings\u0004Debugger": [
+        "crwdns10909:0crwdne10909:0"
+    ],
+    "settings\u0004Default Viewers": [
+        "crwdns10943:0crwdne10943:0"
+    ],
+    "settings\u0004Default cell type": [
+        "crwdns11161:0crwdne11161:0"
+    ],
+    "settings\u0004Default editor configuration": [
+        "crwdns14775:0crwdne14775:0"
+    ],
+    "settings\u0004Default kernel sources regexp filter": [
+        "crwdns10917:0crwdne10917:0"
+    ],
+    "settings\u0004Default timeout for a provider.": [
+        "crwdns14791:0crwdne14791:0"
+    ],
+    "settings\u0004Defines the maximum number of output cells to be rendered in the output area for cells with many outputs. The output area will have a head and the remaining outputs will be trimmed and not displayed unless the user clicks on the information message. Set to 0 to have the complete display.": [
+        "crwdns11179:0crwdne11179:0"
+    ],
+    "settings\u0004Defines the position and components of execution progress indicator.": [
+        "crwdns11171:0crwdne11171:0"
+    ],
+    "settings\u0004Disabled": [
+        "crwdns29347:0crwdne29347:0"
+    ],
+    "settings\u0004Disclaimed Status": [
+        "crwdns10969:0crwdne10969:0"
+    ],
+    "settings\u0004Display localized strings prefix": [
+        "crwdns11353:0crwdne11353:0"
+    ],
+    "settings\u0004Display notification if code cells are run while kernel is initializing.": [
+        "crwdns16712:0crwdne16712:0"
+    ],
+    "settings\u0004Display the `stringsPrefix` on localized strings.": [
+        "crwdns11351:0crwdne11351:0"
+    ],
+    "settings\u0004Document Manager": [
+        "crwdns10931:0crwdne10931:0"
+    ],
+    "settings\u0004Document Search": [
+        "crwdns14591:0crwdne14591:0"
+    ],
+    "settings\u0004Documentation panel setting.": [
+        "crwdns14793:0crwdne14793:0"
+    ],
+    "settings\u0004Don't show": [
+        "crwdns29413:0crwdne29413:0"
+    ],
+    "settings\u0004Editor": [
+        "crwdns11047:0crwdne11047:0"
+    ],
+    "settings\u0004Editor Configuration": [
+        "crwdns11051:0crwdne11051:0"
+    ],
+    "settings\u0004Editor resize delay": [
+        "crwdns17132:0crwdne17132:0"
+    ],
+    "settings\u0004Enable 1st headings numbering": [
+        "crwdns14917:0crwdne14917:0"
+    ],
+    "settings\u0004Enable autocompletion.": [
+        "crwdns14783:0crwdne14783:0"
+    ],
+    "settings\u0004Enable headings numbering": [
+        "crwdns14913:0crwdne14913:0"
+    ],
+    "settings\u0004Enable kernel history access from notebook cells. Enabling this allows you to scroll through kernel history from a given notebook cell.": [
+        "crwdns16708:0crwdne16708:0"
+    ],
+    "settings\u0004Enable or disable the language server services.": [
+        "crwdns14833:0crwdne14833:0"
+    ],
+    "settings\u0004Enable or disable the logging feature of the language servers.": [
+        "crwdns14841:0crwdne14841:0"
+    ],
+    "settings\u0004Enable pasting with Ctrl+V.  This can be disabled to use Ctrl+V in the vi editor, for instance.  This setting has no effect on macOS, where Cmd+V is available": [
+        "crwdns11295:0crwdne11295:0"
+    ],
+    "settings\u0004Enable undo/redo actions at the notebook document level.": [
+        "crwdns14877:0crwdne14877:0"
+    ],
+    "settings\u0004Enable/disable styling of the application scrollbars": [
+        "crwdns10753:0crwdne10753:0"
+    ],
+    "settings\u0004Enabled Status": [
+        "crwdns10977:0crwdne10977:0"
+    ],
+    "settings\u0004Enables extension manager.\nWARNING: installing untrusted extensions may be unsafe.": [
+        "crwdns14801:0crwdne14801:0"
+    ],
+    "settings\u0004Enables the undo/redo actions at the notebook document level; aka undoing within a cell may undo the latest notebook change that happen in another cell. This is deprecated and will be removed in 5.0.0.": [
+        "crwdns14875:0crwdne14875:0"
+    ],
+    "settings\u0004Extension Manager": [
+        "crwdns10965:0crwdne10965:0"
+    ],
+    "settings\u0004Fetch official Jupyter news": [
+        "crwdns14569:0crwdne14569:0"
+    ],
+    "settings\u0004File Browser": [
+        "crwdns10991:0crwdne10991:0"
+    ],
+    "settings\u0004File browser toolbar items": [
+        "crwdns11033:0crwdne11033:0"
+    ],
+    "settings\u0004Filter directories": [
+        "crwdns10995:0crwdne10995:0"
+    ],
+    "settings\u0004Filter folders": [
+        "crwdns16920:0crwdne16920:0"
+    ],
+    "settings\u0004Filter on file name with a fuzzy search": [
+        "crwdns11011:0crwdne11011:0"
+    ],
+    "settings\u0004Font Family": [
+        "crwdns10643:0crwdne10643:0"
+    ],
+    "settings\u0004Font Size": [
+        "crwdns10647:0crwdne10647:0"
+    ],
+    "settings\u0004Font family": [
+        "crwdns11281:0crwdne11281:0"
+    ],
+    "settings\u0004Font size": [
+        "crwdns11285:0crwdne11285:0"
+    ],
+    "settings\u0004For the side-by-side rendering, the side-by-side output ratio defines the width of the output vs the input. Set 1 for same size, > 1 for larger output, < 1 for smaller output.": [
+        "crwdns11227:0crwdne11227:0"
+    ],
+    "settings\u0004Global setting to define the rendering layout in notebooks. 'default' or 'side-by-side' are supported.": [
+        "crwdns11211:0crwdne11211:0"
+    ],
+    "settings\u0004HTML Viewer": [
+        "crwdns14603:0crwdne14603:0"
+    ],
+    "settings\u0004HTML viewer toolbar items": [
+        "crwdns11067:0crwdne11067:0"
+    ],
+    "settings\u0004Hidden mode of main panel widgets": [
+        "crwdns10713:0crwdne10713:0"
+    ],
+    "settings\u0004Hide Code Input": [
+        "crwdns29377:0crwdne29377:0"
+    ],
+    "settings\u0004Hide Front Matter": [
+        "crwdns10651:0crwdne10651:0"
+    ],
+    "settings\u0004If `true`, no toast notifications will be automatically displayed.": [
+        "crwdns14563:0crwdne14563:0"
+    ],
+    "settings\u0004If `true`, the kernel status progression will be displayed in the status bar otherwise it will be in the toolbar.": [
+        "crwdns11145:0crwdne11145:0"
+    ],
+    "settings\u0004If a provider can not return the response for a completer request before timeout, the result of this provider will be ignored. Value is in millisecond": [
+        "crwdns14789:0crwdne14789:0"
+    ],
+    "settings\u0004If defined, it will override the command caption": [
+        "crwdns16039:0crwdne16039:0"
+    ],
+    "settings\u0004If defined, it will override the command icon": [
+        "crwdns10769:0crwdne10769:0"
+    ],
+    "settings\u0004If defined, it will override the command label": [
+        "crwdns10773:0crwdne10773:0"
+    ],
+    "settings\u0004If set to true, a button is shown below collapsed headings, indicating how many cells are hidden beneath the collapsed heading.": [
+        "crwdns14891:0crwdne14891:0"
+    ],
+    "settings\u0004If set to true, when a heading is collapsed in the table of contents the corresponding section in the document is collapsed as well and vice versa. This inhibits the cell output headings.": [
+        "crwdns14919:0crwdne14919:0"
+    ],
+    "settings\u0004In 'full' windowing mode, this is the number of cells above and below the viewport.": [
+        "crwdns14885:0crwdne14885:0"
+    ],
+    "settings\u0004Include cell output in headings": [
+        "crwdns11321:0crwdne11321:0"
+    ],
+    "settings\u0004Inline Completer": [
+        "تکمیل‌کننده درون‌خطی"
+    ],
+    "settings\u0004Inline completion providers": [
+        "خدمات دهندگان تکمیل‌کننده درون‌خطی"
+    ],
+    "settings\u0004Input History Scope": [
+        "crwdns14881:0crwdne14881:0"
+    ],
+    "settings\u0004Interaction mode": [
+        "crwdns10881:0crwdne10881:0"
+    ],
+    "settings\u0004Item caption": [
+        "crwdns16041:0crwdne16041:0"
+    ],
+    "settings\u0004Item icon id": [
+        "crwdns10771:0crwdne10771:0"
+    ],
+    "settings\u0004Item label": [
+        "crwdns10775:0crwdne10775:0"
+    ],
+    "settings\u0004Item rank": [
+        "crwdns10691:0crwdne10691:0"
+    ],
+    "settings\u0004Item type": [
+        "crwdns10695:0crwdne10695:0"
+    ],
+    "settings\u0004Kernel": [
+        "crwdns29343:0crwdne29343:0"
+    ],
+    "settings\u0004Kernel Comms over subshells": [
+        "crwdns29353:0crwdne29353:0"
+    ],
+    "settings\u0004Kernel history access": [
+        "crwdns16710:0crwdne16710:0"
+    ],
+    "settings\u0004Kernel status icon configuration": [
+        "crwdns11173:0crwdne11173:0"
+    ],
+    "settings\u0004Keyboard Shortcuts": [
+        "crwdns11251:0crwdne11251:0"
+    ],
+    "settings\u0004Language": [
+        "crwdns11349:0crwdne11349:0"
+    ],
+    "settings\u0004Language Server": [
+        "crwdns14839:0crwdne14839:0"
+    ],
+    "settings\u0004Language Server Configurations": [
+        "crwdns14823:0crwdne14823:0"
+    ],
+    "settings\u0004Language integration": [
+        "crwdns14831:0crwdne14831:0"
+    ],
+    "settings\u0004Language locale": [
+        "crwdns11357:0crwdne11357:0"
+    ],
+    "settings\u0004Language-server specific configuration, keyed by implementation": [
+        "crwdns14837:0crwdne14837:0"
+    ],
+    "settings\u0004Left": [
+        "crwdns29385:0crwdne29385:0"
+    ],
+    "settings\u0004Length of save interval in seconds": [
+        "crwdns10937:0crwdne10937:0"
+    ],
+    "settings\u0004Limit inline completion lines": [
+        "crwdns17136:0crwdne17136:0"
+    ],
+    "settings\u0004Line Height": [
+        "crwdns10655:0crwdne10655:0"
+    ],
+    "settings\u0004Line Width": [
+        "crwdns10659:0crwdne10659:0"
+    ],
+    "settings\u0004Line height": [
+        "crwdns11289:0crwdne11289:0"
+    ],
+    "settings\u0004List of toolbar items": [
+        "crwdns10783:0crwdne10783:0"
+    ],
+    "settings\u0004Localized strings prefix": [
+        "crwdns11361:0crwdne11361:0"
+    ],
+    "settings\u0004Log Console": [
+        "crwdns11093:0crwdne11093:0"
+    ],
+    "settings\u0004Log communication": [
+        "crwdns14843:0crwdne14843:0"
+    ],
+    "settings\u0004Log entry count limit": [
+        "crwdns11101:0crwdne11101:0"
+    ],
+    "settings\u0004Margin for last modified timestamp check": [
+        "crwdns10947:0crwdne10947:0"
+    ],
+    "settings\u0004Markdown Cell Configuration": [
+        "crwdns11177:0crwdne11177:0"
+    ],
+    "settings\u0004Markdown Viewer": [
+        "crwdns10639:0crwdne10639:0"
+    ],
+    "settings\u0004Max acceptable difference, in milliseconds, between last modified timestamps on disk and client": [
+        "crwdns10945:0crwdne10945:0"
+    ],
+    "settings\u0004Maximal headings depth": [
+        "crwdns14909:0crwdne14909:0"
+    ],
+    "settings\u0004Maximum number of log entries to store in memory": [
+        "crwdns11099:0crwdne11099:0"
+    ],
+    "settings\u0004Menu icon id": [
+        "crwdns10673:0crwdne10673:0"
+    ],
+    "settings\u0004Menu items": [
+        "crwdns10677:0crwdne10677:0"
+    ],
+    "settings\u0004Menu label": [
+        "crwdns10679:0crwdne10679:0"
+    ],
+    "settings\u0004Menu rank": [
+        "crwdns10683:0crwdne10683:0"
+    ],
+    "settings\u0004Menu unique id": [
+        "crwdns10675:0crwdne10675:0"
+    ],
+    "settings\u0004Mnemonic index for the label": [
+        "crwdns10681:0crwdne10681:0"
+    ],
+    "settings\u0004Modal Command Palette": [
+        "crwdns10731:0crwdne10731:0"
+    ],
+    "settings\u0004Navigate files and directories with single click": [
+        "crwdns29230:0crwdne29230:0"
+    ],
+    "settings\u0004Navigate to current directory": [
+        "crwdns10999:0crwdne10999:0"
+    ],
+    "settings\u0004Navigate to current folder": [
+        "crwdns16924:0crwdne16924:0"
+    ],
+    "settings\u0004Never": [
+        "crwdns16684:0crwdne16684:0"
+    ],
+    "settings\u0004None": [
+        "crwdns16690:0crwdne16690:0"
+    ],
+    "settings\u0004Note: To disable a context menu item,\ncopy it to User Preferences and add the\n\"disabled\" key. The following example will disable Download item on files:\n{\n  \"contextMenu\": [\n    {\n      \"command\": \"filebrowser:download\",\n      \"selector\": \".jp-DirListing-item[data-isdir=\\\"false\\\"]\",\n      \"disabled\": true\n    }\n  ]\n}\n\nContext menu description:": [
+        "crwdns10701:0crwdne10701:0"
+    ],
+    "settings\u0004Note: To disable a item,\ncopy it to User Preferences and add the\n\"disabled\" key. The following example will disable the user menu:\n{\n  \"toolbar\": [\n    {\n      \"name\": \"user-menu\",\n      \"disabled\": true\n    }\n  ]\n}\n\nTop bar description:": [
+        "crwdns14755:0crwdne14755:0"
+    ],
+    "settings\u0004Note: To disable a menu or a menu item,\ncopy it to User Preferences and add the\n\"disabled\" key. The following example will disable\nthe \"Tabs\" menu and \"Restart Kernel and Run up to Selected Cell\"\nitem:\n{\n  \"menus\": [\n    {\n      \"id\": \"jp-mainmenu-tabs\",\n      \"disabled\": true\n    },\n    {\n      \"id\": \"jp-mainmenu-kernel\",\n      \"items\": [\n        {\n          \"command\": \"notebook:restart-and-run-to-selected\",\n          \"disabled\": true\n        }\n      ]\n    }\n  ]\n}\n\nMenu description:": [
+        "crwdns11125:0crwdne11125:0"
+    ],
+    "settings\u0004Note: To disable a toolbar item,\ncopy it to User Preferences and add the\n\"disabled\" key. The following example will disable the Interrupt button item:\n{\n  \"toolbar\": [\n    {\n      \"name\": \"interrupt\",\n      \"disabled\": true\n    }\n  ]\n}\n\nToolbar description:": [
+        "crwdns11139:0crwdne11139:0"
+    ],
+    "settings\u0004Note: To disable a toolbar item,\ncopy it to User Preferences and add the\n\"disabled\" key. The following example will disable the delimiter selector item:\n{\n  \"toolbar\": [\n    {\n      \"name\": \"delimiter\",\n      \"disabled\": true\n    }\n  ]\n}\n\nToolbar description:": [
+        "crwdns10895:0crwdne10895:0"
+    ],
+    "settings\u0004Note: To disable a toolbar item,\ncopy it to User Preferences and add the\n\"disabled\" key. The following example will disable the refresh item:\n{\n  \"toolbar\": [\n    {\n      \"name\": \"refresh\",\n      \"disabled\": true\n    }\n  ]\n}\n\nToolbar description:": [
+        "crwdns11065:0crwdne11065:0"
+    ],
+    "settings\u0004Note: To disable a toolbar item,\ncopy it to User Preferences and add the\n\"disabled\" key. The following example will disable the uploader button:\n{\n  \"toolbar\": [\n    {\n      \"name\": \"uploader\",\n      \"disabled\": true\n    }\n  ]\n}\n\nToolbar description:": [
+        "crwdns11031:0crwdne11031:0"
+    ],
+    "settings\u0004Note: To disable a toolbar item,\ncopy it to User Preferences and add the\n\"disabled\" key. Toolbar description:": [
+        "crwdns11053:0crwdne11053:0"
+    ],
+    "settings\u0004Notebook": [
+        "crwdns11153:0crwdne11153:0"
+    ],
+    "settings\u0004Notebook panel toolbar items": [
+        "crwdns11141:0crwdne11141:0"
+    ],
+    "settings\u0004Notify about code execution if kernel is initializing": [
+        "crwdns16714:0crwdne16714:0"
+    ],
+    "settings\u0004Number of cells to render outside de the viewport": [
+        "crwdns14887:0crwdne14887:0"
+    ],
+    "settings\u0004Number of cells to render outside the viewport": [
+        "crwdns29401:0crwdne29401:0"
+    ],
+    "settings\u0004Number of lines of inline completion to show before collapsing. Setting zero disables the limit.": [
+        "crwdns17134:0crwdne17134:0"
+    ],
+    "settings\u0004Number of lines to reserve for the ghost text with inline completion suggestion.": [
+        "crwdns17138:0crwdne17138:0"
+    ],
+    "settings\u0004Number of recently opened/closed files and directories to remember.": [
+        "crwdns16914:0crwdne16914:0"
+    ],
+    "settings\u0004On hover": [
+        "crwdns16682:0crwdne16682:0"
+    ],
+    "settings\u0004One subshell per comm": [
+        "crwdns29349:0crwdne29349:0"
+    ],
+    "settings\u0004One subshell per comm-target": [
+        "crwdns29351:0crwdne29351:0"
+    ],
+    "settings\u0004Option key on macOS can be used as meta key. This enables to use shortcuts such as option + f to move cursor forward one word": [
+        "crwdns11291:0crwdne11291:0"
+    ],
+    "settings\u0004Override theme CSS variables by setting key-value pairs here": [
+        "crwdns10749:0crwdne10749:0"
+    ],
+    "settings\u0004Overrides default widget position in the application layout\ne.g. to position terminals in the right sidebar in multiple documents mode and in the down are in single document mode, {\n  \"single\": { \"Terminal\": { \"area\": \"down\" } },\n  \"multiple\": { \"Terminal\": { \"area\": \"right\" } }\n}.": [
+        "crwdns14747:0crwdne14747:0"
+    ],
+    "settings\u0004Overrides for the default viewers for file types": [
+        "crwdns10941:0crwdne10941:0"
+    ],
+    "settings\u0004Paste with Ctrl+V": [
+        "crwdns11297:0crwdne11297:0"
+    ],
+    "settings\u0004Preferred Dark Theme": [
+        "crwdns16660:0crwdne16660:0"
+    ],
+    "settings\u0004Preferred Light Theme": [
+        "crwdns16664:0crwdne16664:0"
+    ],
+    "settings\u0004Prompt Cell Configuration": [
+        "crwdns10885:0crwdne10885:0"
+    ],
+    "settings\u0004Prompt Cell Position": [
+        "crwdns29389:0crwdne29389:0"
+    ],
+    "settings\u0004Providers with higher rank will be shown before the ones with lower rank, providers with negative rank are disabled.": [
+        "crwdns14785:0crwdne14785:0"
+    ],
+    "settings\u0004Rank of the server": [
+        "crwdns14827:0crwdne14827:0"
+    ],
+    "settings\u0004Raw Cell Configuration": [
+        "crwdns11197:0crwdne11197:0"
+    ],
+    "settings\u0004Recent Items Number": [
+        "crwdns16916:0crwdne16916:0"
+    ],
+    "settings\u0004Recording timing": [
+        "crwdns11201:0crwdne11201:0"
+    ],
+    "settings\u0004Rename Untitled File On First Save": [
+        "crwdns10951:0crwdne10951:0"
+    ],
+    "settings\u0004Render Timeout": [
+        "crwdns10663:0crwdne10663:0"
+    ],
+    "settings\u0004Rendering Layout": [
+        "crwdns11213:0crwdne11213:0"
+    ],
+    "settings\u0004Reserve lines for inline completion": [
+        "crwdns17140:0crwdne17140:0"
+    ],
+    "settings\u0004Reserve space for the longest candidate": [
+        "crwdns17144:0crwdne17144:0"
+    ],
+    "settings\u0004Right": [
+        "crwdns29387:0crwdne29387:0"
+    ],
+    "settings\u0004Scheme allowed by the HTML sanitizer.": [
+        "crwdns14577:0crwdne14577:0"
+    ],
+    "settings\u0004Screen Reader Mode": [
+        "crwdns11301:0crwdne11301:0"
+    ],
+    "settings\u0004Scroll behavior": [
+        "crwdns10807:0crwdne10807:0"
+    ],
+    "settings\u0004Scroll heading to top": [
+        "crwdns16648:0crwdne16648:0"
+    ],
+    "settings\u0004Scroll past last cell": [
+        "crwdns11217:0crwdne11217:0"
+    ],
+    "settings\u0004Scrollback Buffer": [
+        "crwdns11305:0crwdne11305:0"
+    ],
+    "settings\u0004Scrollbar Theming": [
+        "crwdns10755:0crwdne10755:0"
+    ],
+    "settings\u0004Search debounce time (ms)": [
+        "crwdns10959:0crwdne10959:0"
+    ],
+    "settings\u0004Search in selection automatically": [
+        "crwdns16702:0crwdne16702:0"
+    ],
+    "settings\u0004Selected Theme": [
+        "crwdns10759:0crwdne10759:0"
+    ],
+    "settings\u0004Set the interface display language. Examples: 'es_CO', 'fr_FR'. Set 'default' to use the server default locale. Requires corresponding language pack to be installed.": [
+        "crwdns14605:0crwdne14605:0"
+    ],
+    "settings\u0004Set the type of editor to use while editing your settings.": [
+        "crwdns11239:0crwdne11239:0"
+    ],
+    "settings\u0004Should an editor be shown for read-only markdown": [
+        "crwdns11219:0crwdne11219:0"
+    ],
+    "settings\u0004Should timing data be recorded in cell metadata": [
+        "crwdns11199:0crwdne11199:0"
+    ],
+    "settings\u0004Show All Kernel Activity": [
+        "crwdns10889:0crwdne10889:0"
+    ],
+    "settings\u0004Show Banner": [
+        "crwdns29393:0crwdne29393:0"
+    ],
+    "settings\u0004Show a toolbar inside the active cell, if there is enough room for one": [
+        "crwdns29214:0crwdne29214:0"
+    ],
+    "settings\u0004Show cell toolbar": [
+        "crwdns29216:0crwdne29216:0"
+    ],
+    "settings\u0004Show editor for read-only Markdown cells": [
+        "crwdns11221:0crwdne11221:0"
+    ],
+    "settings\u0004Show execution progress.": [
+        "crwdns11149:0crwdne11149:0"
+    ],
+    "settings\u0004Show file size column": [
+        "crwdns14809:0crwdne14809:0"
+    ],
+    "settings\u0004Show full path in browser bread crumbs": [
+        "crwdns16706:0crwdne16706:0"
+    ],
+    "settings\u0004Show hidden cells button if collapsed": [
+        "crwdns14893:0crwdne14893:0"
+    ],
+    "settings\u0004Show hidden files": [
+        "crwdns11003:0crwdne11003:0"
+    ],
+    "settings\u0004Show if one or more": [
+        "crwdns29409:0crwdne29409:0"
+    ],
+    "settings\u0004Show input placeholder": [
+        "crwdns29405:0crwdne29405:0"
+    ],
+    "settings\u0004Show kernel status on toolbar or status bar.": [
+        "crwdns11147:0crwdne11147:0"
+    ],
+    "settings\u0004Show last modified column": [
+        "crwdns11007:0crwdne11007:0"
+    ],
+    "settings\u0004Show placeholder text for standard input fields (requires reload)": [
+        "crwdns29403:0crwdne29403:0"
+    ],
+    "settings\u0004Show shortcuts in the widget": [
+        "crwdns16676:0crwdne16676:0"
+    ],
+    "settings\u0004Show the documentation panel.": [
+        "crwdns14795:0crwdne14795:0"
+    ],
+    "settings\u0004Show the status bar item": [
+        "crwdns29357:0crwdne29357:0"
+    ],
+    "settings\u0004Show widget": [
+        "crwdns16686:0crwdne16686:0"
+    ],
+    "settings\u0004Shut down kernel": [
+        "crwdns11169:0crwdne11169:0"
+    ],
+    "settings\u0004Shut down on close": [
+        "crwdns11309:0crwdne11309:0"
+    ],
+    "settings\u0004Shut down the session when closing the terminal.": [
+        "crwdns11307:0crwdne11307:0"
+    ],
+    "settings\u0004Side-by-side left margin override": [
+        "crwdns11225:0crwdne11225:0"
+    ],
+    "settings\u0004Side-by-side left margin override.": [
+        "crwdns11223:0crwdne11223:0"
+    ],
+    "settings\u0004Side-by-side output ratio": [
+        "crwdns11229:0crwdne11229:0"
+    ],
+    "settings\u0004Side-by-side right margin override": [
+        "crwdns11233:0crwdne11233:0"
+    ],
+    "settings\u0004Side-by-side right margin override.": [
+        "crwdns11231:0crwdne11231:0"
+    ],
+    "settings\u0004Silence all notifications": [
+        "crwdns14565:0crwdne14565:0"
+    ],
+    "settings\u0004Skip kernel restart Dialog": [
+        "crwdns29208:0crwdne29208:0"
+    ],
+    "settings\u0004Start mode: ``, `single` or `multiple`": [
+        "crwdns14751:0crwdne14751:0"
+    ],
+    "settings\u0004Status Bar": [
+        "crwdns11259:0crwdne11259:0"
+    ],
+    "settings\u0004Status Bar Item flash": [
+        "crwdns11097:0crwdne11097:0"
+    ],
+    "settings\u0004Status Bar Visibility": [
+        "crwdns11267:0crwdne11267:0"
+    ],
+    "settings\u0004Streaming animation": [
+        "crwdns16694:0crwdne16694:0"
+    ],
+    "settings\u0004Submenu definition": [
+        "crwdns10693:0crwdne10693:0"
+    ],
+    "settings\u0004Suppress when the inline completer is active": [
+        "crwdns29226:0crwdne29226:0"
+    ],
+    "settings\u0004Suppress when the tab completer is active": [
+        "crwdns29220:0crwdne29220:0"
+    ],
+    "settings\u0004Synchronize collapse state": [
+        "crwdns11329:0crwdne11329:0"
+    ],
+    "settings\u0004Synchronize visual styling theme with system settings": [
+        "crwdns16654:0crwdne16654:0"
+    ],
+    "settings\u0004TSV Viewer": [
+        "crwdns14585:0crwdne14585:0"
+    ],
+    "settings\u0004TSV viewer toolbar items": [
+        "crwdns10903:0crwdne10903:0"
+    ],
+    "settings\u0004Table of Contents": [
+        "crwdns11317:0crwdne11317:0"
+    ],
+    "settings\u0004Terminal": [
+        "crwdns11273:0crwdne11273:0"
+    ],
+    "settings\u0004Text editor toolbar items": [
+        "crwdns11055:0crwdne11055:0"
+    ],
+    "settings\u0004The CSS selector for the context menu item.": [
+        "crwdns10703:0crwdne10703:0"
+    ],
+    "settings\u0004The amount of scrollback beyond initial viewport": [
+        "crwdns11303:0crwdne11303:0"
+    ],
+    "settings\u0004The application context menu.": [
+        "crwdns10705:0crwdne10705:0"
+    ],
+    "settings\u0004The application menu description.": [
+        "crwdns11127:0crwdne11127:0"
+    ],
+    "settings\u0004The configuration for all code cells; it will override the CodeMirror default configuration.": [
+        "crwdns14873:0crwdne14873:0"
+    ],
+    "settings\u0004The configuration for all markdown cells; it will override the CodeMirror default configuration.": [
+        "crwdns14883:0crwdne14883:0"
+    ],
+    "settings\u0004The configuration for all prompt cells; it will override the CodeMirror default configuration.": [
+        "crwdns14799:0crwdne14799:0"
+    ],
+    "settings\u0004The configuration for all raw cells; it will override the CodeMirror default configuration.": [
+        "crwdns14889:0crwdne14889:0"
+    ],
+    "settings\u0004The configuration for all text editors; it will override the CodeMirror default configuration.\nIf `fontFamily`, `fontSize` or `lineHeight` are `null`,\nvalues from current theme are used.": [
+        "crwdns14813:0crwdne14813:0"
+    ],
+    "settings\u0004The debounce time in milliseconds applied to the search input field. The already opened input files will not be updated if you change that value": [
+        "crwdns10957:0crwdne10957:0"
+    ],
+    "settings\u0004The default type (markdown, code, or raw) for new cells": [
+        "crwdns11159:0crwdne11159:0"
+    ],
+    "settings\u0004The font family used to render markdown.\nIf `null`, value from current theme is used.": [
+        "crwdns10641:0crwdne10641:0"
+    ],
+    "settings\u0004The font family used to render text.": [
+        "crwdns11279:0crwdne11279:0"
+    ],
+    "settings\u0004The font size used to render text.": [
+        "crwdns11283:0crwdne11283:0"
+    ],
+    "settings\u0004The line height used to render markdown.\nIf `null`, value from current theme is used.": [
+        "crwdns10653:0crwdne10653:0"
+    ],
+    "settings\u0004The line height used to render text.": [
+        "crwdns11287:0crwdne11287:0"
+    ],
+    "settings\u0004The list of keyboard shortcuts.": [
+        "crwdns11253:0crwdne11253:0"
+    ],
+    "settings\u0004The maximum number of output cells to be rendered in the output area.": [
+        "crwdns11181:0crwdne11181:0"
+    ],
+    "settings\u0004The method for hiding widgets in the main dock panel. Using `scale` will increase performance on Firefox but don't use it with Chrome, Chromium or Edge. Similar performance gains are seen with `contentVisibility` which is only available in Chromium-based browsers.": [
+        "crwdns14555:0crwdne14555:0"
+    ],
+    "settings\u0004The mode under which JupyterLab should start. If empty, the mode will be imposed by the URL": [
+        "crwdns11261:0crwdne11261:0"
+    ],
+    "settings\u0004The number headings start at.": [
+        "crwdns15947:0crwdne15947:0"
+    ],
+    "settings\u0004The property set up by extension": [
+        "crwdns14863:0crwdne14863:0"
+    ],
+    "settings\u0004The rank of the section in the right panel": [
+        "crwdns14859:0crwdne14859:0"
+    ],
+    "settings\u0004The render timeout in milliseconds.": [
+        "crwdns10661:0crwdne10661:0"
+    ],
+    "settings\u0004The section ID": [
+        "crwdns14855:0crwdne14855:0"
+    ],
+    "settings\u0004The section label": [
+        "crwdns14857:0crwdne14857:0"
+    ],
+    "settings\u0004The size in pixel of the font used to render markdown.\nIf `null`, value from current theme is used.": [
+        "crwdns10645:0crwdne10645:0"
+    ],
+    "settings\u0004The text line width expressed in CSS ch units.\nIf `null`, lines fit the viewport width.": [
+        "crwdns10657:0crwdne10657:0"
+    ],
+    "settings\u0004The theme for the terminal.": [
+        "crwdns11311:0crwdne11311:0"
+    ],
+    "settings\u0004Theme": [
+        "crwdns10829:0crwdne10829:0"
+    ],
+    "settings\u0004Theme CSS Overrides": [
+        "crwdns10751:0crwdne10751:0"
+    ],
+    "settings\u0004Theme Manager": [
+        "crwdns10747:0crwdne10747:0"
+    ],
+    "settings\u0004Top": [
+        "crwdns29383:0crwdne29383:0"
+    ],
+    "settings\u0004Top bar items": [
+        "crwdns14757:0crwdne14757:0"
+    ],
+    "settings\u0004Transition effect used when streaming tokens from model.": [
+        "crwdns16688:0crwdne16688:0"
+    ],
+    "settings\u0004Treat option as meta key on macOS": [
+        "crwdns11293:0crwdne11293:0"
+    ],
+    "settings\u0004Trust HTML by default": [
+        "crwdns14819:0crwdne14819:0"
+    ],
+    "settings\u0004Type of editor for the setting.": [
+        "crwdns11241:0crwdne11241:0"
+    ],
+    "settings\u0004Uncover": [
+        "crwdns16692:0crwdne16692:0"
+    ],
+    "settings\u0004Unique name": [
+        "crwdns10777:0crwdne10777:0"
+    ],
+    "settings\u0004Use checkboxes to select items": [
+        "crwdns14805:0crwdne14805:0"
+    ],
+    "settings\u0004Variable filter": [
+        "crwdns10921:0crwdne10921:0"
+    ],
+    "settings\u0004Variables to filter out in the tree and table viewers": [
+        "crwdns10919:0crwdne10919:0"
+    ],
+    "settings\u0004When an inline completion gets cancelled the editor may change its size rapidly. When typing in the editor, the completions may get dismissed frequently causing a noticeable jitter of the editor height. Adding a delay prevents the jitter on typing. The value should be in milliseconds.": [
+        "crwdns17130:0crwdne17130:0"
+    ],
+    "settings\u0004When multiple completions are returned, reserve blank space for up to as many lines as in the longest completion candidate to avoid resizing editor when cycling between the suggestions.": [
+        "crwdns17142:0crwdne17142:0"
+    ],
+    "settings\u0004When multiple servers match specific document/language, the server with the highest rank will be used": [
+        "crwdns14825:0crwdne14825:0"
+    ],
+    "settings\u0004When sorting by name, group notebooks before other files": [
+        "crwdns15945:0crwdne15945:0"
+    ],
+    "settings\u0004When starting search, the 'search in selection' mode will be enabled if `any` text/cell is selected, or when `multiple` lines or cells are selected, or `never`.": [
+        "crwdns16700:0crwdne16700:0"
+    ],
+    "settings\u0004When to show the inline completer widget.": [
+        "crwdns16678:0crwdne16678:0"
+    ],
+    "settings\u0004Where to place the prompt cell of the console.": [
+        "crwdns29379:0crwdne29379:0"
+    ],
+    "settings\u0004Whether comm messages should be sent to kernel subshells, if the kernel supports it.": [
+        "crwdns29345:0crwdne29345:0"
+    ],
+    "settings\u0004Whether the application context (right-click) menu is disabled": [
+        "crwdns29339:0crwdne29339:0"
+    ],
+    "settings\u0004Whether the command palette should be modal or in the left panel.": [
+        "crwdns10729:0crwdne10729:0"
+    ],
+    "settings\u0004Whether the console defaults to showing all\nkernel activity or just kernel activity originating from itself.": [
+        "crwdns10887:0crwdne10887:0"
+    ],
+    "settings\u0004Whether the console interaction mimics the notebook\nor terminal keyboard shortcuts.": [
+        "crwdns10879:0crwdne10879:0"
+    ],
+    "settings\u0004Whether the item is disabled or not": [
+        "crwdns10689:0crwdne10689:0"
+    ],
+    "settings\u0004Whether the item is ignored or not": [
+        "crwdns10767:0crwdne10767:0"
+    ],
+    "settings\u0004Whether the kernel restart confirmation dialog is skipped when restarting the kernel.": [
+        "crwdns29206:0crwdne29206:0"
+    ],
+    "settings\u0004Whether the line history for standard input (e.g. the ipdb prompt) should kept separately for different kernel sessions (`session`) or combined (`global`).": [
+        "crwdns14879:0crwdne14879:0"
+    ],
+    "settings\u0004Whether the menu is disabled or not": [
+        "crwdns10671:0crwdne10671:0"
+    ],
+    "settings\u0004Whether the user agrees the access to external web services and understands extensions may introduce security risks or contain malicious code that runs on his machine.": [
+        "crwdns14593:0crwdne14593:0"
+    ],
+    "settings\u0004Whether to allow single click selection on file browser items": [
+        "crwdns29228:0crwdne29228:0"
+    ],
+    "settings\u0004Whether to allow untrusted elements to include `name` and `id` attributes. These attributes are stripped by default to prevent DOM clobbering attacks.": [
+        "crwdns17156:0crwdne17156:0"
+    ],
+    "settings\u0004Whether to apply fuzzy algorithm while filtering on file names": [
+        "crwdns11009:0crwdne11009:0"
+    ],
+    "settings\u0004Whether to apply the search on directories": [
+        "crwdns10993:0crwdne10993:0"
+    ],
+    "settings\u0004Whether to apply the search on folders": [
+        "crwdns16918:0crwdne16918:0"
+    ],
+    "settings\u0004Whether to ask for confirmation to close a document or not.": [
+        "crwdns14587:0crwdne14587:0"
+    ],
+    "settings\u0004Whether to ask server to send logs with execution trace (for debugging). Accepted values are: \"off\", \"messages\", \"verbose\". Servers are allowed to ignore this request.": [
+        "crwdns14845:0crwdne14845:0"
+    ],
+    "settings\u0004Whether to automatically navigate to a document's current directory": [
+        "crwdns10997:0crwdne10997:0"
+    ],
+    "settings\u0004Whether to automatically navigate to a document's current folder": [
+        "crwdns16922:0crwdne16922:0"
+    ],
+    "settings\u0004Whether to automatically number the headings or not.": [
+        "crwdns14911:0crwdne14911:0"
+    ],
+    "settings\u0004Whether to automatically start the preferred kernel.": [
+        "crwdns14869:0crwdne14869:0"
+    ],
+    "settings\u0004Whether to autosave documents": [
+        "crwdns10933:0crwdne10933:0"
+    ],
+    "settings\u0004Whether to be able to scroll so the last cell is at the top of the panel": [
+        "crwdns11215:0crwdne11215:0"
+    ],
+    "settings\u0004Whether to blink the cursor. Changes require reopening the terminal.": [
+        "crwdns16718:0crwdne16718:0"
+    ],
+    "settings\u0004Whether to check for newer version of JupyterLab or not. It requires `fechNews` to be `true` to be active. If `true`, it will make a request to a website.": [
+        "crwdns29202:0crwdne29202:0"
+    ],
+    "settings\u0004Whether to check for newer version of JupyterLab or not. It requires `fetchNews` to be `true` to be active. If `true`, it will make a request to a website.": [
+        "crwdns16009:0crwdne16009:0"
+    ],
+    "settings\u0004Whether to check for newer versions of JupyterLab or not. It requires `fetchNews` to be set to Always (`true`) to be active. If `true`, it will make a request to a website.": [
+        "crwdns29361:0crwdne29361:0"
+    ],
+    "settings\u0004Whether to clear the code content of the console when code is executed.": [
+        "crwdns29371:0crwdne29371:0"
+    ],
+    "settings\u0004Whether to clear the console when code is executed.": [
+        "crwdns29367:0crwdne29367:0"
+    ],
+    "settings\u0004Whether to fetch news from Jupyter news feed. If `true`, it will make a request to a website.": [
+        "crwdns14567:0crwdne14567:0"
+    ],
+    "settings\u0004Whether to fetch news from the Jupyter news feed. If Always (`true`), it will make a request to a website.": [
+        "crwdns29363:0crwdne29363:0"
+    ],
+    "settings\u0004Whether to flash on new log message or not": [
+        "crwdns11095:0crwdne11095:0"
+    ],
+    "settings\u0004Whether to group the notebooks away from files": [
+        "crwdns15943:0crwdne15943:0"
+    ],
+    "settings\u0004Whether to hide YAML front matter.\nThe YAML front matter must be placed at the top of the document,\nstarted by a line of three dashes (---) and ended by a line of\nthree dashes (---) or three points (...).": [
+        "crwdns10649:0crwdne10649:0"
+    ],
+    "settings\u0004Whether to hide the code input after a cell is executed.": [
+        "crwdns29375:0crwdne29375:0"
+    ],
+    "settings\u0004Whether to include cell output in headings or not.": [
+        "crwdns14907:0crwdne14907:0"
+    ],
+    "settings\u0004Whether to number first-level headings or not.": [
+        "crwdns14915:0crwdne14915:0"
+    ],
+    "settings\u0004Whether to prompt to rename untitled file on first manual save.": [
+        "crwdns10949:0crwdne10949:0"
+    ],
+    "settings\u0004Whether to render markdown cells when the cursor moves out of them.": [
+        "crwdns29397:0crwdne29397:0"
+    ],
+    "settings\u0004Whether to replace URLs with links or not.": [
+        "crwdns14761:0crwdne14761:0"
+    ],
+    "settings\u0004Whether to scroll heading to the document top when selecting it in the table of contents.": [
+        "crwdns16716:0crwdne16716:0"
+    ],
+    "settings\u0004Whether to scroll heading to the document top when selecting it in the table of contents. Starting with JupyterLab 4.1 this setting will be enabled by default.": [
+        "crwdns29232:0crwdne29232:0"
+    ],
+    "settings\u0004Whether to scroll past the end of text document.": [
+        "crwdns14815:0crwdne14815:0"
+    ],
+    "settings\u0004Whether to show checkboxes next to files and folders": [
+        "crwdns14803:0crwdne14803:0"
+    ],
+    "settings\u0004Whether to show full path in browser bread crumbs": [
+        "crwdns16704:0crwdne16704:0"
+    ],
+    "settings\u0004Whether to show hidden files. The server parameter `ContentsManager.allow_hidden` must be set to `True` to display hidden files.": [
+        "crwdns14811:0crwdne14811:0"
+    ],
+    "settings\u0004Whether to show shortcuts in the inline completer widget.": [
+        "crwdns16674:0crwdne16674:0"
+    ],
+    "settings\u0004Whether to show status bar or not": [
+        "crwdns11265:0crwdne11265:0"
+    ],
+    "settings\u0004Whether to show that values have been modified from defaults": [
+        "crwdns14861:0crwdne14861:0"
+    ],
+    "settings\u0004Whether to show the file size column": [
+        "crwdns14807:0crwdne14807:0"
+    ],
+    "settings\u0004Whether to show the kernel banner.": [
+        "crwdns29391:0crwdne29391:0"
+    ],
+    "settings\u0004Whether to show the last modified column": [
+        "crwdns11005:0crwdne11005:0"
+    ],
+    "settings\u0004Whether to show the running kernels item in the status bar": [
+        "crwdns29355:0crwdne29355:0"
+    ],
+    "settings\u0004Whether to show the running terminals item in the status bar": [
+        "crwdns29407:0crwdne29407:0"
+    ],
+    "settings\u0004Whether to shut down or not the kernel when closing a notebook.": [
+        "crwdns11167:0crwdne11167:0"
+    ],
+    "settings\u0004Whether to suppress the inline completer when the tab completer suggestions are shown.": [
+        "crwdns29218:0crwdne29218:0"
+    ],
+    "settings\u0004Whether to suppress the tab completer when inline completions are presented.": [
+        "crwdns29224:0crwdne29224:0"
+    ],
+    "settings\u0004Whether to trust HTML files upon opening": [
+        "crwdns14817:0crwdne14817:0"
+    ],
+    "settings\u0004Windowing mode": [
+        "crwdns14897:0crwdne14897:0"
+    ],
+    "settings\u0004font-family": [
+        "crwdns10739:0crwdne10739:0"
+    ],
+    "settings\u0004font-size": [
+        "crwdns10741:0crwdne10741:0"
+    ],
+    "showErrorMessage\u0004\"%1\" is not a valid name for a file. Names must have nonzero length, and cannot include \"/\", \"\\\", or \":\"": [
+        "crwdns12123:0%1crwdne12123:0"
+    ],
+    "showErrorMessage\u0004Delete Failed": [
+        "crwdns12121:0crwdne12121:0"
+    ],
+    "showErrorMessage\u0004Duplicate file": [
+        "crwdns12151:0crwdne12151:0"
+    ],
+    "showErrorMessage\u0004Error while copying/moving files": [
+        "crwdns12119:0crwdne12119:0"
+    ],
+    "showErrorMessage\u0004Open directory": [
+        "crwdns12111:0crwdne12111:0"
+    ],
+    "showErrorMessage\u0004Paste Error": [
+        "crwdns12145:0crwdne12145:0"
+    ],
+    "showErrorMessage\u0004Rename Error": [
+        "crwdns12125:0crwdne12125:0"
+    ],
+    "showErrorMessage\u0004Shut down kernel": [
+        "crwdns12153:0crwdne12153:0"
+    ],
+    "showErrorMessage\u0004Upload Error": [
+        "crwdns12079:0crwdne12079:0"
+    ],
+    "side panel actions": [
+        "crwdns15679:0crwdne15679:0"
+    ],
+    "side panel content": [
+        "crwdns15681:0crwdne15681:0"
+    ],
+    "syntax error": [
+        "crwdns12805:0crwdne12805:0"
+    ],
+    "tab": [
+        "تورفتگی"
+    ],
+    "the Jupyter security documentation": [
+        "crwdns12673:0crwdne12673:0"
+    ],
+    "to": [
+        "crwdns15015:0crwdne15015:0"
+    ],
+    "troff": [
+        "troff"
+    ],
+    "type error": [
+        "خطای نوع"
+    ],
+    "unfold": [
+        "crwdns15019:0crwdne15019:0"
+    ],
+    "unknown": [
+        "crwdns15469:0crwdne15469:0"
+    ],
+    "v4\u0004Spaces: %1": [
+        "فاصله‌ها: %1"
+    ],
+    "waiting for fonts": [
+        "crwdns11473:0crwdne11473:0"
+    ],
+    "workspace-name": [
+        "workspace-name"
+    ],
+    "xu": [
+        "xu"
+    ],
+    "\u00a9 %1-%2 Project Jupyter Contributors": [
+        "\u00a9 %1-%2 توسعه‌دهندگان طرح Jupyter"
+    ],
+    "\u00a9 2015-2023 Project Jupyter Contributors": [
+        "crwdns14675:0crwdne14675:0"
+    ],
+    "\u2191\u2193 for history. Search history with c-\u2191/c-\u2193": [
+        "crwdns15635:0crwdne15635:0"
+    ]
+}
