@@ -1,0 +1,111 @@
+{
+    "": {
+        "domain": "jupyterlab_spreadsheet_editor",
+        "language": "ach-UG",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "jupyterlab"
+    },
+    " and %1 column": [
+        " و ستون %1",
+        "crwdns14269:5%1crwdne14269:5"
+    ],
+    "%1 row": [
+        "ردیف %1",
+        "crwdns14271:5%1crwdne14271:5"
+    ],
+    ", %1 column": [
+        "، ستون %1",
+        "crwdns14273:5%1crwdne14273:5"
+    ],
+    "CSV File": [
+        "پرونده CSV"
+    ],
+    "Copy": [
+        "رونوشت"
+    ],
+    "Create a new CSV file": [
+        "ایجاد یک پرونده CSV جدید"
+    ],
+    "Create a new TSV file": [
+        "ایجاد یک پرونده TSV جدید"
+    ],
+    "Delete Column": [
+        "حذف ستون"
+    ],
+    "Delete Row": [
+        "حذف ردیف"
+    ],
+    "First row as a header": [
+        "crwdns14239:0crwdne14239:0"
+    ],
+    "Fit columns width": [
+        "crwdns14233:0crwdne14233:0"
+    ],
+    "Freeze the initial columns (up to the selected column)": [
+        "crwdns14235:0crwdne14235:0"
+    ],
+    "Insert Column To The Left": [
+        "crwdns16906:0crwdne16906:0"
+    ],
+    "Insert Column To The Right": [
+        "crwdns16908:0crwdne16908:0"
+    ],
+    "Insert Row Above": [
+        "crwdns16904:0crwdne16904:0"
+    ],
+    "Insert Row Below": [
+        "crwdns16902:0crwdne16902:0"
+    ],
+    "Insert a column at the end": [
+        "crwdns14247:0crwdne14247:0"
+    ],
+    "Insert a row at the end": [
+        "crwdns14243:0crwdne14243:0"
+    ],
+    "New CSV File": [
+        "پرونده CSV جدید"
+    ],
+    "New TSV File": [
+        "پرونده TSV جدید"
+    ],
+    "Other": [
+        "سایر"
+    ],
+    "Paste": [
+        "جای‌گذاری"
+    ],
+    "Redo": [
+        "برگرداندن"
+    ],
+    "Remove the last column": [
+        "حذف ستون آخر"
+    ],
+    "Remove the last row": [
+        "حذف ردیف آخر"
+    ],
+    "Selected %1 row": [
+        "crwdns14267:1%1crwdne14267:1",
+        "crwdns14267:5%1crwdne14267:5"
+    ],
+    "Show/hide column types bar": [
+        "crwdns14241:0crwdne14241:0"
+    ],
+    "Show/hide row numbers": [
+        "crwdns14251:0crwdne14251:0"
+    ],
+    "TSV File": [
+        "پرونده TSV"
+    ],
+    "Undo": [
+        "لغو"
+    ],
+    "Unfreeze frozen column": [
+        "crwdns14237:0crwdne14237:0"
+    ],
+    "schema\u0004JupyterLab Spreadsheet Editor": [
+        "crwdns16892:0crwdne16892:0"
+    ],
+    "schema\u0004JupyterLab spreadsheet editor settings.": [
+        "crwdns16890:0crwdne16890:0"
+    ]
+}

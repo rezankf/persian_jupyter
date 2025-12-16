@@ -1,0 +1,23 @@
+{
+    "": {
+        "domain": "jupyterlab_widgets",
+        "language": "ach-UG",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "jupyterlab"
+    },
+    "Save Widget State Automatically": [
+        "ذخیره حالت ابزارک به‌صورت خودکار"
+    ],
+    "schema\u0004Jupyter Widgets": [
+        "ابزارک‌های Jupyter"
+    ],
+    "schema\u0004Jupyter widgets settings.": [
+        "تنظیمات ابزارک‌های Jupyter"
+    ],
+    "settings\u0004Automatically save Jupyter widget state when a notebook is saved.": [
+        "وقتی یک دفتر یادداشت ذخیره شود، به صورت خودکار حالت ابزارک Jupyter ذخیره می‌شود."
+    ],
+    "settings\u0004Save Jupyter widget state in notebooks": [
+        "ذخیره حالت ابزارک Jupyter در دفترهای یادداشت"
+    ]
+}
